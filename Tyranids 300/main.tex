@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{graphicx} 
+\usepackage{xcolor}
+\usepackage{tabularray}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{rotating}
+\usepackage{url}
+\usepackage{etoolbox}
+\usepackage{placeins}
+
+\AddToHook{cmd/section/before}{\FloatBarrier}
+\AddToHook{cmd/subsection/before}{\FloatBarrier}
+\AddToHook{cmd/subsubsection/before}{\FloatBarrier}
+
+\pretocmd{\section}{\clearpage}{}{}
+
+\title{Tyranids 3.0.0}
+\author{
+    \textbf{NetEpic Association} \\
+    \texttt{https://netepic-fr.com/}\\
+    \tiny{translated By Phusck}
+}
+\date{August 2026}
+
+\begin{document}
+
+\maketitle
+
+\input{Legal Notice}
+\input{Introduction}
+
+\input{Special Rules}
+\input{Special Abilities}
+
+\input{Unit Profiles}
+\input{Titan Weapons}
+\input{Army Formations}
+
+\input{Infantry}
+\input{Cavalry}
+\input{Walkers}
+\input{Vehicles}
+\input{Knights}
+\input{Super-heavies}
+\input{Titans}
+\input{Heavy Artillery}
+
+
+\end{document}
+

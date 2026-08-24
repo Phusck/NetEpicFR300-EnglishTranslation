@@ -1,0 +1,352 @@
+\section{Titan Weapons}
+
+\begin{table}[ht]
+    \centering
+
+    \resizebox{\textwidth}{!}{%
+        \begin{tblr}{
+            colspec={
+                Q[c,m,3]
+                Q[c,m,1]
+                Q[c,m,1.2]
+                Q[c,m,0.9]
+                Q[c,m,0.7]
+                Q[l,m,5.6]
+            },
+            cells={
+                valign=m
+            },
+            hlines,
+            vlines,
+            row{1}={
+                bg=black,
+                fg=white,
+                font=\bfseries,
+                ht=9mm,
+                halign=c
+            },
+            row{3,5,7,9}={
+                bg=violet!12
+            }
+        }
+            Weapon &
+            Range &
+            Dice &
+            To Hit &
+            AP &
+            Notes
+            \\
+
+            Bio-Cannon &
+            75~cm &
+            2 &
+            4+ &
+            $-3$ &
+            \textit{Damage (+1)}
+            \\
+
+            Spore Pods &
+            0~cm &
+            \SetCell{c,m}{Template\\15~cm} &
+            4+ &
+            0 &
+            \textit{Reduces Cover ($-3$), limited to one per Bio-Titan,
+            Spore Pods, increases DR to 4+}
+            \\
+
+            \SetCell{c,m}{Bile Spitter:\\Focused*\\Diffuse**} &
+            \SetCell{c,m}{60~cm\\60~cm} &
+            \SetCell{c,m}{3\\Template} &
+            \SetCell{c,m}{3+\\4+} &
+            \SetCell{c,m}{$-2$\\0} &
+            \SetCell{l,m}{
+                Choose one firing mode\par
+                *\textit{Reduces Cover ($-3$)}\par
+                **\textit{Template (12~cm), Reduces Cover ($-1$)}
+            }
+            \\
+
+            Spine Clusters &
+            30~cm &
+            Template &
+            3+ &
+            $-2$ &
+            \textit{Template (7.5~cm), Fires Twice}
+            \\
+
+            Pyro-Acid Jet &
+            0~cm &
+            Template &
+            4+ &
+            $-1$ &
+            \textit{Flame Template, Reduces Cover ($-3$)}
+            \\
+
+            \SetCell{c,m}{Razor Claws (Assault)\\Choose one effect} &
+            45~cm &
+            5 &
+            4+ &
+            0 &
+            \SetCell{l,m}{
+                -- Shooting\par
+                -- Adds 1D6 to AF, Damage (+2) in Assault\par
+                -- Damages Buildings (AP $-4$/3) in Assault\par
+                -- First Strike (1/2+/AP $-4$), Damage (+1)
+            }
+            \\
+
+            Dart Salvo &
+            45~cm &
+            6 &
+            4+ &
+            $-1$ &
+            --
+            \\
+
+            \SetCell{c,m}{Tentacles\\Choose one effect} &
+            20~cm &
+            1 &
+            2+ &
+            $-4$ &
+            \SetCell{l,m}{
+                -- Shooting: Damage (+1)\par
+                -- Entangle, Damage (+1) in Assault\par
+                -- First Strike (1/2+/AP $-4$), Damage (+1)
+            }
+        \end{tblr}%
+    }
+\end{table}
+
+
+\subsection{Weapon Costs}
+
+\begin{table}[ht]
+    \centering
+
+    \begin{tblr}{
+        width=0.48\textwidth,
+        colspec={
+            X[c,m,3]
+            Q[c,m,1]
+        },
+        cells={
+            valign=m
+        },
+        hlines,
+        vlines,
+        row{1}={
+            bg=black,
+            fg=white,
+            font=\bfseries,
+            ht=8mm,
+            halign=c
+        },
+        row{3,5,7,9}={
+            bg=violet!12
+        }
+    }
+        Weapon & Cost \\
+
+        Bio-Cannon & 75 \\
+
+        Spore Pods & 50 \\
+
+        Bile Spitter & 75 \\
+
+        Spine Clusters & 75 \\
+
+        Pyro-Acid Jet & 50 \\
+
+        Razor Claws & 75 \\
+
+        Dart Salvo & 75 \\
+
+        Tentacles & 50
+    \end{tblr}
+\end{table}
+
+\section{Hit Location Charts}
+
+\subsection{Alpha Hierodule / Hierophant Titan}
+
+\begin{table}[ht]
+    \centering
+
+    \begin{tblr}{
+        width=0.42\textwidth,
+        colspec={
+            Q[c,m,0.8]
+            X[l,m,3.5]
+        },
+        cells={
+            valign=m
+        },
+        hlines,
+        vlines,
+        row{1}={
+            bg=black,
+            fg=white,
+            font=\bfseries,
+            ht=8mm
+        },
+        row{3,5}={
+            bg=violet!12
+        }
+    }
+        D6 & Front/Rear Location \\
+
+        1--2 & Legs \\
+
+        3 & Weapon \\
+
+        4 & Head (front) / Abdomen (rear) \\
+
+        5 & Abdomen \\
+
+        6 & Player's choice
+    \end{tblr}
+\end{table}
+
+
+\subsection{Damage Effects}
+
+\noindent
+\begin{minipage}[t]{0.49\textwidth}
+    \vspace{0pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={
+            Q[c,m,0.7]
+            X[l,m,5.5]
+        },
+        cells={
+            valign=m
+        },
+        hlines,
+        vlines,
+        row{1,5,9}={
+            bg=black,
+            fg=white,
+            font=\bfseries,
+            halign=c
+        },
+        row{3,7,11,13}={
+            bg=violet!12
+        }
+    }
+        \SetCell[c=2]{c,m}\textbf{Body} &
+        \\
+
+        1 &
+        1 additional point of damage
+        \\
+
+        2 &
+        1 additional point of damage; reduce Regeneration by 1
+        \\
+
+        3+ &
+        2 additional points of damage
+        \\
+
+        \SetCell[c=2]{c,m}\textbf{Weapon} &
+        \\
+
+        1 &
+        Weapon damaged (Repair on 4+)
+        \\
+
+        2 &
+        Weapon destroyed
+        \\
+
+        3+ &
+        Damage to the Body
+        \\
+
+        \SetCell[c=2]{c,m}\textbf{Leg} &
+        \\
+
+        1 &
+        --
+        \\
+
+        2 &
+        Reduce the Titan's base Movement by 5~cm
+        (Repair on 4+). From this damage onward, the Titan falls
+        if it is destroyed.
+        \\
+
+        3 &
+        Reduce the Titan's base Movement by an additional 5~cm
+        (Repair on 4+)
+        \\
+
+        4 &
+        Immobilised; 1 additional point of damage
+        \\
+
+        5+ &
+        Damage to the Body
+    \end{tblr}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+    \vspace{0pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={
+            Q[c,m,0.7]
+            X[l,m,5.5]
+        },
+        cells={
+            valign=m
+        },
+        hlines,
+        vlines,
+        row{1,5}={
+            bg=black,
+            fg=white,
+            font=\bfseries,
+            halign=c
+        },
+        row{3,7}={
+            bg=violet!12
+        }
+    }
+        \SetCell[c=2]{c,m}\textbf{Head} &
+        \\
+
+        1 &
+        $-1$D6 to AF (Repair on 4+)
+        \\
+
+        2 &
+        May only receive an Order on a 4+
+        (Repair on 4+); 1 additional point of damage
+        \\
+
+        3+ &
+        Damage to the Body
+        \\
+
+        \SetCell[c=2]{c,m}\textbf{Abdomen} &
+        \\
+
+        1 &
+        $-1$ AF; lose 1D3 transported bases
+        \\
+
+        2 &
+        $-1$ AF; 1 additional point of damage;
+        lose 1D3 transported bases
+        \\
+
+        3+ &
+        $-1$ AF; damage to the Body; reduce Regeneration by 1;
+        lose all transported bases
+    \end{tblr}
+\end{minipage}
+
