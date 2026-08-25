@@ -1,18 +1,5 @@
-\documentclass{article}
-\usepackage{graphicx} 
-\usepackage{xcolor}
-\usepackage{tabularray}
-\usepackage[margin=0.75in]{geometry}
-\usepackage{rotating}
-\usepackage{url}
-\usepackage{etoolbox}
-\usepackage{placeins}
-
-\AddToHook{cmd/section/before}{\FloatBarrier}
-\AddToHook{cmd/subsection/before}{\FloatBarrier}
-\AddToHook{cmd/subsubsection/before}{\FloatBarrier}
-
-\pretocmd{\section}{\clearpage}{}{}
+\documentclass[a4paper]{article}
+\input{preamble}
 
 \title{Tyranids 3.0.0}
 \author{
@@ -26,25 +13,24 @@
 
 \maketitle
 
-\input{Legal Notice}
-\input{Introduction}
+\input{legal-notice}
+\input{introduction}
 
-\input{Special Rules}
-\input{Special Abilities}
+\input{special-rules}
+\input{special-abilities}
 
-\input{Unit Profiles}
-\input{Titan Weapons}
-\input{Army Formations}
+\input{unit-profiles}
+\input{titan-weapons}
+\input{army-formations}
 
-\input{Infantry}
-\input{Cavalry}
-\input{Walkers}
-\input{Vehicles}
-\input{Knights}
-\input{Super-heavies}
-\input{Titans}
-\input{Heavy Artillery}
+\input{infantry}
+\input{cavalry}
+\input{walkers}
+\input{vehicles}
+\input{knights}
+\input{super-heavies}
+\input{titans}
+\input{heavy-artillery}
 
 
 \end{document}
-

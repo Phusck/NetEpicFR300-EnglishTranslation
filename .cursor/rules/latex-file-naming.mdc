@@ -1,0 +1,20 @@
+---
+description: LaTeX file and folder naming
+alwaysApply: true
+---
+
+# LaTeX file and folder names
+
+Book folders keep the pattern `Tyranids 300` and `Rulebook 303`. French PDFs stay in `Originals/` with their original names.
+
+Each book has `main.tex` as the root and `preamble.tex` for local setup.
+
+Codices `\input{../shared/codex-preamble}` from that `preamble.tex` (A4, tables, `\unitdivider`, section page breaks). Book-specific extras stay in the local preamble. The rulebook keeps its own preamble.
+
+- Codex: flat folder, one kebab-case file per section (`special-rules.tex`)
+- Rulebook: numbered kebab-case chapter folders (`01-game-turn/movement-phase.tex`)
+- Images: `figures/`, kebab-case (`movement-a.png`)
+
+Names use only lowercase letters, digits, and hyphens. No spaces, underscores, or accents.
+
+`\input{legal-notice}` — do not include the `.tex` suffix.

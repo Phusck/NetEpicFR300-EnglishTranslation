@@ -1,0 +1,12 @@
+---
+description: Inspect LaTeX sources, not compiled English PDFs
+alwaysApply: true
+---
+
+# Inspect LaTeX, not English PDFs
+
+When checking, comparing, or editing a translation, read the `.tex` files. Do not treat compiled English PDFs (for example `Tyranids 300/main.pdf` or `Rulebook 303/main.pdf`) as current. Those PDFs may not have been rebuilt.
+
+French originals in `Originals/` are the source documents and should be compared against the LaTeX.
+
+If a PDF is needed to check layout after a rebuild, say so. Do not assume an existing English PDF matches the `.tex`.

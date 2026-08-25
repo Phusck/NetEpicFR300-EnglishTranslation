@@ -1,0 +1,21 @@
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tabularray}
+\usepackage[a4paper,margin=0.75in]{geometry}
+\usepackage{rotating}
+\usepackage{url}
+\usepackage{etoolbox}
+\usepackage{placeins}
+
+\AddToHook{cmd/section/before}{\FloatBarrier}
+\AddToHook{cmd/subsection/before}{\FloatBarrier}
+\AddToHook{cmd/subsubsection/before}{\FloatBarrier}
+
+\pretocmd{\section}{\clearpage}{}{}
+
+\newcommand{\unitdivider}{%
+    \par
+    \vspace{8pt}%
+    \hrule height 1.5pt
+    \vspace{8pt}%
+}

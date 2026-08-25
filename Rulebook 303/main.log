@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  19 AUG 2026 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  24 AUG 2026 20:28
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Phusc/Downloads/Palladium_Epic_Rulebook_Experiement/main
-(c:/Users/Phusc/Downloads/Palladium_Epic_Rulebook_Experiement/main.tex
+**main.tex
+(./main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -23,31 +22,40 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen150
-) (./Preamble.tex (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+) (./preamble.tex
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -57,13 +65,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
- (c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+
+(c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
- (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+
+(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-07-20 L3 programming layer (loader) 
- (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+(c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 ))
@@ -194,19 +207,25 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen265
 \l__tblr_last_vline_wd_dim=\dimen266
 \l__tblr_tikz_node_box=\box80
-) (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count324
-) (c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
- (c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+
+(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count325
@@ -221,9 +240,11 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen273
 \Gm@layoutvoffset=\dimen274
 \Gm@dimlist=\toks18
-) (c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+)
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen275
 \captionmargin=\dimen276
@@ -254,7 +275,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
- (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
 \scratchdimen=\dimen283
@@ -269,24 +291,27 @@ LaTeX Font Info:    ... okay on input line 8.
 \everyMPtoPDFconversion=\toks20
 ) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=505.89pt
-* \textheight=686.56499pt
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=736.64185pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
 * \topmargin=-55.06749pt
@@ -294,7 +319,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -311,7 +336,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 [1
 
-{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./00 - Intro/Intro Foot Note.tex
+{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./00-intro/intro-foot-note.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -320,145 +346,181 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-) (./00 - Intro/Introduction to NetEpic.tex [2{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3
+) (./00-intro/introduction-to-netepic.tex
+[2{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[3
 
 
-]) (./00 - Intro/Important Concepts.tex [4] [5
+]) (./00-intro/important-concepts.tex [4]
+<figures/coherency-a.png, id=27, 1182.66844pt x 788.19469pt>
+File: figures/coherency-a.png Graphic file (type png)
+<use figures/coherency-a.png>
+Package pdftex.def Info: figures/coherency-a.png  used on input line 58.
+(pdftex.def)             Requested size: 244.55144pt x 162.97607pt.
+ [5
 
 ]
-<00 - Intro/Coherency A.png, id=30, 1182.66844pt x 788.19469pt>
-File: 00 - Intro/Coherency A.png Graphic file (type png)
-<use 00 - Intro/Coherency A.png>
-Package pdftex.def Info: 00 - Intro/Coherency A.png  used on input line 58.
-(pdftex.def)             Requested size: 252.94499pt x 168.56856pt.
-<00 - Intro/Coherency B.png, id=32, 1181.91562pt x 790.45313pt>
-File: 00 - Intro/Coherency B.png Graphic file (type png)
-<use 00 - Intro/Coherency B.png>
-Package pdftex.def Info: 00 - Intro/Coherency B.png  used on input line 64.
-(pdftex.def)             Requested size: 252.94499pt x 169.16011pt.
- [6 <./00 - Intro/Coherency A.png> <./00 - Intro/Coherency B.png>] [7]
-Overfull \hbox (10.66801pt too wide) in paragraph at lines 197--197
+<figures/coherency-b.png, id=32, 1181.91562pt x 790.45313pt>
+File: figures/coherency-b.png Graphic file (type png)
+<use figures/coherency-b.png>
+Package pdftex.def Info: figures/coherency-b.png  used on input line 64.
+(pdftex.def)             Requested size: 244.55144pt x 163.5516pt.
+ [6 <./figures/coherency-a.png> <./figures/coherency-b.png>] [7]
+Overfull \hbox (11.72453pt too wide) in paragraph at lines 197--197
  []\OT1/cmr/bx/n/10 Morale 
  []
 
 
-Overfull \hbox (10.66801pt too wide) in paragraph at lines 197--197
+Overfull \hbox (11.72453pt too wide) in paragraph at lines 197--197
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-) (./00 - Intro/Preparing for Battle.tex [8] [9
+) (./00-intro/preparing-for-battle.tex [8] [9
 
-] [10]) (./01 - Game Turn/Game Turn.tex [11]) (./01 - Game Turn/Strategy Phase.tex [12
+] [10])
+(./01-game-turn/game-turn.tex [11]) (./01-game-turn/strategy-phase.tex [12
 
-] [13
+]
+[13
 
-]) (./01 - Game Turn/Movement Phase.tex [14]
-<01 - Game Turn/Movement A.png, id=67, 1770.615pt x 1184.17406pt>
-File: 01 - Game Turn/Movement A.png Graphic file (type png)
-<use 01 - Game Turn/Movement A.png>
-Package pdftex.def Info: 01 - Game Turn/Movement A.png  used on input line 52.
-(pdftex.def)             Requested size: 252.94499pt x 169.16214pt.
-<01 - Game Turn/Movement B.png, id=68, 1774.37906pt x 1190.19656pt>
-File: 01 - Game Turn/Movement B.png Graphic file (type png)
-<use 01 - Game Turn/Movement B.png>
-Package pdftex.def Info: 01 - Game Turn/Movement B.png  used on input line 63.
-(pdftex.def)             Requested size: 252.94499pt x 169.65926pt.
+]) (./01-game-turn/movement-phase.tex [14]
+<figures/movement-a.png, id=67, 1770.615pt x 1184.17406pt>
+File: figures/movement-a.png Graphic file (type png)
+<use figures/movement-a.png>
+Package pdftex.def Info: figures/movement-a.png  used on input line 52.
+(pdftex.def)             Requested size: 244.55144pt x 163.54268pt.
+<figures/movement-b.png, id=68, 1774.37906pt x 1190.19656pt>
+File: figures/movement-b.png Graphic file (type png)
+<use figures/movement-b.png>
+Package pdftex.def Info: figures/movement-b.png  used on input line 63.
+(pdftex.def)             Requested size: 244.55144pt x 164.02937pt.
+<figures/movement-c.png, id=69, 888.31876pt x 596.2275pt>
+File: figures/movement-c.png Graphic file (type png)
+<use figures/movement-c.png>
+Package pdftex.def Info: figures/movement-c.png  used on input line 74.
+(pdftex.def)             Requested size: 244.55144pt x 164.13138pt.
  [15
 
-] [16 <./01 - Game Turn/Movement A.png> <./01 - Game Turn/Movement B.png>]
-<01 - Game Turn/Movement C.png, id=77, 888.31876pt x 596.2275pt>
-File: 01 - Game Turn/Movement C.png Graphic file (type png)
-<use 01 - Game Turn/Movement C.png>
-Package pdftex.def Info: 01 - Game Turn/Movement C.png  used on input line 74.
-(pdftex.def)             Requested size: 252.94499pt x 169.77194pt.
-<01 - Game Turn/Movement D.png, id=78, 1775.88469pt x 1184.17406pt>
-File: 01 - Game Turn/Movement D.png Graphic file (type png)
-<use 01 - Game Turn/Movement D.png>
-Package pdftex.def Info: 01 - Game Turn/Movement D.png  used on input line 89.
-(pdftex.def)             Requested size: 252.94499pt x 168.6562pt.
-<01 - Game Turn/Movement E.png, id=79, 1769.10938pt x 1190.94937pt>
-File: 01 - Game Turn/Movement E.png Graphic file (type png)
-<use 01 - Game Turn/Movement E.png>
-Package pdftex.def Info: 01 - Game Turn/Movement E.png  used on input line 121.
-(pdftex.def)             Requested size: 252.94499pt x 170.27539pt.
- [17 <./01 - Game Turn/Movement C.png> <./01 - Game Turn/Movement D.png>] [18 <./01 - Game Turn/Movement E.png>]) (./01 - Game Turn/Combat Phase.tex [19] [20
+] [16 <./figures/movement-a.png> <./figures/movement-b.png>]
+<figures/movement-d.png, id=78, 1775.88469pt x 1184.17406pt>
+File: figures/movement-d.png Graphic file (type png)
+<use figures/movement-d.png>
+Package pdftex.def Info: figures/movement-d.png  used on input line 89.
+(pdftex.def)             Requested size: 244.55144pt x 163.05481pt.
+<figures/movement-e.png, id=79, 1769.10938pt x 1190.94937pt>
+File: figures/movement-e.png Graphic file (type png)
+<use figures/movement-e.png>
+Package pdftex.def Info: figures/movement-e.png  used on input line 121.
+(pdftex.def)             Requested size: 244.55144pt x 164.62378pt.
+ [17 <./figures/movement-c.png> <./figures/movement-d.png>] [18 <./figures/move
+ment-e.png>]) (./01-game-turn/combat-phase.tex
+[19] [20
 
 ]
-<01 - Game Turn/Combat A.png, id=96, 1771.36781pt x 1187.93813pt>
-File: 01 - Game Turn/Combat A.png Graphic file (type png)
-<use 01 - Game Turn/Combat A.png>
-Package pdftex.def Info: 01 - Game Turn/Combat A.png  used on input line 77.
-(pdftex.def)             Requested size: 252.94499pt x 169.62733pt.
-<01 - Game Turn/Combat B.png, id=97, 1772.87344pt x 1180.41pt>
-File: 01 - Game Turn/Combat B.png Graphic file (type png)
-<use 01 - Game Turn/Combat B.png>
-Package pdftex.def Info: 01 - Game Turn/Combat B.png  used on input line 85.
-(pdftex.def)             Requested size: 252.94499pt x 168.4083pt.
- [21 <./01 - Game Turn/Combat A.png> <./01 - Game Turn/Combat B.png>] [22]
-<01 - Game Turn/Combat C.png, id=107, 1769.10938pt x 1184.17406pt>
-File: 01 - Game Turn/Combat C.png Graphic file (type png)
-<use 01 - Game Turn/Combat C.png>
-Package pdftex.def Info: 01 - Game Turn/Combat C.png  used on input line 204.
-(pdftex.def)             Requested size: 252.94499pt x 169.30669pt.
+<figures/combat-a.png, id=96, 1771.36781pt x 1187.93813pt>
+File: figures/combat-a.png Graphic file (type png)
+<use figures/combat-a.png>
+Package pdftex.def Info: figures/combat-a.png  used on input line 77.
+(pdftex.def)             Requested size: 244.55144pt x 163.99002pt.
+<figures/combat-b.png, id=97, 1772.87344pt x 1180.41pt>
+File: figures/combat-b.png Graphic file (type png)
+<use figures/combat-b.png>
+Package pdftex.def Info: figures/combat-b.png  used on input line 85.
+(pdftex.def)             Requested size: 244.55144pt x 162.8247pt.
+ [21 <./figures/combat-a.png> <./figures/combat-b.png>] [22]
+<figures/combat-c.png, id=107, 1769.10938pt x 1184.17406pt>
+File: figures/combat-c.png Graphic file (type png)
+<use figures/combat-c.png>
+Package pdftex.def Info: figures/combat-c.png  used on input line 204.
+(pdftex.def)             Requested size: 244.55144pt x 163.68723pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 206.
  [23]
-<01 - Game Turn/Combat D.png, id=111, 1781.15437pt x 1198.4775pt>
-File: 01 - Game Turn/Combat D.png Graphic file (type png)
-<use 01 - Game Turn/Combat D.png>
-Package pdftex.def Info: 01 - Game Turn/Combat D.png  used on input line 220.
-(pdftex.def)             Requested size: 252.94499pt x 170.18134pt.
- [24 <./01 - Game Turn/Combat C.png>]
-<01 - Game Turn/Combat E.png, id=117, 1774.37906pt x 1187.93813pt>
-File: 01 - Game Turn/Combat E.png Graphic file (type png)
-<use 01 - Game Turn/Combat E.png>
-Package pdftex.def Info: 01 - Game Turn/Combat E.png  used on input line 240.
-(pdftex.def)             Requested size: 252.94499pt x 169.33733pt.
- [25 <./01 - Game Turn/Combat D.png>] [26 <./01 - Game Turn/Combat E.png>]
-<01 - Game Turn/Combat F.png, id=127, 1780.40157pt x 1193.96063pt>
-File: 01 - Game Turn/Combat F.png Graphic file (type png)
-<use 01 - Game Turn/Combat F.png>
-Package pdftex.def Info: 01 - Game Turn/Combat F.png  used on input line 296.
-(pdftex.def)             Requested size: 252.94499pt x 169.61282pt.
-<01 - Game Turn/Combat G.png, id=128, 1215.79219pt x 819.8128pt>
-File: 01 - Game Turn/Combat G.png Graphic file (type png)
-<use 01 - Game Turn/Combat G.png>
-Package pdftex.def Info: 01 - Game Turn/Combat G.png  used on input line 303.
-(pdftex.def)             Requested size: 252.94499pt x 170.55206pt.
-) (./01 - Game Turn/End Phase.tex [27 <./01 - Game Turn/Combat F.png> <./01 - Game Turn/Combat G.png>]) (./02 - Something/Morale.tex [28
+<figures/combat-d.png, id=111, 1781.15437pt x 1198.4775pt>
+File: figures/combat-d.png Graphic file (type png)
+<use figures/combat-d.png>
+Package pdftex.def Info: figures/combat-d.png  used on input line 220.
+(pdftex.def)             Requested size: 244.55144pt x 164.54886pt.
+
+[24 <./figures/combat-c.png> <./figures/combat-d.png>]
+<figures/combat-e.png, id=118, 1774.37906pt x 1187.93813pt>
+File: figures/combat-e.png Graphic file (type png)
+<use figures/combat-e.png>
+Package pdftex.def Info: figures/combat-e.png  used on input line 240.
+(pdftex.def)             Requested size: 244.55144pt x 163.71812pt.
+ [25 <./figures/combat-e.png>]
+<figures/combat-f.png, id=124, 1780.40157pt x 1193.96063pt>
+File: figures/combat-f.png Graphic file (type png)
+<use figures/combat-f.png>
+Package pdftex.def Info: figures/combat-f.png  used on input line 296.
+(pdftex.def)             Requested size: 244.55144pt x 163.98335pt.
+<figures/combat-g.png, id=125, 1215.79219pt x 819.8128pt>
+File: figures/combat-g.png Graphic file (type png)
+<use figures/combat-g.png>
+Package pdftex.def Info: figures/combat-g.png  used on input line 303.
+(pdftex.def)             Requested size: 244.55144pt x 164.89784pt.
+) (./01-game-turn/end-phase.tex [26] [27 <./figures/combat-f.png> <./figures/co
+mbat-g.png>]) (./02-something/morale.tex [28
 
 ] [29
 
-]) (./02 - Something/Titans and Praetorians.tex [30] [31
+])
+(./02-something/titans-and-praetorians.tex [30] [31
 
-]) (./02 - Something/Terrain and Structures.tex [32] [33
+])
+(./02-something/terrain-and-structures.tex [32] [33
 
-] [34] [35]) (./03 - Special Abilities/Special Abilities.tex [36] [37
+] [34] [35])
+(./03-special-abilities/special-abilities.tex [36] [37
 
 ] [38] [39]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 194.
- [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]) (./04 - Markers and Templates/Markers and Templates.tex [54]) [55
+ [40] [41]
+[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52])
+(./04-markers-and-templates/markers-and-templates.tex [53]) [54
 
 ] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 8680 strings out of 467159
- 181650 string characters out of 5413461
- 689263 words of memory out of 5000000
- 37864 multiletter control sequences out of 15000+600000
+ 8706 strings out of 467159
+ 181125 string characters out of 5413461
+ 686983 words of memory out of 5000000
+ 37892 multiletter control sequences out of 15000+600000
  637203 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,10n,109p,648b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (55 pages, 48479482 bytes).
+ 93i,10n,109p,591b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/te
+xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/202
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2026/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmib10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texl
+ive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c
+:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive
+/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2026/tex
+mf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (54 pages, 48478430 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
+ 314 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

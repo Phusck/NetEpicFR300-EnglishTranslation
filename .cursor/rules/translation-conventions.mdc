@@ -1,0 +1,40 @@
+---
+description: Translation conventions for NetEpic English LaTeX
+alwaysApply: true
+---
+
+# Translation conventions
+
+Use official Games Workshop English names. Decided mappings include:
+
+- Prince Tyranide → Hive Tyrant
+- Voraces → Rippers
+- Rôdeurs → Raveners
+- Gardes des Ruches → Hive Guard
+- Hiérodule Acéré → Barbed Hierodule
+- Hiérodule Faucheur → Scythed Hierodule
+- Esclave → Slave
+- FA → AF
+
+Documents use A4 (`a4paper`). Do not add a table of contents, army examples, or tokens/templates unless asked.
+
+If a French summary table disagrees with that unit's card, ask which source to follow before changing stats. Resolved Tyranid conflicts:
+
+- Gargoyles Morale: 6
+- Hive Tyrant weapon: Heavy Venom Cannon
+- Tyrannofex Morale: 7
+- Support Tyrannofex gun: Bio-Plasma Cannon
+- Harridan Spore Cloud range: Bomb
+
+Inspect `.tex` files, not compiled English PDFs.
+
+Terminology:
+
+- Ability: Bio-Toxin
+- Ability: Spore-Mine. Weapon name: Spore-Mines. One object in prose: Spore-Mine
+- Rules range: Synapse radius (matches Synapse (X cm)). Hive Mind is lore and Hive Mind Test
+- To-Hit everywhere, including table headers
+- Assault only in ability names; otherwise assault
+- Instinct for the mechanic; Instinct counter, not token
+- orders in running text; Orders only for the phase step or counter type
+- Hive Mind Test

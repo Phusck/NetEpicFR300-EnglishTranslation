@@ -1,0 +1,17 @@
+---
+description: Audit the French original before translating
+alwaysApply: true
+---
+
+# Audit French originals first
+
+Before translating a new original from `Originals/`, read that French PDF page by page and report inconsistencies. Do not start the English LaTeX until the user has seen the report.
+
+Compare, at least:
+
+- Summary unit tables versus that unit's description card (abilities, weapons, stats, morale, saves)
+- Army lists versus profiles (contents, costs, command points, class)
+- Named abilities used on a profile but missing, differently spelled, or differently valued in the special-rules text
+- The same term or number written two ways in the French (typos, singular/plural, hyphenation)
+
+Present each conflict as: entry, where it appears, what each source says. Ask which source to follow before translating those values.
