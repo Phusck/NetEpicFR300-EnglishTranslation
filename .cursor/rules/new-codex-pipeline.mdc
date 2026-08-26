@@ -1,0 +1,49 @@
+---
+description: Step-by-step pipeline for translating a new NetEpic codex
+alwaysApply: true
+---
+
+# New codex pipeline
+
+Follow these steps in order. Stop at each gate until the user says to continue. Use `Tyranids 300/` as the layout reference (not the rulebook). Copy Tyranid *layout*, not Tyranid rules or section list.
+
+## A — Audit the French original
+
+Read the French PDF in `Originals/` page by page. Report inconsistencies in a table with one **letter ID per issue**. Cover at least summary tables vs unit cards, army lists vs profiles, named abilities vs special-rules text, and French terms/numbers written two ways.
+
+Table columns:
+
+| ID | Topic | Description | Suggestion A | Suggestion B | Note |
+|---|---|---|---|---|---|
+| `A`, `B`, `C`… | Short label (`Price Shield Drones`) | What the problem is | First source to follow | Second source to follow | Extra suggestions or context; often blank |
+
+The user replies by letter (for example `A A, B B`).
+
+Gate: show the table and wait. Do not start B until the user has seen it and chosen which source to follow for each letter.
+
+## B — Create the book folder
+
+Folder name: English faction name + French version digits with no dots (Tyranids v3.0.0 → `Tyranids 300`). Local `preamble.tex` is `\input{../shared/codex-preamble}`. Add `main.tex` in the Tyranids pattern (A4, title, author, date). Add `.tex` files as sections appear in C. Kebab-case file names; no TOC.
+
+## C — Translate (no unit images)
+
+Walk the French PDF page by page (or one unit/section at a time if that is more accurate). Skip the French cover, table of contents, army examples, and marker/template pages. Keep legal notice and introduction if present. Match Tyranids heading levels, tables, `\unitdivider`, and GW English names. Do not add `\unitimage` or extract portraits.
+
+Gate: tell the user the book is translated. Remind them to rebuild the PDF. They inspect PDFs, not `.tex`. Wait.
+
+## D — User inspection
+
+Do not start E until the user has inspected the rebuilt PDF and said to continue.
+
+## E — Compare original to `.tex`
+
+Inspect `.tex` files, not compiled English PDFs. Run two separate rounds and report each:
+
+1. Headings: `\section` / `\subsection` / `\subsubsection` match the French original and the Tyranids pattern.
+2. Values: every unit stat, weapon, ability, cost, and army-list line matches the chosen source from A.
+
+Gate: wait for the user before F. If they will inspect layout, remind them to rebuild the PDF.
+
+## F — Unit images
+
+Extract portraits from the French PDF. Crop inside the picture frame so no black border, page texture, or wrapping text remains. Place `\unitimage{name.png}` after each unit table, same as Tyranids.

@@ -9,7 +9,7 @@ Book folders keep the pattern `Tyranids 300` and `Rulebook 303`. French PDFs sta
 
 Each book has `main.tex` as the root and `preamble.tex` for local setup.
 
-Codices `\input{../shared/codex-preamble}` from that `preamble.tex` (A4, tables, `\unitdivider`, section page breaks). Book-specific extras stay in the local preamble. The rulebook keeps its own preamble.
+Shared preambles nest. `shared/preamble-master.tex` has the common setup (A4, tables, `\unitdivider`, section page breaks). Codices `\input{../shared/codex-preamble}` and the rulebook `\input{../shared/rulebook-preamble}`; those files `\input{../shared/preamble-master}`. Codex extras (subsection minipages, `\unitimage`) stay in `codex-preamble`. Book-specific extras stay in the local `preamble.tex`.
 
 - Codex: flat folder, one kebab-case file per section (`special-rules.tex`)
 - Rulebook: numbered kebab-case chapter folders (`01-game-turn/movement-phase.tex`)

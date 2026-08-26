@@ -1,0 +1,3897 @@
+
+===== PAGE 1 =====
+1
+T
+A
+U
+3.0.0
+
+===== PAGE 2 =====
+2
+
+===== PAGE 3 =====
+3
+TAUS
+Ce livre de règles est non officiel et n’est en aucun cas approuvé par Games Workshop Limited. Warhammer 40 000, Adeptus 
+Titani­cus, Space Marine, Epic 40 000, Epic: Armageddon et autres noms, races, personnages, illustrations et images de 
+l’univers Warham­mer 40,000 sont tous ®, TM et/ou © Copyright Games Workshop Ltd 2000­2005 ; utilisés sans permission 
+et leur usage ne saurait être interprété comme titre de propriété. NetEpic est une réalisation à but non lucratif réservé à l’usage 
+personnel et ne peut être distribué commercialement. Les concepts et idées non réalisés par Games Workshop la sont propriété 
+de l'association NetEpic.
+Histoire Des Taus
+p4
+Règles Spéciales
+p5
+Capacités Spéciales
+p5
+Pouvoirs Psychiques
+p5
+Fiches d'Unités
+p6
+Fiches de localisation
+p13
+Armes de la KX139 Ta'unar
+p11
+Formations d'Armée
+p14
+Exemple d'Armée
+p19
+Infanterie
+p21
+Cavalerie
+p26
+Marcheurs
+p27
+Véhicules
+p31
+Chevaliers
+p35
+Superlourds
+p37
+Prétoriens
+p39
+Titans
+p40
+Artillerie Hors­Champ
+p41
+Pions et Gabarits
+p41
+v3.0.0
+
+===== PAGE 4 =====
+4
+HISTOIRE DES TAUS
+La race Xenos dite des T’au, qui peuple une région 
+sidérale proche des confins orientaux de la galaxie, est jeune et 
+en pleine expansion, ses armes comme sa technologie sont fort 
+avancées. Bien qu’il n’ait pas encore deux mille ans, leur 
+empire naissant s’étend rapidement dans l’espace et y 
+rencontre les races plus anciennes de la galaxie. Cette 
+expansion régulière a conduit à des confrontations avec les 
+armées de l’Imperium et celles d’autres races Xenos en de 
+nombreuses occasions, mais forts de leur technologie avancée 
+et conduits par une cause commune à laquelle ils vouent une 
+confiance aveugle, les T’au étendent leur domaine au nom d’un 
+Bien Suprême, cette grande idée qui soutient l’Empire T’au : 
+l’individu doit, pour se montrer noble de cœur et juste, oublier 
+ses désirs et travailler avec les autres au bien de chacun. Cette 
+idée est pour l’instant respectée de tous. Comparé à d’autres, 
+cet empire est encore limité et centré sur un amas sphérique 
+d’étoiles regroupées ce qui permet aux T’au de voyager entre 
+elles sans recourir aux voyages dans le Warp et encourir les 
+dangers que cela implique. Leur domaine englobe plusieurs 
+autres races Xenos soumises de leur plein gré ou dont les 
+services ont été monnayés lors d’accords commerciaux.
+Contrairement à de nombreuses races Xenos rencontrées 
+jusqu’à présent par l’Humanité, les T’au ne sont pas hostiles, 
+bien qu’ils protègent férocement les territoires qu’ils 
+revendiquent. Le dynamisme naturel des T’au les pousse vers 
+d’autres zones occupées de la galaxie, ce qui a inévitablement 
+crée des conflits contre les humains aussi bien que d’autres 
+peuples.
+Le T’au est d’apparence humanoïde, il possède deux 
+bras, deux jambes et une seule tête, même s’ils ont des sabots 
+en guise de pieds. Sa peau est de couleur gris pâle tirant sur le 
+bleu, bien que le teint et la pigmentation puissent varier d’un 
+monde à l’autre, les habitants du monde de Vior’la ont par 
+exemple une peau bien plus sombre que celle des natifs de 
+B’orkan. Cet épiderme tanné et sec est de texture rugueuse, car 
+il n’exsude pratiquement aucune humidité. Plus petit en taille 
+qu’un humain, le T’au moyen est svelte, mais sa force reste 
+équivalente à celle d’un Garde Impérial, avec une tolérance à la 
+chaleur, au froid et à la douleur d’un ordre comparable. Le 
+visage est plat au niveau des yeux et on pense que le spectre de 
+son champ visuel est légèrement plus étendu que celui d’un 
+humain dans les infrarouges et les ultraviolets. Toutefois, 
+l’absence de pupille a pour conséquences une mauvaise 
+perception des distances et une focalisation plus lente. Le T’au 
+n’a pas d’organe olfactif externe, il est en fait situé sur le palais 
+de sa bouche, et à courte distance son odorat parait bien plus 
+sensible que celui d’un humain. Un T’au peut donc "goûter" 
+l’air en le guidant à l’aide de sa langue vers ses organes 
+sensoriels. Leur espérance de vie est généralement plus courte 
+que celle d'un humain, en particulier ceux qui ont accès aux 
+juvenats et autres traitements médicaux de luxe dont jouissent 
+les sommités impériales, bien que quelques rares rares 
+individus aient trouvé des moyens de prolonger leur vie bien 
+au­delà de la norme.
+L’apparence du T’au permet d’apprendre bon nombre 
+de choses sur lui : sa caste, son rang, sa planète natale et son 
+statut dans la société. Le T’au arbore communément une 
+mèche de cheveux unique ornée d’anneaux d’apparat et de 
+colifichets indicateurs de son rang et de sa position, les bijoux 
+capillaires les plus élaborés traduisant toujours une haute 
+responsabilité. Il existe d’autres manières plus spécifiques 
+d’établir la caste d’origine d’un T’au : par exemple les 
+guerriers t’au de la Caste du Feu portent souvent de profondes 
+cicatrices et il n’est pas rare que les membres de ses dirigeants 
+soient remplaces par des implants cybernétiques. Ils sont le 
+plus souvent originaires des planètes chaudes de leur empire, 
+leur peau est d’ordinaire plus sombre que celles de leurs 
+congénères et arbore des tatouages et scarifications rituelles. 
+Les artisans et ouvriers le Caste de la Terre sont plus trapus 
+que les autres T’au, leurs mains sont plus calleuses et ils voient 
+la vie d’une façon pragmatique. Cette caste est moins portée 
+sur les ornements et rares sont ceux de ces T’au qui se prêtent 
+a une forme quelconque de décoration corporelle, considérée 
+comme frivole et superflue.
+La Caste de l’Air inclut les pilotes et les messagers 
+des T’au qui passent la plupart de leur temps dans l’espace. 
+Leur peau est généralement plus pâle et leur structure osseuse 
+plus légère, certains os de leurs membres supérieurs sont 
+d’ailleurs creux, ce qui est selon certains de nos savants une 
+réminiscence génétique de l’époque où ils auraient été dotes 
+d’ailes et pouvaient voler. Quand un membre de la Caste de 
+l’Air est forcé de demeurer à la surface d’une planète, il se 
+montre extrêmement vigilant dans ses déplacements, car 
+l’exposition à long terme à une gravité artificielle a réduit la 
+résistance du squelette et rendu ses os fragiles et cassants. La 
+Caste de l’Eau est faite de négociants et de diplomates et ce 
+sont généralement les T’au de cette caste qui ont le plus 
+voyagé. Leurs traits sont plus doux et plus expressifs que ceux 
+des autres. Le respect qu’ont ces T’au pour d’autres cultures 
+les rend bien plus ouverts à la diversification vestimentaire 
+ainsi qu’à l’usage d’autres dialectes. Il est ainsi courant qu’un 
+marchand t’au préfère négocier en étant habillé de la même 
+manière que son interlocuteur et diplomate adopte souvent les 
+mœurs culturelles de ceux avec qui il traite lorsqu’il se trouve 
+en leur compagnie. Bien sûr, ces pratiques ont toujours un but 
+avoué, le mode de vie t’au n’étant jamais remis en question et 
+tenu pour supérieur à tous les autres.
+Les T’au de la dernière caste sont les plus mystérieux. 
+Leur visage a les mêmes traits typiquement plats, mais au 
+centre de leur front se dresse un losange osseux. Son utilité, 
+s’il en a une, reste une énigme et malgré plusieurs tentatives, 
+l’Inquisition n’a toujours pas pu récupérer le corps d’un Éthéré 
+pour une étude approfondie. Les lacunes dans la connaissance 
+de cette caste plus puissante et plus importante sont source de 
+consternation générale au sein de l’Ordo Xenos et toute bribe 
+d’information pouvant être glanée est analysé avec grande 
+attention.
+Texte issu du l'Omnis Bibliotheca. Plus d'informations sur :
+https://omnis­bibliotheca.com/index.php/Accueil
+
+===== PAGE 5 =====
+5
+RÈGLES SPÉCIALES
+Artillerie Hors­Champ et observateurs avancés
+Les T'au n'utilisent pas d'observateurs avancés, a la 
+place les T'au utilisent leurs Désignateurs Lasers pour guider 
+les tirs hors champ. L'Artillerie Hors­Champ ne peut cibler que 
+des cibles avec un jeton. Un seul tir d'Artillerie Hors­Champ 
+peut être tenté par pion de Désignateur Laser par tour.
+Drones
+Les formations de Drones sont des Formations 
+Limitées. Vous ne pouvez en prendre que deux pour chaque 
+Formation de Compagnie dans votre armée. De plus, vous ne 
+pouvez pas prendre plus de formation de Chasseurs DX6 
+Remora que d'autres formations de Volants. 
+Ethéré
+Tempête de Feu [Phase de Mouvement] : Un détachement de ce codex de classe 1 ou 2 en ordre de tir appuyée à 
+moins de 12 cm de l'Éthéré peuvent relancer leur jet pour toucher raté.
+Grâce du Zéphyr [Phase de Mouvement] : Les détachements de ce codex de classe 1 et 2 à moins de 12 cm de 
+l'Éthéré gagnent un bonus de +5 cm à leur mouvement total.
+Aura des Marées [Phase de Mouvement] : Les détachements de ce codex de classe 1 et 2 à moins de 12 cm de 
+l'Éthéré gagnent une sauvegarde fixe de 6+, ou s'ils en ont déjà une l'augmentent de 1.
+CAPACITÉS SPÉCIALES
+Capacité spéciale : Drone
+Les unités avec la capacité Drone ont les capacités 
+Inorganique et ne peuvent pas capturer d'objectifs.
+Capacité spéciale : Désignateur Laser (X cm)
+Les Désignateurs Laser peuvent être utilisés 
+en combinaison avec une autre activation de tir. Si vous 
+décidez de le faire, suivez la procédure suivante, tout le 
+détachement devant utiliser ses Désignateurs Laser en même 
+temps :
+ ­  Pour chaque socle du détachement ayant cette capacité, 
+effectuez un jet pour toucher sur un 3+ avec une portée de X 
+cm, comme pour un tir standard.
+ ­ Réitérez cette procédure pour tous les détachements 
+utilisant leur Désignateur. 
+ ­ Si le détachement tirant peut voir les socles désignés, pour 
+chaque touche réussie, le détachement effectuant le tir peut 
+obtenir un +1 pour toucher sur un de ses dé d'attaque, à 
+déclarer avant de le lancer les dés.
+ ­ Si le détachement tirant ne peut voir les socles désignés, il 
+peut effectuer des tirs via la règle Missile à Missiles à 
+Guidage Laser.
+Le détachement avec les désignateurs Laser n'est pas 
+activé et pourra agir plus tard s'il ne l'a pas déjà fait, mais ne 
+peux pas utiliser ses Désignateurs Laser plus d'une fois par 
+tour. Les Désignateurs Laser ne donnent pas de bonus pour 
+toucher pour les armes utilisant un gabarit. Si la cible est une 
+structure, le désignateur laser est placé au centre de celle­ci. 
+Les socles avec cette capacité peuvent utiliser leurs armes et 
+avec leur désignateurs laser en même temps. Le Désignateur 
+Laser peut être tiré avant les autres armes qui bénéficieront 
+alors du bonus éventuel.
+Capacité Spéciale : Missiles à Guidage Laser
+Les Missiles à Guidage Laser peuvent être tirés 
+comme toute autre arme normale, et peuvent aussi être tirés 
+sur un détachement qui a été marquée par un Désignateur 
+Laser sans avoir besoin de ligne de vue sur celle ­ci.
+Capacité Spéciale : Missiles Intelligents
+Les armes avec la capacité Missiles Intelligents 
+peuvent cibler (sans déviation ni malus) des socles hors de la 
+ligne de vue du tireur mais qui sont visibles par un socle de ce 
+codex. Cette capacité ne peut pas être utilisée lors d'un Tir 
+d'Interception.
+Capacité Spéciale : Bouclier Déflecteur
+Quand un Bouclier Déflecteur est touché pour un tir 
+ennemi, celui­ ci effectue une sauvegarde à 3+f. Si la 
+sauvegarde est réussie, le tir n'a pas d'effet. Si la sauvegarde 
+du bouclier échoue, le bouclier est détruit et la touche est 
+annulée. Les boucliers déflecteurs procurent une Sauvegarde 
+Psychique (4+). Ils ne peuvent être détruits que par des tirs 
+avec un modificateur de PA de ­ 1 au moins.
+Capacité spéciale : Kroot
+Tous les socles de Kroot gagnent +1 à leur FA s'ils se 
+battent dans des forêts ou des bois et ne peuvent pas être 
+transportés.
+Quand un détachement Kroot n'a pas de Mentor à 12 
+cm, il agit instinctivement et se met à couvert. Ils ne peuvent 
+recevoir que des ordres de Marche Forcée et se déplacent en 
+direction de la forêt la plus proche. S'il n'y a pas de forêt, ils 
+se dirigent vers le couvert le plus proche à la place. Une fois 
+dans le couvert ils agissent normalement mais doivent y 
+rester.
+POUVOIRS PSYCHIQUES
+Capacité Spéciale : Tiger Shark
+Le Tiger Shark n'a pas à atterrir pour débarquer ses 
+Drones et peut larguer les socles de Drones d'attaque à 
+n'importe quel moment lors de son mouvement.
+Capacité Spéciale : Drones Boucliers
+Quand vous achetez une formation de support de 
+Drones Bouclier, vous pouvez attacher chaque Drone à un 
+détachement (hors Volants, Titans et Prétoriens), avec un 
+maximum de 4 Drones par détachement. Cela se fait au 
+déploiement, avant que les deux armées soient révélées. Le 
+coût des Drones Boucliers sont gagnés par l'adversaire dès 
+l'achat. Quand le détachement est atteint par un tir, avant la 
+sauvegarde, un Drone Bouclier est détruit pour chaque dégât 
+subit, s'il n'y a pas assez de drone pour arrêter tous les dégâts, 
+la cible sera touchée avec les dégâts restants. Ils ne 
+fonctionnent pas contre les attaques de lance, qui ignorent les 
+boucliers et les attaques psychiques.
+
+===== PAGE 6 =====
+6
+FICHES D'UNITÉS
+Mentor Kroot
+10 cm
+5+
+Lié
+Fusil Kroot
+45 cm
+1
+5+
+0
+Chiens Kroots
+20 cm
+7
+Machoires Puissantes
+­
+­
+­
+­
+­
+Cibleurs
+10 cm
+6
+Carabine à Impulsion
+30 cm
+1
+4+
+0
+­
+Drone à Arme Lourde
+15 cm
+­
+Missiles Intelligents
+6+
+45 cm
+1
+4+
+­1
+Missiles Intelligents
+Drones MV1 d'Attaque
+15 cm
+­
+Carabines à Impulsion
+6+
+20 cm
+2
+5+
+0
+Drones MV71 Sniper
+10 cm
+Lié
+Fusil Impulsion
+6+
+75 cm
+1
+4+
+0
+Exo­Armure XV15/25 
+Stealth
+15 cm
+5
+Canon à Induction
+5+/6+f
+30 cm
+2
+4+
+0
+Frelons Vespides
+20 cm
+6
+Blasters à Neutron
+20 cm
+1
+4+
+0
+­
+Guerriers de Feu Breacher
+10 cm
+6
+Blaster à Impulsion
+20 cm
+2
+5+
+0
+­
+Guerriers de Feu Strike
+10 cm
+6
+Fusil à Impulsion
+45 cm
+1
+4+
+0
+­
+Ethéré
+10 cm
+5+f
+Lié
+Armes d'Assaut
+­
+­
+­
+­
+Contrôleur de Drones
+10 cm
+6
+Carabine à Impulsion
+30 cm
+1
+4+
+0
+­
+Gue'vesa
+10 cm
+7
+Fusil Laser
+45 cm
+1
+5+
+0
+­
+Infanterie (1)
++2
+Infiltration, Kroot
+­1
+Infiltration, Désignateur Laser (75 cm)
+­1
+Sniper, Désignateur Laser (60 cm), Camouflage Avancé
+­2
+Réacteurs Dorsaux, Drone
+­2
+Réacteurs Dorsaux, Drone
+­2
+Réacteurs Dorsaux, Sniper, Drone, Camouflage Avancé
++1
+QG, Personnage Lié, Psyker, Charismatique (12 cm)
++0
+Réacteurs Dorsaux, Dur à Cibler, Tir en Mouvement, Infiltration, Désignateur Laser (60 cm), Camouflage Avancé
++1
+Réacteurs Dorsaux, Dur à Cibler
++0
+­1
++0
++4
+QG, Personnage Lié, Infiltration
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+Carnivores Kroots
+10 cm
+7
+Fusil Kroot
+45 cm
+1
+5+
+0
+­
++2
+Infiltration, Camouflage, Kroot
+
+===== PAGE 7 =====
+7
+Exo­Armure XV8 Crisis 
+Mk III
+20 cm
+5
+Blasteurs à Fusion
+20 cm
+2
+3+
+­2
+4+/6+f
+Exo­Armure XV8 Crisis 
+Mk II
+20 cm
+5
+Fusil à Plasma
+45 cm
+2
+4+
+­1
+4+/6+f
+Exo­Armure XV8 Crisis 
+Mk I
+20 cm
+5
+Canons à Induction
+20 cm
+3
+4+
+0
+4+/6+f
+Cavalerie (2)
+Piranhas
+30 cm
+6
+Canon à Induction
+30 cm
+2
+4+
+0
+Tetras
+30 cm
+6
+Fusil à Impulsion Jumelées
+­
+6+
+45 cm
+1
+4+
+0
+Chevaucheur de Knorloc
+20 cm
+7
+Fusil Kroot
+45 cm
+1
+5+
+0
+­
+Marcheurs (2)
+Sabre de Feu
+10 cm
+Lié
+Fusil à Impulsion
+45 cm
+2
+4+
+0
+­
++1
+QG, Personnage Lié, Elite (1), Désignateur Laser (60 cm)
++1
+Antigrav
++0
+Antigrav, Infiltration, Désignateur Laser (90 cm)
++3
+Infiltration, Kroot
++1
+Réacteurs Dorsaux, Tir en Mouvement, Elite (1)
++1
+Réacteurs Dorsaux, Tir en Mouvement, Elite (1)
++1
+Réacteurs Dorsaux, Tir en Mouvement, Elite (1)
+Exo­Armure XV88 
+Broadside MkI
+10 cm
+5
+Fusil Rails Lourds
+75 cm
+2
+4+
+­2
+3+/6+f
+Exo­Armure XV88 
+Broadside MkII
+10 cm
+5
+Missiles Intelligents
+Missiles Intelligents
+45 cm
+3
+4+
+­1
+3+/6+f
+Exo­Armure XV9 Hazard 
+MkI
+20 cm
+5
+Lances­Flammes à Plasma
+20 cm
+2
+3+
+­1
+Réduit les Couverts (­3)
+3+/5+f
+Exo­Armure XV9 Hazard 
+MkII
+20 cm
+5
+Canon à Ions
+45 cm
+3
+4+
+0
+3+/5+f
+Shas'el
+20 cm
+4+f
+Lié
+Lance­Missiles
+45 cm
+2
+5+
+­1
++0
+Tir Réflexe
++0
+Tir Réflexe
++2
+Réacteurs Dorsaux, Tir en Mvt, Elite (1)
++2
+Réacteurs Dorsaux, Tir en Mouvement, Elite (1)
++3
+Fusils à Plasma
+45 cm
+2
+4+
+­1
+Elite (1), QG, Personnage Lié, Elite (1), Réacteurs Dorsaux, Tir en Mouvement
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+
+===== PAGE 8 =====
+8
+Exo­Armure XV95 
+Ghostkeel
+20 cm
+5
+Blasters à Fusion
+20 cm
+2
+3+
+­2
+4+/6+f
+Krootox
+15 cm
+7
+Canon Kroot
+60 cm
+2
+5+
+­1
+5+
+Shas'vre
+20 cm
+4+/6+f
+4
+Lance­Missiles
+45 cm
+2
+5+
+­1
++2
+Fusil à Plasma
+45 cm
+1
+4+
+­1
+Elite (1), Réacteurs Dorsaux, Tir en Mouvement
++1
+Cyclo­Araseur à Ions
+30 cm
+1
+4+
+­1
+Tir en Mouvement, Infiltration, Elite (1), Camouflage Avancé
++4
+Infiltration, Kroot
+Shas'o
+20 cm
+4+f
+Lié
+Blasters à Fusion
+20 cm
+2
+3+
+­2
++4
+Fusils à Plasma Jumelé
+45 cm
+2
+3+
+­1
+Réacteurs Dorsaux, Tir en Mouvement, Elite (2), QG, Génie Tactique, Personnage Lié
+AX3 Razorshark
+­
+3+
+6
+Barracuda
+­
+3+
+6
+Véhicules (3)
+Devilfish
+25 cm
+Lié
+Canon à Induction
+30 cm
+1
+4+
+0
+3+
+AX39 Sun Shark
+­
+3+
+6
++3
+Quadri­Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+2
+2
+3+
+4+
+­1
+0
+Blindage Intégral, Esquive (5+), Volant, Intercepteur
+ Tourelle
++2
+Missiles Intelligents
+Bombes à Impulsion
+30 cm
+Bombe
+3
+Gabarit
+4+
+4+
+­1
+­2
+Blindage Intégral, Volant
+Missiles Intelligent
+ Bombardement (1), Gabarit (7,5 cm)
++3
+Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+1
+2
+4+
+4+
+­2
+0
+Blindage Intégral, Volant, Intercepteur, Esquive (5+)
+  Tourelle
++0
+Antigrav, Transport (2), Transport Lié
+Drone DX6 Remora
+30 cm
+­
+5+
+­1
+Canons à  Induction Jumelés
+20 cm
+2
+4+
+­1
+Blindage Intégral, Camouflage, Volant, Drône, Désignateur Laser (45 cm)
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+Drone Sentinelle
+0 cm
+­
+Canons à Induction
+30 cm
+2
+4+
+0
+Tourelle
+5+
+­2
+Frappe en Profondeur (2), Drone, Défense Autonome, Blindage Intégral
+Drone Intercepteur
+­
+­
+­
+­1
+Canons à Ions
+20 cm
+1
+4+
+0
+Blindage Intégral, Volant, Personnage Lié, Drone, ne peut être lié qu'a des Volants, Drone Bouclier
+
+===== PAGE 9 =====
+9
+Hammerhead Mk I
+20 cm
+6
+Canons à Induction
+30 cm
+2
+4+
+0
+3+
+Hammerhead Mk II
+20 cm
+6
+Missiles Intelligents
+45 cm
+1
+4+
+­1
+Missiles Intelligents
+3+
+Hammerhead Mk III
+20 cm
+6
+Missiles Intelligents
+45 cm
+1
+4+
+­1
+Missiles Intelligents
+3+
+Hammerhead Mk IV
+20 cm
+6
+Canons à  Induction
+30 cm
+1
+4+
+0
+3+
+Hammerhead Mk V
+20 cm
+6
+Canons à Induction
+30 cm
+2
+4+
+0
+3+
+Hammerhead Mk VI
+20 cm
+6
+Missiles Intelligents
+45 cm
+1
+4+
+­1
+Missiles Intelligents
+3+
++0
+Canons à Ecoulement à Ions
+30 cm
+2
+3+
+­3
+Antigrav
+ Tourelle
++0
+Canon Rail
+75 cm
+1
+4+
+­3
+Antigrav
+ Tourelle, Dégâts (+1)
++0
+Rampe à Missiles
+75 cm
+2
+3+
+­1
+Antigrav
+Artillerie, Tourelle, Réduit les Couverts (­1)
++0
+Canons à Induction Lourds
+45 cm
+4
+3+
+0
+Antigrav
+Tourelle
++0
+Canons à Ions
+75 cm
+2
+4+
+­2
+Antigrav
+Tourelle
++0
+Fusils à Plasma Jumelés
+45 cm
+2
+3+
+­2
+Antigrav
+Tourelle
+Skyray
+20 cm
+6
+Missiles à Tête Cherheuse
+75 cm
+2
+4+
+­2
+AA, Missiles à Guidage Laser
+3+
++0
+Antigrav, Désignateur Laser (75 cm)
+Stingray
+20 cm
+6
+Missiles Intelligents
+45 cm
+1
+4+
+­1
+ Missiles Intelligents
+3+
++0
+Missiles à Sous­Munitiion
+75 cm
+Gabarit
+3+
+0
+Antigrav
+Gabarit (7,5 cm), Missiles à Guidage Laser, Réduit les 
+Couverts (­1), Batterie
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+
+===== PAGE 10 =====
+10
+Chevaliers (4)
+Exo­Armure XV104 
+Riptide MkI
+20 cm
+3+/4+f
+5
+Missiles Intelligents
+45 cm
+2
+4+
+­1
+Missiles Intelligents
+Exo­Armure XV104 
+Riptide MkII
+20 cm
+3+/4+f
+5
+Missiles Intelligents
+45 cm
+2
+4+
+­1
+Missiles Intelligents
+Exo­Armure XV107 
+R'varna
+20 cm
+3+/4+f
+5
+Canons à Sous­Munitions
+75 cm
+Gabarit
+4+
+­1
+Gabarit (7,5 cm), Réduit les Couverts (­1)
+Exo­Armure XV109 
+Y'vahra
+20 cm
+3+/4+f
+5
+Lance­Flammes à Plasma
+Gabarit
+1
+4+
+0
+Gabarit (Flammes), Réduit les Couverts (­3)
+Exo­Armure KV128
+Stormsurge
+15 cm
+2+/4+f
+5
+Canons à Induction
+30 cm
+4
+4+
+0
++3
+Canons à Induction Lourds
+Blasters à Fusion
+45 cm
+20 cm
+2
+2
+4+
+3+
+­1
+­2
+PdV (2), Blindage Intégral, Réacteurs Dorsaux, Tir en Mouvement, Tir Réflexe
++3
+Accélérateur à Ions
+Canon à Plasma
+75 cm
+45 cm
+2
+1
+4+
+3+
+­2
+­1
+PdV (2), Blindage Intégral, Réacteurs Dorsaux, Tir en Mouvement, Tir Réflexe
++3
+PdV (2), Tir en Mouvement
++2
+Canon C. à Impulsions*
+Roquettes à Grappes 
+Missile Destroyer
+Missiles Intelligents
+90 cm
+75 cm
+75 cm
+45 cm
+1
+1
+2
+2
+3+
+4+
+4+
+4+
+­4
+­1
+­2
+­1
+PdV (3), Tir Réflexe
+ Dégâts (+1)
+Missiles à Guidage Laser, Munition Limitée (4)
+Missiles à Guidage Laser
+Missiles Intelligent
++3
+Blasters à Fusion
+30 cm
+2
+3+
+­2
+PdV (2), Réacteurs Dorsaux, Tir en Mouvement, Tir Réflexe
+AX1­0 Tiger Shark
+­
+3+
+5
+Superlourds (4)
++3
+Canons à Ions Lourd
+Canons à Induction
+45 cm
+20 cm
+2
+4
+4+
+4+
+­3
+0
+Blindage Intégral, Volant, PdV (2)
+Dégâts (+1)
+Tourelle
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+
+===== PAGE 11 =====
+11
+Transport de Drones Tiger 
+Shark
+­
+3+
+5
+Vaisseau de Transport Orca
+30 cm
+5
+Canons à Induction
+20 cm
+4
+4+
+0
+Tourelle
+3+
+Swordfish
+15 cm
+2+
+5
+Canons à Induction
+30 cm
+2
+4+
+0
++2
+Canon Rail Lourd Jumelé
+Missiles Intelligents
+90 cm
+45 cm
+2
+2
+4+
+4+
+­3
+­1
+Antigrav Lourd, PdV (2)
+ Tourelle, Dégâts (+1)
+Missiles Intelligents
++1
+Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+2
+4
+4+
+4+
+­2
+0
+Blindage Intégral, Volant, PdV (2), Transport (4), Tiger Shark
+ Tourelle
++1
+Blindage Intégral, PdV (2), Transport (8), Volant
+Moray (Batterie à Ions)
+20 cm
+2+
+Fiche
+­
+Missiles Traceurs
+100 cm
+2
+4+
+­3
+Missiles à Guidage Laser
+Moray (Canons à Rail)
+20 cm
+2+
+Fiche
+­
+Missiles Traceurs
+100 cm
+2
+4+
+­3
+Missiles à Guidage Laser
++5
+Batterie à Ions
+Canons à Induction Jumelés
+75 cm
+30 cm
+6
+6
+4+
+4+
+­2
+­1
+PdV (6), DR (5+), Boucliers Déflecteur (2), Flottant
+Tourelle
++5
+Choisir un mode de tir pour le Canon à Rail à l'utilisation
+C. Rail ­ Tir Puissant
+C. Rail ­ Obus à Sous­Munitions
+Canons à Ind. Jumelé
+90 cm
+90 cm
+30 cm
+2
+Gabrit
+6
+4+
+4+
+4+
+­4
+0
+­1
+PdV (6), DR (5+), Boucliers Déflecteur (2), Flottant
+Dégâts (+2)
+ Endommage les Bâtiments (PA ­4/2), Gabarit (12 cm)
+ Tourelle
+Prétoriens Légers (5)
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+Scorpionfish
+15 cm
+2+
+5
+Missiles à  Tête Chercheuse
+100 cm
+6
+4+
+­1
+Missiles à Guidage Laser
++2
+Missiles Intelligents
+Choisir un mode de tir pour les Missile à l'utilisation
+Missiles Traceurs
+Missiles à Sous­Munitions
+45 cm
+100 cm
+100 cm
+2
+3
+Gabarit
+4+
+3+
+4+
+­1
+­3
+0
+Antigrav Lourd, PdV (2), Désignateur Laser (75 cm)
+Missiles à Guidage Laser
+Missiles à Guidage Laser, Gabarit (12 cm), Réduit les 
+Couverts (­1)
+Missiles Intelligents
+30 cm
+2
+4+
+­2
+Missiles Intelligents
+
+===== PAGE 12 =====
+12
+Prétoriens Lourds (6)
+Titans de Reconaissance (5)
+Manta
+20 cm
+2+
+Fiche
+­
+Missiles Traceurs
+100 cm
+2
+4+
+­3
+ Missiles à Guidage Laser
+Artillerie Hors­Champs
+Salve de Missiles Traceurs 
+Gravitationnels
+Salve de Missile
+1
+3+
+­3
+Missiles à Guidage Laser, Dégâts (+1)
+­
+Salve de Missiles Traceurs à 
+Sous­Munitions
+Salve de Missile à Sous­
+Munitions
+Gabarit
+4+
+0
+Gabarit (12 cm), Réduit les Couverts (­1), Endommage les 
+Bâtiments (PA ­4/2)
+­
++7
+Batterie à Ions
+Canons à Induction Jumelé
+75 cm
+30 cm
+6
+8
+4+
+4+
+­2
+­1
+PdV (8), DR (5+), Transport (24), Flottant, Boucliers Déflecteur (3)
+Tourelle
+Armure Suprême KX139 
+Ta'unar
+15 cm
+2+
+Fiche
++7
+Missiles Intelligents
+Missiles Intelligent
+45 cm
+2
+4+
+­1
+­
+PdV (4), DR (5+), Boucliers Déflecteur (2), Agile, Tir en Mouvement
+Choisir 1 Arme Principale et 2 Arme Secondaire
+Canon à Induction Jumelés
+30 cm
+2
+4+
+­1
+Choisir un mode de tir pour le Canon à Rail à l'utilisation
+C. Rail ­ Tir Puissant
+C. Rail ­ Obus à Sous­Munitions
+90 cm
+90 cm
+2
+Gabrit
+4+
+4+
+­4
+0
+Dégâts (+2)
+ Endommage les Bâtiments (PA ­4/2), Gabarit (12 cm)
+­
+­
+­
+­
+­
+­
+­
+­
+Nom
+Mouv.
+Sauv.
+FA
+Dés
+Touche PA
+Moral
+Capacités Armes
+Arme
+Portée
+
+===== PAGE 13 =====
+13
+D6
+1
+Jambes
+2
+Coque
+3­4
+Arme
+5
+Tête (avant) / Réacteur (arrière)
+6
+Au choix
+Localisation Avant / Arrière
+FICHES DE LOCALISATION
+1
+Coque
+2
+Arme
+3
+Pont (avant) / Réacteur (arrière)
+4­5
+Aile
+6
+Au choix
+1
+ ­5 cm de mouvement de base (Réparation sur 4+)
+2
+ ­5 cm de mouvement de base supplémentaire, (Réparation sur 
+4+) (à partir de ce dégât, si le titan est détruit il chute)
+3
+Immobilisé, 1 dégât supplémentaire
+4+
+Dommage sur la Coque
+Tête / Pont
+1
+­1D6 au FA (Réparation sur 4+)
+2
+Ne peut recevoir un Ordre que sur un 4+ (Réparation sur 4+), 
+1 Dégât supplémentaire
+3+
+Dommage sur la Coque
+Réacteur
+1
+1 dégât supplémentaire (à partir de ce dégât, si le titan est 
+détruit il explose)
+2
+Boucliers Désactivés, 1 dégât supplémentaire
+3+
+Réacteur gravement endommagé, 1D3 dégâts supplémentaires 
+Arme
+1
+Arme Endommagée (Réparation sur 4+)
+2
+Arme Détruite
+3+
+Dommage sur la Coque
+Coque
+1­2
+ ­ 
+3
+1 dégât supplémentaire
+4+
+2 dégâts supplémentaires
+Jambe
+Effets des Dommages
+Aile
+1
+ ­
+2+
+1 dégât supplémentaire
+D6
+Localisation Avant / Arrière
+ARMES DE LA
+ KX139 TA'UNAR
+Arme Primaire
+Portée
+Nb
+dés
+Touche
+PA
+Note
+75 cm
+3
+3+
+­3
+Dégâts (+1)
+Artillerie à Pilotage Multiple
+Canon Rail Lourd
+ Tir Puissant 
+Obus de Sous­Munitions 
+90 cm
+90 cm
+1
+Gabarit
+3+
+4+
+­4
+0
+Dégâts (+2)
+Gabarit (7,5 cm), Endommage les Bâtiments (PA ­4/2)
+100 cm Gabarit
+3+
+­1
+Gabarit (12 cm), Réduit les Couverts (­1)
+Système de Missiles Nexus
+45 cm
+3
+4+
+­2
+Canons à Ions Triaxiaux
+20 cm
+4
+3+
+­2
+Eradicateurs à Fusion
+Arme Secondaire
+Portée
+Nb
+dés
+Pour
+toucher
+PA
+Note
+KX139 Ta'unar
+Manta / Moray
+
+===== PAGE 14 =====
+14
+FORMATIONS D'ARMÉE
+Compagnie d'Infanterie
+Détachements Obligatoires
+Nom
+Contenu
+Coût
+Sabres de Feu
+1 socle de Sabres de Feu
+0
+Nom
+Contenu
+Coût
+2 Détachements parmi :
+1 Personnage parmi :
+Détachements Optionnels
+0­1 Formation Spéciale
+0­5 Formations de Support
+N'importe quel nombre d'Options
+Shas'el
+1 socle de Shas'el et 2 socles d'Exo­Armures Shas'vre
+200
+Détachement de Guerriers de Feu Strike
+6 socles de Guerriers de Feu Strike
+125
+Détachement d'Exo­Armures XV8 MKI
+3 socles d'Exo­Armures XV8 Crisis MKI
+150
+Détachement d'Exo­Armures XV88 MKI 
+3 socles d'Exo­Armures XV88 Broadside MKI
+250
+Détachement d'Exo­Armures XV8 MKII
+3 socles d'Exo­Armures XV8 Crisis MKII
+200
+Détachement d'Exo­Armures XV8 MKIII
+3 socles d'Exo­Armures XV8 Crisis MKIII
+200
+Détachement d'Exo­Armures XV88 MKII
+3 socles d'Exo­Armures XV88 Broadside MKII
+225
+Détachement de Guerriers de Feu Breacher
+6 socles de Guerriers de Feu Breacher
+100
+Nom
+Contenu
+Coût
+1 Détachement parmi :
+Compagnie d'Exo­Armures
+Détachements Obligatoires
+Nom
+Contenu
+Coût
+Nom
+Contenu
+Coût
+3 Détachements parmi :
+Le Détachement suivant :
+Détachements Optionnels
+0­1 Formation Spéciale
+0­5 Formations de Support
+N'importe quel nombre d'Options
+Shas'el
+1 socle de Shas'el et 2 socles d'Exo­Armures Shas'vre
+200
+Détachement d'Exo­Armures XV8 MKI
+3 socles d'Exo­Armures XV8 Crisis MKI
+150
+Détachement d'Exo­Armures XV88 MKI 
+3 socles d'Exo­Armures XV88 Broadside MKI
+225
+Détachement d'Exo­Armures XV8 MKII
+3 socles d'Exo­Armures XV8 Crisis MKII
+200
+Détachement d'Exo­Armures XV8 MKIII
+3 socles d'Exo­Armures XV8 Crisis MKIII
+200
+Détachement d'Exo­Armures XV88 MKII
+3 socles d'Exo­Armures XV88 Broadside MKII
+225
+Détachement de Guerriers de Feu Strike
+6 socles de Guerriers de Feu Strike
+125
+Détachement de Guerriers de Feu Breacher
+6 socles de Guerriers de Feu Breacher
+100
+
+===== PAGE 15 =====
+15
+Compagnie de Reconaissance
+Détachements Obligatoires
+Nom
+Contenu
+Coût
+2 Détachements parmi :
+Détachements Optionnels
+0­1 Formation Spéciale
+0­5 Formations de Support
+N'importe quel nombre d'Options
+Nom
+Contenu
+Coût
+1 Détachement parmi :
+Détachement d'Exo­Armures XV15/XV25 
+Stealth
+4 socles d'Exo­Armures XV15/XV25 Stealth
+225
+Détachement de Piranhas
+5 socles de Piranhas
+200
+Détachement de Tetras
+3 socles de Tetras
+125
+Détachement d'Exo­Armures XV95 
+Ghostkeel
+3 socles d'Exo­Armures XV95 Ghostkeel
+250
+Détachement de Drone Boucliers
+5 Drones Boucliers
+50
+Nom
+Contenu
+Coût
+0­1 Détachement parmi :
+Compagnie d'Hammerheads
+Détachements Obligatoires
+Nom
+Contenu
+Coût
+3 Détachements parmi :
+Détachements Optionnels
+0­1 Formation Spéciale
+0­5 Formations de Support
+N'importe quel nombre d'Options
+Détachement de Hammerheads MKI
+3 socles de Hammerheads MKI
+275
+Détachement de Hammerheads MKII
+3 socles de Hammerheads MKII
+275
+Détachement de Hammerheads MKIII
+3 socles de Hammerheads MKIII
+275
+Détachement de Hammerheads MKIV
+3 socles de Hammerheads MKIV
+275
+Détachement de Hammerheads MKV
+3 socles de Hammerheads MKV
+275
+Détachement de Hammerheads MKVI
+3 socles de Hammerheads MKVI
+300
+Nom
+Contenu
+Coût
+1 Hammerhead de commandement :
+Hammerheads de Commandement
+1 socles de Hammerheads d'un type pris, qui optient QG et 
+Personnage Lié
++25
+Détachement d'Exo­Armures XV15/XV25 
+Stealth
+4 socles d'Exo­Armures XV15/XV25 Stealth
+225
+Détachement de Piranhas
+5 socles de Piranhas
+200
+Détachement de Tetras
+3 socles de Tetras
+125
+
+===== PAGE 16 =====
+16
+Compagnie de Kroot
+Détachements Obligatoires
+Détachements Optionnels
+0­1 Formation Spéciale
+0­5 Formations de Support
+N'importe quel nombre d'Options
+Nom
+Contenu
+Coût
+1 Détachement parmi :
+Détachement de Carnivores Kroots
+ 4 socles Carnivores Kroots et 1 socle de Mentors Kroots 
+100
+Détachement de Chiens Kroots
+ 4 socles de Chiens Kroots et 1 socle de Mentors Kroots 
+100
+Détachement de Carnivores Kroots
+ 4 socles Carnivores Kroots et 1 socle de Mentors Kroots 
+150
+Détachement de Chiens Kroots
+ 4 socles de Chiens Kroots et 1 socle de Mentors Kroots 
+150
+Nom
+Contenu
+Coût
+1 Détachement parmi :
+Détachement de Carnivores Kroots
+ 4 socles Carnivores Kroots et 1 socle de Mentors Kroots 
+150
+Détachement de Chiens Kroots
+ 4 socles de Chiens Kroots et 1 socle de Mentors Kroots 
+150
+1 Détachement parmi :
+Nom
+Contenu
+Coût
+Détachement de Chevaucheur de Knorloc
+1 socle de Mentors Kroots et 4 socles de Chevaucheur de Knorloc
+150
+Détachement de Krootox
+1 socle de Mentors Kroots et 3 socles de Krootox
+175
+
+===== PAGE 17 =====
+17
+Formations Spéciales
+Contenu
+Coût
+Ethéré
+1 socle d'Ethéré
++75
+Commandant Shas'o (Unique)
+Remplace un socle de Shas'el par 1 de Shas'o
++50
+Détachement de Moray ­ Batterie à Ions
+1 socle de Moray avec Batterie à Ions
+600
+Détachement de Moray ­ Canons Rail
+1 socle de Moray avec Canons Rail
+625
+Détachement de Manta
+1 socle de Manta
+850
+Infanterie
+Détachement de Cibleurs
+4 socles de Cibleurs
+100
+Détachement de Drones MV1 d'Attaque
+4 socles de Drones MV1 d'Attaque
+75
+Détachement de Drones à Arme Lourde MkI 
+de soutien
+2 socles de Drones à Arme Lourde (lié à un détachement)
++50
+Détachement de Drones MV71 Snipers
+2 socles de Drones MV71 Snipers et 1 socle de Contrôleur de 
+Drones
+100
+Détachement de Frelons Vespids
+4/6 socles de Frelons Vespids
+125/175
+Détachement de Guerriers de Feu Breacher
+6 socles de Guerriers de Feu Breacher
+100
+Détachement de Guerriers de Feu Strike
+6 socles de Guerriers de Feu Strike
+125
+Détachement de Gue'vesa
+10 socles de Gue'vesa
+150
+Cavalerie
+Détachement de Piranhas
+5 socles de Piranhas
+200
+Marcheurs
+Détachement d'Exo­Armures XV8 MKI
+3 socles d'Exo­Armures XV8 Crisis MKI
+150
+Détachement d'Exo­Armures XV88 MKI 
+3 socles d'Exo­Armures XV88 Broadside MKI
+250
+Détachement de Tetras
+3 socles de Tetras
+125
+Détachement de Carnivores Kroots
+ 1 socle de Mentors Kroots et 4 socles Carnivores Kroots
+150
+Détachement de Chiens Kroots
+1 socle de Mentors Kroots et 4 socles de Chiens Kroots
+150
+Détachement de Armure Suprême KX139 
+Ta'unar
+1 socle d'Armure Suprême KX139 Ta'unar
+450
+Détachement d'Exo­Armures XV15/XV25 
+Stealth
+4 socles d'Exo­Armures XV15/XV25 Stealth
+225
+Détachement d'Exo­Armure XV9 MKI
+3 socles d'Exo­Armures XV9 MKI
+225
+Détachement d'Exo­Armures XV95 
+Ghostkeel
+3 socles d'Exo­Armures XV95 Ghostkeel
+250
+Détachement de Krootox
+1 socle de Mentor Kroot et 3 socles de Krootox
+175
+Détachement de Chevaucheur de Knorloc
+1 socle de Mentor Kroot et 4 socles de Chevaucheur de Knorloc
+150
+Détachement d'Exo­Armures XV8 MKII
+3 socles d'Exo­Armures XV8 Crisis MKII
+200
+Détachement d'Exo­Armures XV8 MKIII
+3 socles d'Exo­Armures XV8 Crisis MKIII
+200
+Détachement d'Exo­Armures XV88 MKII
+3 socles d'Exo­Armures XV88 Broadside MKII
+225
+Détachement d'Exo­Armure XV9 MKII
+3 socles d'Exo­Armures XV9 MKII
+225
+Formations de Support
+Contenu
+Coût
+
+===== PAGE 18 =====
+18
+Détachement de Drones Sentinelles
+4 socles de Tourelles Drones Sentinelles
+100
+Formations de Support
+Contenu
+Coût
+Chevaliers
+Détachement d'Exo­Armures XV104 Riptide 
+MKI
+2 socles d'Exo­Armures XV104 Riptide MKI
+375
+Superlourds
+Détachement de Scorpionfishs
+1 socle de Scorpionfish
+275
+Options
+Véhicules
+Détachement de Skyrays
+2 socles de Skyrays
+175
+Détachement de Stingrays
+3 socles de Stingrays
+200
+Détachement de Hammerheads MKI
+2/3 socles de Hammerheads MKI
+200/275
+Détachement de AX1­0 Tiger Shark
+1 socle de AX1­0 Tiger Shark
+250
+Détachement de Barracudas
+3 socles de Barracudas
+275
+Détachement de AX39 Sunsharks
+2 socles de Chasseurs AX39 Sunsharks
+250
+Détachement de Transport de Drône 
+Tigershark
+1 socle de Transport de Drones Tiger Shark
+4 socles de Drones MV1 d'Attaque 
+250
+Détachement d'Exo­Armures XV107 R'varna 2 socles d'Exo­Armures XV107 R'varna
+225
+Détachement d'Exo­Armures XV109 Y'vahra 2 socles d"Exo­Armures XV109 Y'vahra
+275
+Détachement d'Exo­Armure KV128 
+Stormsurge
+1 socles d'Exo­Armure KV128 Stormsurge
+375
+Détachement de Swordfishs
+1 socle de Swordfishs
+225
+Détachement de Devilfishs (grand)
+5 socles de Devilfishs
++125
+Détachement de Devilfishs (petit)
+2 socles de Devilfishs
++50
+Détachement de AX3 Razorshark
+3 socles de Chasseurs AX3 Razorshark
+300
+Détachement de Drone DX6 Remora
+3 socles de Chasseur Drone DX6 Remora
+150
+Détachement de Drones Intercepteurs
+2 socles de Drones Intercepteurs (ne peut être lié qu'a des Volants)
++50
+Détachement de Devilfishs (moyen)
+3 socles de Devilfishs
++75
+Détachement de Transport Orca
+1 socle de Transport Orca
+150
+Artillerie Hors­Champ
+1 Tir d'Artillerie Hors­Champ au choix
+125
+Détachement de Hammerheads MKII
+2/3 socles de Hammerheads MKII
+200/275
+Détachement de Hammerheads MKIII
+2/3 socles de Hammerheads MKIII
+200/275
+Détachement de Hammerheads MKIV
+2/3 socles de Hammerheads MKIV
+200/275
+Détachement de Hammerheads MKV
+2/3 socles de Hammerheads MKV
+200/275
+Détachement de Hammerheads MKVI
+2/3 socles de Hammerheads MKVI
+225/300
+Détachement d'Exo­Armures XV104 Riptide 
+MKII
+2 socles d'Exo­Armures XV104 Riptide MKII
+425
+Détachement de Drone Boucliers
+5 Drones Boucliers
+100
+Détachement de Drones MV1 d'Attaque de 
+Soutien
+2 socles de Drones MV1 d'Attaque (Lié à un détachement)
++25
+
+===== PAGE 19 =====
+19
+EXEMPLES D'ARMÉE
+Formations d'Armée
+Coût
+Contenu
+Compagnie d'Infanterie
+0
+Détachement de Devilfishs 
++75
+Détachement de Devilfishs 
++75
+1 socle de Sabre de Feu
+3 socles de Devilfishs
+3 socles de Devilfishs
+100
+6 socles de Guerriers de Feu Breacher
+125
+6 socles de Guerriers de Feu Strike
+125
+6 socles de Guerriers de Feu Strike
+Exemple d'Armée Tau ­ 3 000 pts
+Lien vers le Générateur d'armée : https://epicv3.garaud.net/armee1010
+Compagnie d'Exo­Armures
+200
+Détachement de Drone Bouclier
+100
+Shas'el
+5 Drones Boucliers
+200
+3 socles d'Exo­Armures XV8 Crisis MkII
+150
+3 socles d'Exo­Armures XV8 Crisis MkI
+250
+3 socles d'Exo­Armures XV88 Broadside MkI
+Compagnie d'Hammerheads
+300
+Moray ­ Canons Rail
+625
+Détachement de Tetras
+125
+3 socles de Hammerheads MkV et 1 socle QG de 
+Hammerheads MkV
+1 socle de Moray avec Canon Rail
+3 socles de Tetras
+275
+3 socles de Hammerheads MkV
+275
+3 socles de Hammerheads MkIV
+
+===== PAGE 20 =====
+20
+Formations d'Armée
+Coût
+Contenu
+Compagnie d'Infanterie
+0
+Détachement de Devilfishs 
++75
+1 socle de Sabre de Feu
+3 socles de Devilfishs
+100
+6 socles de Guerriers de Feu Breacher
+125
+6 socles de Guerriers de Feu Strike
+125
+6 socles de Guerriers de Feu Strike
+Exemple d'Armée Tau ­ 4 000 pts
+Lien vers le Générateur d'armée : https://epicv3.garaud.net/armee1011
+Compagnie d'Exo­Armures
+200
+Détachement de Drone Bouclier
+100
+Shas'el
+5 Drones Boucliers
+200
+3 socles d'Exo­Armures XV8 Crisis MkII
+150
+3 socles d'Exo­Armures XV8 Crisis MkI
+250
+3 socles d'Exo­Armures XV88 Broadside MkI
+Compagnie d'Hammerheads
+300
+Moray ­ Canons Rail
+625
+Détachement de Tetras
+125
+3 socles de Hammerheads MkV et 1 socle QG de 
+Hammerheads MkV
+1 socle de Moray avec Canon Rail
+3 socles de Tetras
+275
+3 socles de Hammerheads MkV
+275
+3 socles de Hammerheads MkIV
+Détachement d'Exo­Armures XV109 Y'vahra
+275
+Détachement de Scorpionfishs
+275
+2 socles d'Exo­Armures XV109 Y'vahra
+1 socle de Scorpionfish
+Détachement d'Exo­Armure KV128 Stormsurge
+375
+Détachement de Stingrays
+150
+1 socle d'Exo­Armure KV128 Stormsurge
+2 socles de Stingrays
+
+===== PAGE 21 =====
+21
+CARNIVORES KROOTS
+Les Kroots opèrent indépendamment sur le champ de bataille. Ils prennent 
+silencieusement position sur les flancs, dans des forêts épaisses ou des sous­bois s’ils en 
+ont l’occasion. Une fois postés, ils visent soigneusement leurs cibles et attendent le 
+moment opportun pour déclencher leur embuscade. Quand une proie idéale se présente 
+enfin, ils libèrent une volée dévastatrice. Une fois l’ennemi désorganisé et affaibli, les 
+Kroots surgissent de leur couvert et se lancent à l’assaut en quelques bonds agiles. Le 
+combat qui s’ensuit est invariablement violent et sanglant, car les Kroots sont des 
+adversaires redoutables au corps à corps, indéniablement bien plus dangereux que la 
+plupart des humains. 
+Les Carnivores Kroots ont la capacité Infiltration, Camouflage et Kroot.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+7
+Fusil Kroot
+45 cm
+1
+5+
+0
+CHIENS KROOTS
+Comme son nom l’indique, le Chien Kroot est une créature canine du genre 
+Kroot, qui a évolué jusqu’à devenir une bête d’attaque sauvage et agile, très féroce au 
+combat et connu pour son mauvais caractère. C’est un chien très intelligent, d’une 
+manière bestiale et capable de comprendre les instructions de ses maîtres. Ils sont aussi 
+très capricieux et il n’est pas rare qu’un Chien dévore son maître si ce dernier relâche 
+son attention. Les Kroots chargés de garder les Chiens Kroots en ligne sont souvent 
+couverts de cicatrices, mais ils développent un lien étroit avec leurs protégés au fil du 
+temps et agissent sur le terrain comme un seul homme. 
+Les Chiens Kroots ont la capacité Infiltration et Kroot.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+7
+Machoires Puissantes
+­
+­
+­
+­
+­
+­
+CIBLEURS
+Les Cibleurs sont des troupes de reconnaissance, et les yeux et les oreilles de 
+leurs Commandeurs, d’une façon bien plus efficace que n’importe quel Drone. Le 
+premier rôle des Cibleurs n’est pas d’engager l’ennemi, mais d’optimiser l’efficacité du 
+reste du Cadre. Utilisant des véhicules spécialement adaptés et anti­grav Devilfishs ou 
+Tetras, les Cibleurs opèrent en avant­garde à la recherche des forces ennemies. Ils 
+maintiennent une surveillance étroite de leurs adversaires, tout en restant habilement 
+cachés, et rapportent les détails de la nature et de la disposition de ces derniers grâce à 
+des systèmes de communication hautement chiffrés et presque indétectables. 
+Ils ont la capacité Infiltration et Désignateur Laser (75 cm).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6
+Carabine à Impulsion
+­
+30 cm
+1
+4+
+0
+INFANTERIE
+FA
++2
+FA
++2
+FA
+­1
+
+===== PAGE 22 =====
+22
+DRONES À ARME LOURDES
+Ces Drones sont équipés d'armes lourdes au lieu des carabines à impulsion 
+jumelées et sont un peu plus imposants que les Drones normaux. 
+Quand vous achetez une formation de support de deux Drones à Arme 
+Lourdes, ceux­ci deviennent chacun des Personnage Lié que vous devez adjoindre à un 
+autre détachement. Si vous achetez une formation de quatre Drones, ceux­ci forment un 
+détachement normal.
+Les Drones à Arme Lourde ont les capacités Drone et Réacteurs Dorsaux. 
+Leurs armes ont la capacité Missiles Intelligents. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+6+
+­
+Missile Intelligent
+45 cm
+1
+4+
+­1
+DRONES MV1 D'ATTAQUES
+Les Drones sont des systèmes d'armes robotisés équipés de moteurs antigrav et 
+gérer par intelligence artificielle. Les Drones MV1 d'Attaque transportent deux 
+carabines à impulsion jumelées et sont utilisés comme appuis feu mobiles pour les 
+détachements de Guerriers de Feu. 
+Quand vous achetez une formation de support de deux Drones d'Attaques, 
+ceux­ci deviennent chacun des Personnage Lié que vous devez adjoindre à un autre 
+détachement. Si vous achetez une formation de quatre Drones, ceux­ci forment un 
+détachement normal
+Les Drones d'attaque ont les capacités Drone et Réacteurs Dorsaux. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+6+
+­
+Carabines à Impulsion
+20 cm
+2
+5+
+0
+DRONES MV71 SNIPER
+Quand les premiers tests du nouveau Fusil Rail démontrèrent sa dangerosité 
+pour le tireur, les T'aus essayèrent d'embarquer cette arme sur un châssis de Drone pour 
+préserver la vie des guerriers T'aus. Les premiers tests du nouveau système prouvèrent 
+l'inefficacité des Drones pour manier cette arme sans assistance. Le développement d'un 
+système de contrôle augmenta grandement l'efficacité du système donnant naissance 
+aux Drones MV71 Snipers. Une unité de Drones MV71 Snipers est composée d'un 
+socle de Contrôleur de Drones et de deux socles de Drones Snipers. 
+Le Contrôleur de Drones a les capacités Camouflage Avancé, Sniper et 
+Désignateur Laser (60 cm). 
+Les Drones MV71 Snipers ont les capacités Drone, Réacteurs Dorsaux, Sniper et Camouflage Avancé.
+Contrôleur de Drones
+Drone MV71 Sniper
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6
+Carabine à Impulsion
+30 cm
+1
+4+
+0
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6+
+Lié
+Fusil Impulsion
+75 cm
+1
+4+
+0
+­
+FA
+­2
+FA
+­2
+FA
+­1
+FA
+­2
+
+===== PAGE 23 =====
+23
+ÉTHÉRÉ
+Les Éthérés forment la Caste dirigeante de la société T'au, et sont nés pour 
+conseiller et guider leur race sur la voie qui leur est destinée. Ils incarnent à la fois la 
+noblesse et le clergé, et la déférence dont ils font l’objet tient quasiment du mysticisme. 
+Pour les décisions importantes, un Éthéré sage ira écouter les doyens de chaque Caste, 
+bien qu’il soit souverain dans ses choix. La Caste des Éthérés est liée à un rôle précis : 
+guider les autres Castes afin d’œuvrer de concert pour le Bien Suprême. Un Éthéré se 
+doit d’être un meneur consommé. 
+Un Éthéré a les capacités QG, Psyker, Personnage Lié, et Charismatique 
+(12 cm). Un Éthéré peut utiliser un de ses pouvoirs chaque tour.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+5+f
+Lié
+Armes d'Assaut
+EXO­ARMURE XV15/25 STEALTH
+Les équipes Stealths sont des unités spéciales qui opèrent en "loups solitaires" 
+au­devant de l’armée, avec un certain degré d’indépendance vis­à­vis du Cadre. Elles 
+livrent une guerre secrète, s’infiltrant derrière les lignes adverses en quête de cibles 
+vulnérables. Pour parvenir en territoire ennemi sans être détectées, les équipes Stealths 
+utilisent une technologie de camouflage basée sur la réfraction lumineuse, incorporée 
+dans leurs Exo­Armures. Des champs auxiliaires atténuent les sons et les masquent aux 
+détecteurs thermiques, ce qui leur permet d’aller aussi loin que possible en territoire 
+ennemi afin de tendre des embuscades coordonnées. 
+Ils ont les capacités Réacteurs Dorsaux, Dur à Cibler, Tir en Mouvement, 
+Infiltration, Désignateur Laser (60 cm) et Camouflage Avancé. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+5
+Canon à Induction
+30 cm
+2
+4+
+0
+5+/6+f
+­
+­
+­
+­
+FRELONS VESPIDES
+Le vrombissement strident des ailes d’un Vespide est un son qu’il est 
+impossible d’oublier, même si peu de victimes survivent pour décrire une telle 
+expérience. En effet, ce bruit survient quelques secondes à peine avant que les Éclateurs 
+à Neutrons libèrent des tirs dévastateurs. Les Vespides sont une espèce insectoïde qui a 
+rejoint l’Empire T’au, et leurs unités mobiles, les fameux Frelons Vespides, servent en 
+tant qu’auxiliaires auprès de la Caste du Feu, et ils sont appréciés pour leur capacité à 
+franchir rapidement les terrains accidentés. Les Vespides sont excellents dans un rôle de 
+réserve mobile ou d’unité d’attaque de flanc, bien que les T’au utilisent surtout le 
+heaume de communion fourni aux Ka’Bri’Dan pour coordonner leurs actions avec 
+celles du reste du groupe de chasse. 
+Ils ont les capacités Réacteurs Dorsaux et Dur à Cibler.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+6
+Blasters à Neutron
+­
+20 cm
+1
+4+
+0
+FA
++1
+FA
++0
+FA
++1
+
+===== PAGE 24 =====
+24
+GUERRIERS DE FEU
+Être issu de la Caste du Feu, c’est être né pour la guerre. Des générations de 
+reproduction sélective ont fait de ces T'au les plus forts et les plus endurants. Dès qu’ils 
+peuvent marcher, ces guerriers en devenir intègrent les académies de la Caste du Feu, 
+des institutions dont le seul but est de fournir des soldats pour servir l’Empire T’au en 
+expansion. Les aspirants sont rigoureusement préparés, mentalement et physiquement, 
+pour devenir des Guerriers de Feu, l’infanterie de métier qui constitue l’épine dorsale 
+des Cadres de Chasse de chaque Sept. La plupart de ces guerriers sont réunis en Strike 
+Teams, le noyau courant et terriblement efficace d’une armée typique des Septs.
+Guerriers de Feu Breacher
+Guerriers de Feu Strike
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6
+Blaster à Impulsion
+20 cm
+2
+5+
+0
+GUE'VESAS
+Les Gue’vesa, littéralement "aides humaines" dans la langue T'au, sont des 
+guerriers humains qui ont fait leur la cause du Bien Suprême. Ces humains, souvent les 
+descendants de troupes capturées ou abandonnées pendant la croisade avortée de 
+Damoclès, vivent et combattent aujourd’hui aux côtés des T’au. Pour eux, le destin a 
+dicté que le Credo Impérial et le règne d’Adeptus Terra soient remplacés par la loyauté 
+à l’empire collectiviste T’au et à la Caste des Éthérés au pouvoir. Les troupes auxiliaires 
+humaines sont un spectacle assez courant le long des franges occidentales de l’espace 
+T’au, en particulier sur les mondes contestés pendant la Croisade de Damoclès. Les 
+T’au se sont avérés un ennemi plus redoutable que prévu pour les forces impériales et, 
+lorsque l’offensive a été bloquée, ils ont été contraints de se retirer en réponse à la 
+menace bien plus grande que représentait l’arrivée de la Flotte­Ruche Béhémoth dans les secteurs voisins.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+­
+7
+Fusil Laser
+45 cm
+1
+5+
+0
+­
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6
+Fusil à Impulsion
+45 cm
+1
+4+
+0
+­
+MENTOR KROOT
+Les parentés de Kroots sont commandées par des êtres mystérieux qu’on 
+nomme Mentors. Ils ont pour tâche de négocier les contrats de mercenariat et de 
+coordonner leurs stratégies avec celles de leurs employeurs, et cette position 
+prestigieuse leur permet de se procurer un équipement plus sophistiqué que celui de 
+leurs congénères. Les Mentors qui se battent régulièrement aux côtés des T'au portent 
+souvent des Fusils à Impulsion au lieu de l’armement primitif des Carnivores qu’ils 
+dirigent. Mais, plus important encore, ils jouent un rôle vital au sein de la société Kroot 
+qui façonne le sort de l’espèce entière, car les Mentors sont également responsables du 
+développement génétique de leur espèce. 
+Ils ont les capacités Infiltration, QG et Personnage Lié.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+5+
+Lié
+Fusil Kroot
+45 cm
+1
+5+
+0
+FA
++0
+FA
+­1
+FA
++0
+FA
++3
+
+===== PAGE 25 =====
+25
+SABRES DE FEU
+Les Sabres de Feu sont les fantassins les plus aguerris de leur cadre, et ont 
+délaissé l’opportunité d’endosser une Exo­Armure à cause de leur maîtrise de l’art du 
+combat à pied. Ce sont d’excellents meneurs, dont la grande expérience leur permet de 
+maximiser les dégâts causés par leurs tirs. Qu’il s’agisse de briser l’élan d’une horde 
+d’Orks ou d’abattre les Space Marines de l’Imperium à travers leur épaisse cuirasse, nul 
+ne connaît mieux les qualités d’un Guerrier de Feu qu’un Sabre de Feu. 
+Ils ont les capacités Elite (1), QG, Personnage Lié et Désignateur Laser (60 
+cm).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+6
+Fusil à Impulsion
+45 cm
+2
+4+
+0
+­
+FA
++1
+
+===== PAGE 26 =====
+26
+CAVALERIE
+PIRANHA
+Le Piranha est un antigrav légèrement blindé qui sert de plateforme de tir 
+mobile à la fois rapide et maniable. Nanti d’un excellent rapport masse/poussée et d’un 
+moteur antigrav performant, piloté en tandem, le Piranha glisse juste au­dessus de la 
+surface du sol, en suivant de près les contours du terrain pour tirer le meilleur parti du 
+couvert. En plus de l’arme principale montée dans son nez, le Piranha emporte deux 
+Drones, qui peuvent rester arrimés pour lui adjoindre leur puissance de feu, ou se 
+désarrimer pour aller accomplir quelque autre mission en mode IA. 
+Ils ont la capacité Antigrav.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+30 cm
+6+
+6
+Canon à Induction
+TETRA
+Le Tetra est un speeder de reconnaissance anti­grav à longue portée, léger, 
+rapide, et utilisé par les Cibleurs dans le cadre de missions d’infiltration et de 
+reconnaissance à longue portée. Les escouades de Cibleurs opèrent souvent bien en 
+avant de leur cadre, utilisant les Tetras pour se mettre en position, avant de camoufler 
+leurs véhicules et d’opérer à pied en toute discrétion. Une fois la mission de 
+reconnaissance terminée, ils retournent à leurs speeders et regagnent leurs propres 
+forces à toute vitesse.
+Ils ont la capacité Antigrav, Infiltration et Désignateur Laser (90 cm).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+30 cm
+­
+6
+Fusil à Impulsion Jumelées
+45 cm
+1
+4+
+0
+30 cm
+2
+4+
+0
+FA
++1
+FA
++0
+
+===== PAGE 27 =====
+27
+MARCHEURS
+EXO­ARMURES XV8 CRISIS
+L’Équipe XV8 Crisis est la formation d’Exo­Armures T’au la plus fréquente, 
+car elle cristallise l’approche T’au de la guerre : mobilité, flexibilité et puissance de feu 
+outrancière. Ce genre de force d’élite forme souvent le fer de lance d’un Cadre de 
+Chasse ; alternativement, elle peut être gardée en réserve sous les ordres du 
+Commandeur, afin d’enrayer la progression de l’ennemi, ou de lui infliger un coup 
+décisif qui brisera sa résistance une fois pour toutes. Les Équipes Crisis se composent 
+généralement de deux à trois guerriers (qui parfois peuvent agir isolément), formés et 
+équipés pour remplir toutes sortes de fonctions sur le terrain. Par exemple, contre des 
+effectifs élevés, une Équipe Crisis privilégiera les Canons à Induction, car sa cadence de 
+tir est optimale pour faucher les masses d’infanterie légère. Contre des cibles en armure 
+lourde, les Fusils à Plasma sont préférables de par leur capacité à traverser la céramite, tandis que l’Éclateur à Fusion est la 
+meilleure option antichar. 
+Elles ont les capacités Réacteurs Dorsaux, Tir en Mouvement et Elite (1). 
+Exo­Armure XV8 Crisis Mk I
+Exo­Armure XV8 Crisis Mk II
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+4+/6+f
+5
+Canons à Induction
+ 20 cm
+3
+4+
+0
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+4+/6+f
+5
+Fusil à Plasma
+45 cm
+2
+4+
+­1
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+4+/6+f
+5
+Blasteurs à Fusion
+ 20 cm
+2
+3+
+­2
+CHEVAUCHEUR DE KNORLOC
+Les Kroot sont connus pour capturer et élever des jeunes Knorloc pour former 
+des unités d'élite montées. Ils utilisent principalement leurs griffes en forme de rasoir, 
+leurs becs acérés et les muscles puissants de leurs jambes pour déchiqueter leurs proies. 
+Les Kroots qui les montent portent des fusils Kroot pour tirer depuis des positions 
+avantageuses où les Knarlocs peuvent les amener. Le fait de monter un Knorloc est 
+également considéré comme une affirmation sociale. 
+Ils ont la capacité Infiltration et Kroot.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+­
+7
+Fusil Kroot
+ 45 cm
+1
+5+
+0
+FA
++3
+FA
++1
+FA
++1
+FA
++1
+
+===== PAGE 28 =====
+28
+EXO­ARMURES XV9 HAZARD
+Nouvelle arme dans l’arsenal de l’Empire T’au, l’Armure de Soutien 
+Rapproché XV9 "Hazard" est une Exo­Armure sophistiquée et puissante qui a suscité 
+une certaine controverse parmi les éléments les plus traditionalistes de la Caste de la 
+Terre. Bien qu’elle soit sans aucun doute puissante, son armement à une portée plus et 
+plus complexe que toutes celles qui l’ont précédée, nécessitant les compétences d’un 
+vétéran pour la maîtriser au combat. La XV9 elle­même exige une énorme dépense de 
+ressources pour être produit en nombre utile, ressources qui, selon certains, seraient 
+mieux utilisées ailleurs pour construire de nombreux exemplaires de modèles plus 
+éprouvés. Les résultats obtenus en service par la XV9 ont converti de nombreux chefs 
+de guerre de la Caste du Feu à sa cause. 
+Elles ont la capacité Réacteurs Dorsaux, Tir en Mouvement et Elite (1). Les lances­Flammes à plasma de la variante 
+Mk I a la capacité Réduit les Couverts (­3).
+Exo­Armure XV9 Hazard Mk I
+Exo­Armure XV9 Hazard Mk II
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+/5+f
+5
+Lances­Flammes à Plasma
+20 cm
+2
+3+
+­1
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+EXO­ARMURES XV88 BROADSIDE
+La décision de combiner la technologie meurtrière des Canons Rail du char 
+Hammerhead à la polyvalence de l’Exo­Armure XV8 Crisis a donné le modèle XV88 
+Broadside. Conçues pour fournir du soutien à longue portée, les équipes XV88 
+Broadsides ont surpassé toutes les attentes, pour devenir des composantes essentielles 
+des Cadres de Chasse, et des unités antichars à la réputation légendaire. Couplés à un 
+puissant accélérateur de particules, les Canons Rail libèrent des projectiles pouvant 
+pénétrer les plus solides bunkers, voire les traverser de part en part. L’arme qui équipe 
+la XV88 Broadside n’est certes pas aussi massive que le Canon Rail monté sur le 
+Hammerhead, mais elle reste impressionnante de portée et de puissance de destruction. 
+Elles ont la capacité Tir Réflexe. Les armes de variante Mk II ont la capacité Missiles Intelligents.
+Exo­Armure XV88 Broadside Mk I
+Exo­Armure XV88 Broadside Mk II
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+3+/6+f
+5
+Fusil Rails Lourds
+75 cm
+2
+4+
+­2
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+10 cm
+3+/6+f
+5
+Missiles Intelligents
+45 cm
+3
+4+
+­1
+20 cm
+3+/5+f
+5
+Canon à Ions
+45 cm
+3
+4+
+0
+FA
++0
+FA
++0
+FA
++2
+FA
++2
+
+===== PAGE 29 =====
+29
+SHAS'VRE
+Les commandants T'au sont accompagnés de gardes du corps nommés 
+Shas'vre. Les Shas'vre sont équipés d'exo­armures Crisis et sont considérés comme 
+Marcheurs. 
+Ils ont les capacités Réacteurs Dorsaux, Tir en Mouvement et Elite (1).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+4
+Fusil à Plasma
+Lance­Missiles
+45 cm
+45 cm
+1
+2
+4+
+5+
+­1
+­1
+4+/6+f
+SHAS'EL
+Les pilotes d'Exo Armures qui se distinguent sur le champ de bataille peuvent 
+être promus au poste de commandant. L’épreuve ultime pour dépasser le rang de 
+Shas’el est d’obtenir des succès répétés au combat. Les Shas'el utilisent une exo armure 
+Crisis au combat et sont considérés comme Marcheurs. 
+Ils ont les capacités Réacteurs Dorsaux, Tir en Mouvement, Elite (1), 
+Personnage et QG.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+Lié
+Fusils à Plasma
+Lance­Missiles
+45 cm
+45 cm
+2
+2
+4+
+5+
+­1
+­1
+4+f
+SHAS'O
+Un Commandeur, ou Shas’o en langage T'au, est le plus haut rang qu’un 
+Guerrier de Feu puisse obtenir. Cette position prestigieuse ne peut être atteinte qu’après 
+des années de service en gravissant un à un les échelons ­ il n’y a aucune alternative. 
+Être Shas’o, c’est avoir fait preuve d’une rare maîtrise martiale et tactique, tel un 
+authentique disciple des arts guerriers. 
+Ils ont les capacités Génie Tactique, Réacteurs Dorsaux, Personnage, Tir en 
+Mouvement, Elite (2) et QG.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+Lié
+Fusils à Plasma Jumelé
+Blasters à Fusion
+45 cm
+20 cm
+2
+2
+3+
+3+
+­1
+­2
+4+f
+FA
++3
+FA
++4
+FA
++2
+
+===== PAGE 30 =====
+30
+KROOTOX
+Exemple salutaire de l’évolution sans issue de Kroots, les Krootox sont de 
+paisibles herbivores massifs, bien plus puissants que les Kroots normaux, issues de 
+parentèles qui se sont nourris de la chair des bêtes particulièrement musclées et 
+barbares. Ces familles se sont enfermées dans une spirale descendante d’évolution, 
+perdant leur intelligence et avec elle leur capacité à forger leur propre avenir génétique. 
+Le résultat est une variante extrêmement musclée et surdimensionnée de la physiologie 
+des Kroots, dont l’esprit ne peut guère faire preuve que d’une brutalité déraisonnable. 
+N’eut été du fait que les Kroots aient trouvé un usage pour les Krootox, la lignée aurait 
+pu s’éteindre il y a des générations, mais au lieu de cela, ils sont couramment observés 
+dans les parentèles de Carnivores dans l’Empire T’au et ailleurs. 
+Ils ont la capacité Infiltration et Kroot.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+5+
+7
+Canon Kroot
+60 cm
+2
+5+
+­1
+EXO­ARMURES XV95 GHOSTKEEL
+Enorme, mortelle et presque impossible à détecter jusqu’à ce qu’elle passe à 
+l’attaque, la XV95 Ghostkeel compte parmi les armes de terreur les plus efficaces de la 
+galaxie. Ces Exo­Armures mesurent plusieurs fois la taille d’un Guerrier de Feu, et sont 
+dotées d’un ensemble de moteurs à répulsion ainsi que d’armes efficaces, sans compter 
+de multiples systèmes de soutien, des appareils de haute technologie et un véritable 
+arsenal de guerre électronique. Les Exo­Armures Ghostkeel peuvent déchiqueter des 
+escadrons blindés et massacrer des formations d’infanterie en tendant des embuscades 
+meurtrières. La tempête de feu qu’elles déchaînent alors est telle que l’ennemi a 
+l’impression d’être attaqué par une armée entière surgissant d’une direction inattendue. 
+Elles ont la capacité Tir en Mouvement, Infiltration, Camouflage Avancé et Elite (1).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+4+/6+f
+5
+Cyclo­Araseur à Ions
+Blasters à Fusion
+30 cm
+20 cm
+1
+2
+4+
+3+
+­1
+­2
+FA
++1
+FA
++4
+
+===== PAGE 31 =====
+31
+VÉHICULES
+  CHASSEUR AX3 RAZORSHARK
+Pour les Guerriers de Feu en première ligne, rares sont les visions plus 
+réconfortantes que l’arrivée d’un Chasseur Razorshark jaillissant du plafond nuageux et 
+fonçant vers les formations ennemies. Son châssis a de nombreux éléments en commun 
+avec celui du Bombardier Sun Shark, si ce n’est que le Razorshark abandonne les 
+Drones d’interception au profit de moteurs de manœuvre supplémentaires, et qu’il 
+échange le Générateur de Bombes à Impulsions contre une redoutable tourelle 
+quadritube à Ions. Cette dernière est une arme terrible contre les véhicules légers, 
+qu’elle transforme promptement en épaves tordues. Au prix d’une légère instabilité, la 
+tourelle quadritube à Ions peut aussi tirer en mode surcharge, et ainsi affecter un 
+périmètre suffisant pour consumer des escouades entières d’un seul coup. 
+Le Razorshark a la capacité  Blindage Intégral, Intercepteur, Esquive (5+) et Volant. Ses Canons à Ions ont la 
+capacité Tourelle. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+3+
+6
+Quadri­Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+2
+2
+3+
+4+
+­1
+0
+ BOMBARDIER AX39 SUN SHARK
+Leurs doctrines de combat reposant sur la mobilité, les Cadres de Chasse 
+n’emploient pas d’artillerie au sens conventionnel. À la place, en collaboration avec la 
+Caste de l'Air, ils ont mis au point le Bombardier Sun Shark, un élégant aéronef 
+atmosphérique capable de fondre des cieux pour frapper les cibles terrestres avec son 
+armement dévastateur. Les Sun Sharks sont donc les prédateurs alpha des cieux dans 
+lesquels ils évoluent. La simple vision d’une formation de tels bombardiers, qui arrivent 
+en volant gracieusement au­dessus du champ de bataille, tout en laissant derrière elle un 
+tapis d’explosions bleutées, suffit à plonger dans une terreur indescriptible les ennemis 
+de l’Empire T'au. 
+Il à la capacité Blindage Intégral et Volant. Ses Bombes ont la capacité Bombardement (1) et Gabarit (7,5 cm). Ses 
+missiles ont la capacité Missiles Intelligents. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+3+
+6
+Missiles Intelligents
+Bombes à Impulsion
+30 cm
+Bombe
+3
+Gabarit
+4+
+4+
+­1
+­2
+  BARRACUDA
+Le chasseur de supériorité aérienne Barracuda est l’aéronef atmosphérique le 
+plus courant des T'au. Plus rapide que le Bombardier Marauder de la Marine Impériale, 
+mais n’ayant pas la vitesse de pointe du Chasseur Thunderbolt ou Lightning, il 
+compense cela grâce à ses systèmes électroniques sophistiqués et aux talents naturels de 
+ses pilotes. Dans un combat aérien, les Thunderbolts et les Barracuda sont très proches, 
+le Thunderbolt étant le plus rapide et le Barracuda le plus maniable. Les pilotes de 
+l’Imperium ont souvent une expérience du combat que la Caste de l'Air des T’au a du 
+mal à égaler. 
+Le Barracuda a la capacité Blindage Intégral, Esquive (5+), Intercepteur et Volant. Ses Canons à Indiction ont la 
+capacité Tourelle. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+3+
+6
+Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+1
+2
+4+
+4+
+­2
+0
+FA
++3
+FA
++2
+FA
++3
+
+===== PAGE 32 =====
+32
+  CHASSEUR DRONE DX6 REMORA 
+Le Chasseur DX6 Remora est un avion de combat furtif commandé par un 
+drone armé de deux canons à induction jumelés, parfait pour frapper les unités 
+faiblement blindées. 
+Le Remora a les capacités Blindage Intégral, Camouflage, Désignateur 
+Laser (45 cm), Volant et Drone. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+30 cm
+5+
+­
+Canons à Induction Jumelés
+20 cm
+2
+4+
+­1
+DEVILFISH
+Le transport de troupes blindé Devilfish est la bête de somme de toutes les 
+forces terrestres des T'au, et fournit à l’infanterie de la Caste du Feu une mobilité 
+précieuse ainsi qu’une unité d’appui­feu précieuse en toutes circonstances. Un Devilfish 
+peut accueillir jusqu’à douze guerriers de la Caste du Feu avec leur attirail complet, et 
+les mener au combat dans une relative sécurité, puis assurer un soutien mobile lorsqu’ils 
+ont débarqué. Les cadres hautement mécanisés comptent sur les Devilfishs pour 
+déplacer rapidement leurs troupes afin de redéployer leur ligne de feu à l’endroit le plus 
+crucial et soutenir les chars Hammerheads. 
+Le Devilfish a les capacités Antigrav, Transport Lié et Transport (2).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+25 cm
+3+
+Lié
+Canon à Induction
+30 cm
+1
+4+
+0
+  DRONES INTERCEPTEURS
+Les Drones Intercepteurs sont des drones volants équipés d'armes lourdes anti­
+aériennes. 
+Les Drones Intercepteurs ont la capacité Blindage Intégral, Drone, 
+Personnage Lié, Drone Bouclier et Volant. Il ne peut être lié qu'a des véhicules ou 
+Superlourd.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+Lié
+Canons à Ions
+20 cm
+1
+4+
+0
+­
+FA
++0
+FA
+­1
+FA
+­1
+
+===== PAGE 33 =====
+33
+DRONE SENTINELLE 
+Une Tourelle  Drone Sentinelle est un groupe de systèmes d'armes 
+automatiques reliés entre eux pour former un périmètre défensif. Les Tourelles­ Drones 
+sont déployées depuis l'orbite ou des vaisseaux à très haute altitude et disposent d'un 
+petit réacteur de saut pour rejoindre leur position. Une fois positionnées, les tourelles 
+restent stationnaires jusqu'à ce qu'elles soient récupérées. 
+Les Tourelles ­Drones Sentinelles ont les capacités Défense Autonome, 
+Tourelle, Blindage Intégral, Drone et Frappe en Profondeur (2).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+5+
+­
+Canons à Induction
+30 cm
+2
+4+
+0
+­
+HAMMERHEAD
+Le char de combat principal des T'au évoque la violence contenue et porte le 
+nom de "Hammerhead". Tel un prédateur affamé en maraude, tous les ennemis qui ont 
+eu affaire à lui ont rapidement appris à craindre sa puissance de feu. Rencontrée pour la 
+première fois par l’Imperium pendant la Croisade de Damoclès, le Hammerhead est 
+depuis lors le véhicule de combat de base de Cadres T’au, bien que des armements 
+alternatifs aient depuis été identifiés avec succès. On rencontre couramment les chars 
+Hammerheads en petit nombre, pour soutenir les équipes de Guerriers de Feu. 
+Les Hammerheads ont les capacités Antigrav. Leur arme principale à la 
+capacité Tourelle, en plus le Canon Rail de la variante MK II à la capacité Dégât (+1), 
+la Rampe de Missiles du Mk III utilise un Artillerie et Réduit les Couverts (­1). Enfin 
+les missiles des variantes MK II, IV et VI ont la capacité Missiles Intelligents. 
+Hammerhead MK I
+Hammerhead MK II
+Hammerhead MK III
+Hammerhead MK IV
+Hammerhead MK V
+Hammerhead MK VI
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Canons à Ecoulement à Ions
+Canons à Induction
+30 cm
+30 cm
+2
+2
+3+
+4+
+­3
+0
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Canon Rail
+Missiles Intelligents
+75 cm
+45 cm
+1
+1
+4+
+4+
+­3
+­1
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Rampe de Missiles
+Missiles Intelligents
+75 cm
+45 cm
+2
+1
+3+
+4+
+­1
+­1
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Canons à Induction Lourds
+Canons à  Induction
+45 cm
+30 cm
+4
+1
+3+
+4+
+0
+0
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Canon à Ion
+Canons à Induction
+75 cm
+30 cm
+2
+2
+4+
+4+
+­2
+0
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Fusils à Plasma Jumelé
+Missiles Intelligents
+45 cm
+45 cm
+2
+1
+3+
+4+
+­2
+­1
+FA
+­2
+FA
++0
+FA
++0
+FA
++0
+FA
++0
+FA
++0
+FA
++0
+
+===== PAGE 34 =====
+34
+SKY RAY 
+Le char lance­missiles Sky Ray est une variante spécialisée du Hammerhead 
+dont le canon de tourelle est remplacé par un râtelier de redoutables missiles à guidage. 
+Conçu à l’origine pour neutraliser les aéronefs ennemis, le Sky Ray a également fait ses 
+preuves contre des cibles au sol. Sur le terrain, le Sky Ray est un char antigrav qui flotte 
+à l’arrière du front en balayant l’horizon de ses deux Désignateurs Laser, en quête de 
+cible terrestre ou aérienne à verrouiller. 
+Le Sky Ray a la capacité Antigrav, Désignateur Laser (75 cm) et Missiles à 
+Guidage Laser. Son arme à la capacité AA.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Missiles à Tête Chercheuse
+75 cm
+2
+4+
+­2
+STINGRAY
+Après la Croisade du Golfe de Damoclès, la rencontre des T'aus avec les 
+vieilles forces impériales les a amené à envisager l'élaboration d'une arme pouvant tirer 
+en dehors et au delà des lignes de vue pour briser les vagues d'Orks lâchés dans le 
+secteur après le cessez  le  feu Imperium/T'au. Une grande ogive unique, similaire à celle 
+utilisée par les Canons Trembleterre, a d'abord été envisagée, mais les T'aus se sont vite 
+rendus compte qu'elle serait moins efficace qu'un missile à tête chercheuse modifié, 
+avec un grand nombre de missiles intelligents chargés dans la soute. Le résultat fut 
+d'abord un char basé sur le châssis Skyray. Les premiers essais sur le terrain ont été 
+prometteurs, mais ont révélé des lacunes sur les véhicules utilisés pour le test. Le 
+premier d'entre eux était la taille du nouveau missile, ce qui rendaient les chars extrêmement dépendants du 
+réapprovisionnement lors de batailles prolongées. 
+Le Stringray a les capacités Antigrav et Missiles à Guidage Laser. Les Missiles à Sous Munitions utilise un Gabarit 
+(7,5 cm) qui Réduit les Couverts (­1) et à la capacité Batterie, les Missiles Intellignets ont la capacité Missiles Intelligents.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+
+6
+Missiles à Sous­Munitions
+Missiles Intelligents
+75 cm
+45 cm
+Gabarit
+1
+3
+4+
+0
+­1
+FA
++0
+FA
++0
+
+===== PAGE 35 =====
+35
+CHEVALIERS
+EXO­ARMURE XV104 RIPTIDE
+La XV104 Riptide est une merveille de la Caste de la Terre, une Exo­Armure 
+lourde capable d’anéantir des chars, des formations d’infanterie et des positions 
+fortifiées tout en esquivant ou en résistant aux tirs adverses. La Riptide est deux fois 
+plus haute qu’une Exo­Armure XV8 Crisis, mais son aisance de mouvement est plus 
+proche de cette dernière que des marcheurs impériaux d’une taille comparable à la 
+sienne. Bien que la Riptide soit énorme et dotée de divers systèmes de soutien et 
+d’armes, elle reste une Exo­Armure. De fait, elle n’est pilotée que par un seul guerrier, 
+qui reste néanmoins en mesure de libérer des tirs précis et de se déplacer avec une 
+efficacité tactique incroyable. 
+Elle a les capacités PdV (2), Blindage Intégral, Réacteurs Dorsaux, Tir en Mouvement et Tir Réflexe. Ses missiles 
+ont la capacité Missiles Intelligents.
+Exo­Armure XV104 Riptide MK I
+Exo­Armure XV104 Riptide MK II
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+/4+f
+5
+Canons à Induction Lourds
+Blasters à  Fusion
+Missiles Intelligents
+45 cm
+20 cm
+45 cm
+2
+2
+2
+4+
+3+
+4+
+­1
+­2
+­1
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+/4+f
+5
+Accélérateur à Ions
+Canon à Plasma
+Missiles Intelligents
+75 cm
+45 cm
+45 cm
+2
+1
+2
+4+
+3+
+4+
+­2
+­1
+­1
+EXO­ARMURE KV128 STORMSURGE
+Les KV128 Stormsurges sont des colosses de destruction en mesure d’anéantir 
+des colonnes de chars ou de battre des marcheurs super­lourds d’une seule salve. 
+Envoyés au front de la guerre contre l’Imperium, qui ne cesse de prendre de l’ampleur, 
+ces bastions mobiles ont rapidement prouvé leur utilité face aux hordes d’infanterie et 
+aux masses blindées de l’ennemi. Bien que lente, une seule Stormsurge peut renverser 
+le cours d’une bataille en quelques secondes grâce à sa puissance de feu phénoménale. 
+La Stormsurge est la première d’une nouvelle série de machines de guerre appelées 
+armures balistiques. Développée par le célèbre scientifique de la Caste de la Terre Fio’o 
+Bork’an Ishu’ron, cette énorme plate­forme de tir bipède est une réponse aux machines 
+de guerre super­lourdes de l’ennemi. 
+Elle a les capacités PdV (3) et Tir Réflexe. Une Stormsurge peux tirer au maximum 4 Roquettes à Grappes qui ont la 
+capacité Missiles à Guidage Laser et Munitions Limitée (4). Son Canon Catalyseur à la capacité Dégâts (+1). Son Missile 
+Destroyeur à la capacité Missiles à Guidage Laser. Enfin elle possède un système de Missiles Intelligents. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+2+/4+f
+5
+90 cm
+75 cm
+75 cm
+45 cm
+30 cm
+1
+1
+2
+2
+4
+3+
+4+
+4+
+4+
+4+
+­4
+­1
+­2
+­1
+0
+Canon Catalyseur à Imp.
+Roquettes à Grappes
+Missile Destroyer
+Missiles Intelligents
+Canons à Induction
+FA
++2
+FA
++3
+FA
++3
+
+===== PAGE 36 =====
+36
+EXO­ARMURE XV107 R'VARNA
+Développement de l’Exo­Armure Riptide, l’Exo­Armure T’au XV107 R’varna 
+sacrifie la mobilité au profit d’un blindage plus lourd et d’une puissance de feu accrue 
+sous la forme de deux Canons Impulsions, systèmes d’armes expérimentaux qui tirent 
+des projectiles capables de saturer la zone cible dans une tempête mortelle d’impulsions 
+de plasma. La stoïque Caste de la Terre de Ke'lshan a presque été contrainte 
+d’abandonner ses plans de développement de l’Exo­Armure R’varna en raison du coût 
+monumental de ces nouveaux moteurs de guerre. 
+Elle a les capacités PdV (2) et Tir en Mouvement et son arme utilise un 
+Gabarit (7,5 cm) qui Réduit les Couverts (­1).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+3+/4+f
+5
+75 cm
+Gabarit
+4+
+­1
+Canons à Sous­Munitions
+EXO­ARMURE XV109 Y'VAHRA
+Déployé à la hâte après le succès de l’Exo­Armure R’varna, le XV109 Y’vahra 
+est une Exo­Armure de classe 10 conçue pour les attaques de choc dévastatrices. Pour 
+faciliter ce rôle, le Y’vahra est équipé d’un triple Canon à Plasma capable de vaporiser 
+la céramite la plus dure, et d’un Canon à Impulsions Électro Magnétiques PEM conçu 
+pour neutraliser les machines de guerre ennemis. Le réseau complexe de propulseurs à 
+vecteur incorporé dans l’impressionnant blindage du Y’vahra lui permet de traverser le 
+gracieusement les limites du champ de bataille, en frappant la plus grande concentration 
+d’ennemis et en récoltant un lourd tribut en vies avant de s’envoler. 
+Elle a les capacités PdV (2), Réacteurs Dorsaux, Tir en Mouvement et Tir 
+Réflexe. Son Lance­Flammes utilise un Gabarit (Flamme) qui Réduit les Couverts (­
+3).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+3+/4+f
+5
+30 cm
+0 cm
+2
+Gabarit
+3+
+4+
+­2
+0
+Blasters à Fusion
+Lance­Flammes à Plasma
+FA
++3
+FA
++3
+
+===== PAGE 37 =====
+37
+  AX1­0 TIGER SHARK
+Le Tiger Shark est le grand cousin du Barracuda. C’est un énorme aéronef 
+déployé dans le rôle de chasseur­bombardier. Les Tiger Sharks ne sont jamais aussi 
+nombreux que les Barracudas, mais ils ont de nombreuses caractéristiques et systèmes 
+en commun avec eux. Tous les membres de l’équipage sont issus de la Caste de l'Air, ce 
+qui leur donne l’avantage naturel d’une conscience tridimensionnelle supérieure et 
+d’une tolérance à des vitesses d’accélération plus élevées, et à plus de G dans le virage, 
+qu’un pilote humain. Tout comme le Barracuda, les différentes Castes de l’Air des Septs 
+fonctionnent selon des versions légèrement différentes. 
+Le Tiger Shark a la capacité  PdV (2), Blindage Intégral et Volant. Ses Canons à Ions ont Dégât (+1). Ses Canons à 
+Induction ont la capacité Tourelle.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+3+
+5
+Canons à  Rail Léger
+Canons à  Induction
+45 cm
+20 cm
+2
+4
+4+
+4+
+­3
+0
+SUPERLOURDS
+SCORPIONFISH
+Après avoir affronté les tanks superlourds impériaux lors de la Croisade de 
+Damoclès et les conflits suivants, les T'aus ont déployé de considérables efforts dans le 
+développement de leurs propres chars superlourds. N'ayant aucun autre véhicule assez 
+large pour servir de base, le transporteur Orca a été lourdement armé et blindé, 
+réduisant tellement sa mobilité qu'il en devint un anti grav de surface. Cette variante a 
+été appelée Char Lance  Missiles Lourd Scorpionfish et ne transporte pas moins qu'un 
+ensemble complet de missiles à sous munitions, à tête chercheuse et traqueurs ainsi 
+qu'un lance missiles à tir direct. Il ne dispose pas d'une arme principale unique mais agit 
+plutôt comme une plate forme de nombreux systèmes plus petits, le rendant capable 
+d'attaquer n'importe quelle sorte de cible. Cette flexibilité a prouvé qu'il était un atout 
+considérable dans les récentes campagnes T'aus. Il fait partie de la ligne de feu arrière des armées T'aus, protégeant les lignes 
+arrières aussi solidement qu'un roc. 
+Le Scorpionfish a les capacités Antigrav Lourd, PdV (2) et Désignateur Laser (75 cm). Il possède un système de 
+Missiles Intelligents. Son Lance­Missiles Lourd peux possède trois modes de tir qui utilise sont tous des Missiles à Guidage 
+Laser. Le mode à Sous­Munition utilise un Gabarit (12 cm)  qui Réduit les Couverts (­1).
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+2+
+5
+Missiles Intelligents
+Lance­Missiles Lourd (choisir)
+Missiles Traceurs
+Missiles à Sous­Munitions
+Missiles à Tête Chercheuse
+45 cm
+100 cm
+100 cm
+100 cm
+2
+3
+Gabarit
+6
+4+
+3+
+4+
+4+
+­1
+­3
+0
+­1
+FA
++3
+FA
++2
+
+===== PAGE 38 =====
+38
+  TRANSPORT DE DRONES
+TIGER SHARK
+Le Tige Shark joue à la fois le rôle d'un transporteur de Drones et d'un 
+chasseur d'appui lourd. Sa cale inférieure peut transporter 4 socles de Drones d'attaque, 
+qui peuvent être largués en altitude pour renforcer les lignes T'aus ou pour lancer des 
+attaques surprises derrière les lignes ennemies. Le Tiger Shark n'a pas à atterrir pour 
+débarquer ses Drones et peut larguer les socles de Drones d'attaque à n'importe quel 
+moment lors de son mouvement. 
+Le Tiger Shark a la capacité  PdV (2), Blindage Intégral, Volant, Tiger Shark et Transport (4 Drones). Ses Canons 
+à Induction ont la capacité Tourelle. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+3+
+5
+Canons à Ions
+Canons à Induction
+30 cm
+20 cm
+2
+4
+4+
+4+
+­2
+0
+  VAISSEAU DE TRANSPORT ORCA
+L’Orca est un véhicule de transport orbital spécialement conçu pour transporter 
+les troupes, les équipements et les fournitures des vaisseaux spatiaux en orbite vers la 
+surface d’une planète. Contrairement au vaisseau de combat Thunderhawk des Space 
+Marines ou au Manta beaucoup plus grand des T'au, l’Orca n’est pas un véhicule de 
+combat de première ligne, armé et blindé pour prendre part à une bataille. 
+L’Orca n’est équipé que pour l’autodéfense. Sa fonction première est le 
+transport. L'Orca à la capacité Blindage Intégral, PdV (2), Transport (8) et Volant. 
+Ses Canons à Induction ont la capacité Tourelle. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+30 cm
+2+
+5
+Canons à  Induction
+Missiles Intelligents
+20 cm
+30 cm
+4
+2
+4+
+4+
+0
+­1
+SWORDFISH
+Autre résultat des travaux des T'aus dans la conception de véhicules super ‐
+lourds, le Char superlourd Swordfish est la réponse T'au aux Shadowsword et 
+Baneblade impériaux. Même s'ils n'avaient pas initialement l'intention d'utiliser de 
+véhicules super lourds (exceptée la Manta), les T'aus se sont vite rendus compte de 
+l'efficacité des superlourds impériaux et ont développé rapidement les leurs. Le premier 
+à être construit était le Scorpionfish et peu après ce fut le Swordfish. 
+Le Swordfish a les capacités Antigrav Lourd et PdV (2). Son Canon Rail 
+Lourd possède la capacité Tourelle et Dégâts (+1). Enfin, il possède un système de 
+Missiles Intelligents.
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+2+
+5
+Canon Rail Lourd Jumelé
+Missiles Intelligents
+Canons à Induction
+90 cm
+45 cm
+30 cm
+2
+2
+2
+4+
+4+
+4+
+­3
+­1
+0
+FA
++2
+FA
++1
+FA
++1
+
+===== PAGE 39 =====
+39
+PRETORIENS
+MORAY
+Le Moray est une unité introduite récemment dans les armées T'aus afin de 
+répondre au besoin d'un appui feu nourri sans avoir à déployer un vaisseau lance ‐
+missiles Manta. Le Moray est assez similaire à la Manta en apparence, mais est 
+beaucoup plus petit et ne peut pas transporter de troupes, tout en restant une force de 
+frappe conséquente. Son arme principale est soit un canon Rail lourd, une version plus 
+puissante du canon Rail monté sur les tanks T'aus, ou une batterie de canons à ions 
+lourds tirant à l'unisson. Il est un mélange entre l'antigrav à haute altitude lourd et un 
+lent aéronef, tout comme le vaisseau lance­missiles Manta plus imposant, et peut être 
+considéré comme la réponse de T'au à aux char superlourds et Titans de reconnaissance 
+ennemis.
+Un Moray a les capacités Flottant, PdV (6), DR (5+) et Boucliers Déflecteur (2). Il est équipé de Canon à Inductions 
+en Tourelle et de Missiles Traceurs qui ont la capacité Missiles à Guidage Laser. La variante avec Canon Rail possède deux 
+mode de tir. Le premier est un puissant tir avec Dégâts (+2). Le second est un obus de sous ­munitions qui utilise un Gabarit 
+(12 cm) et Endommage les Bâtiments (PA ­4/2). 
+Moray avec Canon à Ions
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+2+
+Fiche
+­
+Batterie à Ions
+Canons à Induction Jumelé
+Missiles Traceurs
+75 cm
+30 cm
+100 cm
+6
+6
+2
+4+
+4+
+4+
+­2
+­1
+­3
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+2+
+Fiche
+­
+Canons Rails Lourds (choisir)
+ Tir Puissant
+Obus de Sous­Munitions
+Canons à Induction Jumelé
+Missiles Traceurs
+90 cm
+90 cm
+30 cm
+100 cm
+2
+Gabarit
+6
+2
+4+
+4+
+4+
+4+
+­4
+0
+­1
+­3
+MANTA
+Le Manta est le vaisseau super lourd des T'au. Il est si grand qu’il s’agit en fait 
+d’un petit vaisseau spatial. Le Manta est ce qui se rapproche le plus des Titans de 
+l’Imperium ou des Gargants des Orks, avec une puissance de feu comparable. Il est bien 
+armé et cuirassé pour une utilisation en première ligne, où il est prévu qu’il se déploie et 
+combatte en tant que vaisseau d’attaque. Un Manta a une puissance de feu redoutable. 
+Ses principales armes sont deux Canons Rail Lourds, qui tirent un obus à ailettes 
+stabilisées pour plus de portance dans l’atmosphère. 
+Le Manta a les capacités Flottant, PdV (8), DR (5+), Boucliers Déflecteur 
+(3) et Transport (24). Il est équipé de Canon à Inductions en Tourelle. Son Canon Rail possède deux mode de tir. Le premier 
+est un puissant tir avec Dégâts (+2). Le second est un obus de sous ­munitions qui utilise un Gabarit (12 cm) et Endommage 
+les Bâtiments (PA ­4/2). Enfin, ses Missiles Traceurs ont la capacité Missiles à Guidage Laser. 
+Mouvement
+Sauvegarde
+Moral
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+20 cm
+2+
+Fiche
+­
+Canons Rails Lourds  (choisir)
+ Tir Puissant
+Obus de Sous­Munitions
+Batterie à Ions
+Canons à Induction Jumelé
+Missiles Traceurs
+90 cm
+90 cm
+75 cm
+30 cm
+100 cm
+2
+Gabarit
+6
+8
+2
+4+
+4+
+4+
+4+
+4+
+­4
+0
+­2
+­1
+­3
+FA
++7
+FA
++5
+FA
++5
+
+===== PAGE 40 =====
+40
+TITANS
+ARMURE SUPRÊME KX139 TA'UNAR
+L’Exo­Armure "Supremacy" T’au est plus grande que toute autre classe d’Exo­
+Armure actuelle. Elle est destinée à faire face à une menace que l’Empire T’au n’avait 
+pas encore connue : la défense des mondes appartenant à leur domaine croissant contre 
+les forces de contre­expansion des autres races. N’ayant pas la maniabilité des autres 
+Exo­Armures, l’Armure KX139 Supremacy Ta’unar a été conçue pour une défense 
+statique, avec des armes à longue portée massivement destructrices.
+Confrontés à un nombre croissant d’éléments d’assaut lourds ennemis, des 
+Chevaliers Impériaux aux monstruosités extraterrestres des Flottes­Ruches Tyranides, 
+les pilotes T’au étaient souvent surclassés. L’ingénieur Fio’o Ke’lshan Sho’aun, de la 
+Caste de la Terre, développa le KX139 pour mettre en place une défense dynamique mais stoïque contre de tels ennemis..
+Le Ta’unar est équipé de deux Armes de Bras et a les capacités PdV (4), DR (5+), Tir en Mouvement et Boucliers 
+Déflecteur (2). De plus, il possède un système de  Missiles Intelligents.
+Mouvement
+Sauvegarde
+FA
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+15 cm
+2+
+Fiche
++7
+Missiles Intelligents
+Canon à Induction Jumelés
+45 cm
+30 cm
+2
+2
+4+
+4+
+­1
+­1
+Choisir 1 Arme principale et 2 Armes secondaires
+Moral
+­
+
+===== PAGE 41 =====
+41
+ARTILLERIE HORS CHAMP
+Elle peut représenter des batteries d’armes longue portée déployées à bonne distance de la zone de combat ou des tirs 
+d’artillerie venus de vaisseaux en orbite. L’Artillerie Hors­champ a un coût en points de destruction et non en points. 
+Habituellement lancés en orbite par les croiseurs T'aus, l'Artillerie Hors­Champ T'au est guidée par les Désignateurs Laser. 
+Même si ces tirs ne sont pas appelés par des Observateurs Avancés, vous devez réussir un test de communication de 3+ pour 
+pouvoir utiliser l'Artillerie Hors­Champ. Un seul tir d'Artillerie Hors­Champ peut être utiliser sur le point concerné, même si le 
+test de communication est raté.
+Les missiles traceurs gravitationnels sont lancés à partir de lanceurs gravitationnels et font d'énormes dégâts lors de 
+l'impact avec la cible. Les missiles gravitationnels à sous munitions sont utilisés par les T'aus pour supprimer des forces 
+ennemies fortement retranchées.
+Les Missiles Gravitationnels suivent les règles Missiles à Guidage Laser et Dégât (+1).
+Les Missiles à sous­munitions ont les capacités Endommage les Bâtiments (PA ­4/2), Missiles à Guidage Laser, 
+Gabarit (12 cm) et Réduit les Couverts (­1).
+Salve de Missiles Traceurs Gravitationnels
+. 
+Salve de Missiles Gravitationnels à sous­munitions
+Mouvement
+Sauvegarde
+FA
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+­
+­
+Missiles Traceurs 
+Gravitationnels
+­
+1
+3+
+­3
+Mouvement
+Sauvegarde
+FA
+Armes
+Portée
+Nb de dés
+Pour toucher
+PA
+­
+­
+­
+Missiles Gravitationnels à 
+Sous­Munitions
+­
+Gabarit
+4+
+0
+PIONS ET GABARITS
+Tempête de Feu
+Boucliers Déflecteur
+Grâce de Zéphyr
+Désignateur Laser
+Drones Bouclier
+Aura des Marées

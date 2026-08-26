@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  24 AUG 2026 20:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  26 AUG 2026 10:01
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**"c:/Files/NetEpicFR300-EnglishTranslation/Rulebook 303/main"
+(c:/Files/NetEpicFR300-EnglishTranslation/Rulebook 303/main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -22,40 +23,31 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen150
-) (./preamble.tex
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+) (./preamble.tex (../shared/rulebook-preamble.tex (../shared/preamble-master.tex (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-)
-(c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -65,18 +57,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
-
-(c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
-
-(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-07-20 L3 programming layer (loader) 
-
-(c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 ))
@@ -207,30 +194,16 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen265
 \l__tblr_last_vline_wd_dim=\dimen266
 \l__tblr_tikz_node_box=\box80
-)
-(c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count324
-)
-(c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
-Package: placeins 2005/04/18  v 2.2
-)
-(c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count325
-\Gm@cntv=\count326
-\c@Gm@tempcnt=\count327
+\Gm@cnth=\count324
+\Gm@cntv=\count325
+\c@Gm@tempcnt=\count326
 \Gm@bindingoffset=\dimen267
 \Gm@wd@mp=\dimen268
 \Gm@odd@mp=\dimen269
@@ -240,11 +213,27 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen273
 \Gm@layoutvoffset=\dimen274
 \Gm@dimlist=\toks18
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2026-05-17 v2.16e rotated objects in LaTeX
+ (c:/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+\c@r@tfl@t=\count327
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box81
+\rot@mess@toks=\toks19
+) (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count328
+) (c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen275
 \captionmargin=\dimen276
@@ -256,9 +245,10 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen282
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count328
-\c@continuedfloat=\count329
-)) (./main.aux)
+\c@caption@flags=\count329
+\c@continuedfloat=\count330
+Package caption Info: rotating package is loaded.
+)))) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -275,28 +265,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-
-(c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
+\scratchcounter=\count331
 \scratchdimen=\dimen283
-\scratchbox=\box81
-\nofMPsegments=\count331
-\nofMParguments=\count332
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count333
+\scratchbox=\box82
+\nofMPsegments=\count332
+\nofMParguments=\count333
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count334
 \MPscratchDim=\dimen284
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
+\everyMPtoPDFconversion=\toks21
 ) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -336,8 +322,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 [1
 
-{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./00-intro/intro-foot-note.tex
+{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./00-intro/intro-foot-note.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -346,9 +331,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-) (./00-intro/introduction-to-netepic.tex
-[2{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[3
+) (./00-intro/introduction-to-netepic.tex [2{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3
 
 
 ]) (./00-intro/important-concepts.tex [4]
@@ -377,11 +360,9 @@ Overfull \hbox (11.72453pt too wide) in paragraph at lines 197--197
 
 ) (./00-intro/preparing-for-battle.tex [8] [9
 
-] [10])
-(./01-game-turn/game-turn.tex [11]) (./01-game-turn/strategy-phase.tex [12
+] [10]) (./01-game-turn/game-turn.tex [11]) (./01-game-turn/strategy-phase.tex [12
 
-]
-[13
+] [13
 
 ]) (./01-game-turn/movement-phase.tex [14]
 <figures/movement-a.png, id=67, 1770.615pt x 1184.17406pt>
@@ -412,9 +393,7 @@ File: figures/movement-e.png Graphic file (type png)
 <use figures/movement-e.png>
 Package pdftex.def Info: figures/movement-e.png  used on input line 121.
 (pdftex.def)             Requested size: 244.55144pt x 164.62378pt.
- [17 <./figures/movement-c.png> <./figures/movement-d.png>] [18 <./figures/move
-ment-e.png>]) (./01-game-turn/combat-phase.tex
-[19] [20
+ [17 <./figures/movement-c.png> <./figures/movement-d.png>] [18 <./figures/movement-e.png>]) (./01-game-turn/combat-phase.tex [19] [20
 
 ]
 <figures/combat-a.png, id=96, 1771.36781pt x 1187.93813pt>
@@ -441,8 +420,7 @@ File: figures/combat-d.png Graphic file (type png)
 <use figures/combat-d.png>
 Package pdftex.def Info: figures/combat-d.png  used on input line 220.
 (pdftex.def)             Requested size: 244.55144pt x 164.54886pt.
-
-[24 <./figures/combat-c.png> <./figures/combat-d.png>]
+ [24 <./figures/combat-c.png> <./figures/combat-d.png>]
 <figures/combat-e.png, id=118, 1774.37906pt x 1187.93813pt>
 File: figures/combat-e.png Graphic file (type png)
 <use figures/combat-e.png>
@@ -459,64 +437,36 @@ File: figures/combat-g.png Graphic file (type png)
 <use figures/combat-g.png>
 Package pdftex.def Info: figures/combat-g.png  used on input line 303.
 (pdftex.def)             Requested size: 244.55144pt x 164.89784pt.
-) (./01-game-turn/end-phase.tex [26] [27 <./figures/combat-f.png> <./figures/co
-mbat-g.png>]) (./02-something/morale.tex [28
+) (./01-game-turn/end-phase.tex [26] [27 <./figures/combat-f.png> <./figures/combat-g.png>]) (./02-something/morale.tex [28
 
 ] [29
 
-])
-(./02-something/titans-and-praetorians.tex [30] [31
+]) (./02-something/titans-and-praetorians.tex [30] [31
 
-])
-(./02-something/terrain-and-structures.tex [32] [33
+]) (./02-something/terrain-and-structures.tex [32] [33
 
-] [34] [35])
-(./03-special-abilities/special-abilities.tex [36] [37
+] [34] [35]) (./03-special-abilities/special-abilities.tex [36] [37
 
 ] [38] [39]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 194.
- [40] [41]
-[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52])
-(./04-markers-and-templates/markers-and-templates.tex [53]) [54
+ [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]) (./04-markers-and-templates/markers-and-templates.tex [53]) [54
 
 ] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 8706 strings out of 467159
- 181125 string characters out of 5413461
- 686983 words of memory out of 5000000
- 37892 multiletter control sequences out of 15000+600000
+ 8874 strings out of 467159
+ 184239 string characters out of 5413461
+ 689937 words of memory out of 5000000
+ 38046 multiletter control sequences out of 15000+600000
  637203 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,10n,109p,591b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/te
-xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/202
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2026/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmib10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
-b><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texl
-ive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c
-:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive
-/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2026/tex
-mf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fo
-nts/type1/public/cm-super/sfrm1000.pfb>
+ 103i,10n,109p,643b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
 Output written on main.pdf (54 pages, 48478430 bytes).
 PDF statistics:
  314 PDF objects out of 1000 (max. 8388607)

@@ -1,0 +1,48 @@
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tabularray}
+\usepackage[a4paper,margin=0.75in]{geometry}
+\usepackage{rotating}
+\usepackage{url}
+\usepackage{etoolbox}
+\usepackage{placeins}
+\usepackage{caption}
+
+\graphicspath{{figures/}}
+\captionsetup{font=small}
+
+\newif\ifinunitminipage
+
+\newcommand{\closeunitminipage}{%
+    \ifinunitminipage
+        \par
+        \endminipage
+        \par
+        \inunitminipagefalse
+    \fi
+}
+
+\newcommand{\openunitminipage}{%
+    \ifinunitminipage
+        \closeunitminipage
+        \vspace{8pt}%
+    \fi
+    \par\noindent
+    \minipage{\textwidth}%
+    \inunitminipagetrue
+}
+
+\AddToHook{cmd/section/before}{\closeunitminipage\FloatBarrier}
+\AddToHook{cmd/subsection/before}{\FloatBarrier}
+\AddToHook{cmd/subsubsection/before}{\FloatBarrier}
+
+\pretocmd{\section}{\clearpage}{}{}
+\AtEndDocument{\closeunitminipage}
+
+\newcommand{\unitdivider}{%
+    \closeunitminipage
+    \par
+    \vspace{8pt}%
+    \hrule height 1.5pt
+    \vspace{8pt}%
+}

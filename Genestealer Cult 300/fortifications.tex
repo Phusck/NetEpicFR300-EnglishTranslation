@@ -1,0 +1,92 @@
+\section{Fortifications}
+
+Fortifications are fortified positions, which are either built in advance or dropped from orbit.
+
+\begin{table}[ht]
+    \centering
+
+    \resizebox{\textwidth}{!}{%
+        \begin{tblr}{
+            colspec={
+                Q[c,m] Q[c,m] Q[c,m] Q[c,m] Q[c,m] Q[c,m]
+                Q[c,m] Q[c,m] Q[c,m] Q[c,m] Q[c,m]
+            },
+            cells={
+                halign=c,
+                valign=m
+            },
+            hlines,
+            vlines,
+            row{1}={
+                bg=black,
+                fg=white,
+                font=\bfseries,
+                ht=12mm,
+                valign=m
+            },
+            row{3,5}={bg=gray!20}
+        }
+            Terrain &
+            Infantry &
+            Walkers &
+            Cavalry &
+            Vehicles &
+            \SetCell{c,m}{Knights and\\Super-heavies} &
+            \SetCell{c,m}{Titans and\\Praetorians} &
+            Line of Sight &
+            \SetCell{c,m}{Save\\(2D6)} &
+            \SetCell{c,m}{Cover\\Save} &
+            AF Bonus
+            \\
+
+            \textbf{Bunker} &
+            Normal &
+            \SetCell[c=5]{c,m} Impassable & & & & &
+            \SetCell{c,m}{Blocking\\Class 3} &
+            \SetCell{c,m}{3+\\3 Wounds} &
+            3+ &
+            $+2$
+            \\
+
+            \textbf{Trench} &
+            \SetCell[c=4]{c,m}
+                Costs 5~cm of movement to cross & & & &
+            \SetCell[c=2]{c,m} Normal & &
+            No Effect &
+            -- &
+            4+ &
+            $+2$
+            \\
+
+            \textbf{Barricade} &
+            \SetCell[c=4]{c,m}
+                Costs 5~cm of movement to cross & & & &
+            \SetCell[c=2]{c,m} Normal & &
+            \SetCell{c,m}{Blocking\\Class 1} &
+            \SetCell{c,m}{7+\\1 Wound per 10~cm} &
+            5+ &
+            $+1$
+            \\
+
+            \SetCell{c,m}{\textbf{Artillery}\\\textbf{Emplacement}} &
+            \SetCell[c=4]{c,m}
+                May enter; otherwise Impassable & & & &
+            \SetCell[c=2]{c,m} Impassable & &
+            \SetCell{c,m}{Blocking\\Class 3} &
+            \SetCell{c,m}{3+\\3 Wounds} &
+            4+ &
+            $+2$
+            \\
+
+            \textbf{Minefield} &
+            \SetCell[c=6]{c,m}{
+                Dangerous Terrain (4+/AP~$-2$) for every base that is not at altitude.\\
+                Bases with several Wounds are hit 1D6 times.
+            } & & & & & &
+            No Effect &
+            -- &
+            -- &
+            --
+        \end{tblr}%
+    }
+\end{table}

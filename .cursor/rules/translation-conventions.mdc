@@ -26,6 +26,202 @@ If a French summary table disagrees with that unit's card, ask which source to f
 - Support Tyrannofex gun: Bio-Plasma Cannon
 - Harridan Spore Cloud range: Bomb
 
+Resolved Exodite conflicts (Codex Eldars – Exodites v3.0.0):
+
+- A: Travois – Missile Launcher weapon: Missile Launcher (card)
+- B: Dragon Knights weapon: Shard Carbine and Lance (card)
+- C: Pentasaur – Thermal Lance range: 20 cm (table)
+- D: Megadon – Support gun: Maelstrom Laser (table)
+- E: Vyper Transport class: Cavalry
+- F: Dragoons class: Cavalry
+- G: Carnosaur class: Knights
+- H: Baron retainers: Dragoons (not the “Dragoniers” typo)
+- I: Travois weapon name: Bright Lance; detachment may say Bright Lance Travois
+- J: Scout (Éclaireur) is both a unit keyword and the army rule that counts those detachments — not two different abilities
+- K: Holo-Field grants Protection (X+)
+- L: Soin / Medic — ignore for now
+- M+: Raptor Knights; Reconnaissance Walkers; Shard Carbine; wraithbone; Venom (not Vemon); drop doubled words; fix grammar in English
+
+Exodite name mappings:
+
+- Guerriers Exodites → Exodite Warriors
+- Chevaliers sur Dragons → Dragon Knights
+- Chevaliers sur Léthosaures → Lethosaur Knights
+- Chevaliers sur Ptérosaures → Pterosaur Knights
+- Chevaliers sur Raptors → Raptor Knights
+- Dragonniers → Dragoons
+- Visionnaire → Visionary
+- Vyper de Transport → Vyper Transport
+- Marcheurs de Combat → Combat Walkers
+- Marcheurs de Reconnaissance → Reconnaissance Walkers
+- Carnosaure → Carnosaur
+- Pentasaure → Pentasaur
+- Salamandre → Salamander
+- Mégadon → Megadon
+- Lance Ardente → Bright Lance
+- Rayonneur Laser → Scatter Laser
+- Laser Stellaire → Star Laser
+- Laser Maelstrom → Maelstrom Laser
+- Éclaireur → Scout
+- Forestier → Forester
+- Holo-Champ → Holo-Field
+- L'Exécuteur → The Executioner
+- Chance → Fortune
+- Soin → Heal
+- Moëlle spectrale → wraithbone
+- Personnage Lié → Attached Character
+- Transport Lié → Attached Transport
+- Toit Ouvert → Open-Topped
+- Tir en Mouvement → Fire on the Move
+- Ne peut pas être transporté → Cannot Be Transported
+
+Resolved Genestealer Cult conflicts (Codex Culte Genestealer v3.0.0):
+
+- A: Aberrant Save: 5+
+- B: Genestealer Cultists weapon: Bolt Pistol (card)
+- C: Hybrid Save: 5+
+- D: Patriarch Charismatic range: 40 cm (card)
+- E: Patriarch keyword: Character (card), not Attached Character
+- F: Scout Sentinel Flamer range: 25 cm
+- G: Thudd Gun weapon: Quad Howitzer (table *Obusier Quadritube*)
+- H: Vulture second gun: Autocannon (card)
+- I: Shadowsword Volcano Cannon range: 100 cm (card)
+- J: Psychic Barrage AP: 0 (card)
+- K: Convent fourth line keeps the name Hybrid Psyker Detachment (contents remain 5 Genestealer bases, 200)
+- L: Sanctus Hybrid Assassin resolves the assault with the Genestealer Assassin, not a Callidus
+- M: Swarm Telepathy — the allied model need not be in LoS of the Hybrid Psyker
+- N: Charismatic (X cm) is a rulebook ability; print the name only
+- O: Subterranean Fire, Robot, and Roller are rulebook abilities; print the names only
+- P: lore distinguishes Hive Mind and Broodmind; Slave / Synapse / barrage keep Hive Mind, Hive Mind Test, and Synapse radius
+- Q: Convent (not Covent)
+- R–T: English / Games Workshop names only
+
+Genestealer Cult name mappings:
+
+- Culte Genestealer → Genestealer Cult
+- Secte Génovore / Secte Génestealer → Genestealer Cult
+- Fléau Génovore / Fléau Génestealer → Genestealer Curse
+- Esprit-Ruche / Esprit de Ruche / Esprit de la Rûche → Hive Mind
+- Esprit de Couvain → Broodmind
+- Acolyte Porte-Icône → Acolyte Iconward
+- Cultistes Genestealer → Genestealer Cultists
+- Hybride → Hybrid
+- Néophyte → Neophyte
+- Psyker Hybride → Hybrid Psyker
+- Patriarche → Patriarch
+- Canon d'Infanterie → Infantry Cannon
+- Acolytes à Moto → Acolytes on Bikes
+- Primus à Moto → Primus on Bike
+- Buggy Achille → Achilles Ridgerunner
+- Sentinelle Blindée → Armoured Sentinel
+- Sentinelle de Reconnaissance → Scout Sentinel
+- Mortier Taupe → Mole Mortar
+- Rapière Destructeur Laser → Rapier Laser Destroyer
+- Camion Goliath → Goliath Truck
+- Concasseur Goliath → Goliath Rockgrinder
+- Taupe → Mole
+- Hydre → Hydra
+- Méduse → Medusa
+- Bombarde → Bombard
+- Griffon → Griffon
+- Limousine → Limousine
+- Barrage Psychique → Psychic Barrage
+- Masse d'Arme → Power Maul
+- Pistolet Bolter → Bolt Pistol
+- Pistolet Laser → Laspistol
+- Fusil Laser → Lasgun
+- Arme de Force → Force Weapon
+- Pistolet à Aiguille et Épée → Needle Pistol and Sword
+- Double Autocanon → Twin Autocannon
+- Mitrailleuse Lourde → Heavy Stubber
+- Multifuseur / Multi-Fuseur → Multi-melta
+- Lance-Flammes → Flamer
+- Canon Inferno → Inferno Cannon
+- Canon Fuseur → Melta Cannon
+- Obusier → Battle Cannon
+- Méga Obusier → Baneblade Cannon
+- Obusier de Siège → Siege Cannon
+- Obusier Quadritube → Quad Howitzer
+- Canon Trembleterre → Earthshaker Cannon
+- Mortier Colossus → Colossus Mortar
+- Mortier Lourd Griffon → Griffon Heavy Mortar
+- Canon Volcano → Volcano Cannon
+- Lanceur Multiples → Multiple Launcher
+- Destructeur Laser → Laser Destroyer
+- Charismatique → Charismatic
+- Améliorations Génomiques → Genomic Enhancements
+- Assassins Genestealer → Genestealer Assassins
+- Tir Sous-Terrain → Subterranean Fire
+- Rouleau → Roller
+- Fortification Avancée → Advanced Fortification
+
+Resolved Tau conflicts (Codex Tau Palladium v3.0.0):
+
+- A: XV88 Broadside Mk I cost: 250 everywhere
+- B: Shield Drones: 50 in Recon Company, 100 in Options
+- C: Kroot Carnivores / Hounds: 100 everywhere
+- D: Fireblade class: Walkers; Morale: Lié (table)
+- E: Knarloc Rider class: Cavalry (table)
+- F: Scorpionfish class: Light Praetorians (table)
+- G: Shas'el / Shas'o keyword: Attached Character (table); drop the duplicate Elite (1) on the Shas'el
+- H: Interceptor Drones attach only to Flyers (table + army list)
+- I: R'varna Movement: 15 cm (card)
+- J: Y'vahra Fusion Blasters range: 20 cm (table)
+- K: Orca Save: 3+ (table); weapons: Burst Cannons and Smart Missiles (card)
+- L: AX1-0 Tiger Shark main gun: Heavy Ion Cannons (table)
+- M: Ta'unar Heavy Rail powerful shot: 2 dice, 4+ (profile table)
+- N: Ta'unar Heavy Rail submunition template: 12 cm (profile table)
+- O: Ta'unar: include Agile (table)
+- P: Manta: include Heavy Rail firing modes from the card
+- Q: Stingray Support: 3 bases for 200 only (army list)
+- R: Kroot Mentor: AF +3, HQ, Attached Character (card); no Kroot keyword
+- S: Keep the French layout: Ethereal powers under Special Rules; Tiger Shark and Shield Drones under Psychic Powers
+- T: Official Games Workshop English names; fix typos
+- U: Charismatic and Tactical Genius are rulebook abilities; print the names only
+
+Tau name mappings:
+
+- Taus / T'au / Tau → T'au
+- Guerriers de Feu Strike → Fire Warriors Strike
+- Guerriers de Feu Breacher → Fire Warriors Breacher
+- Sabre de Feu → Fireblade
+- Cibleurs → Pathfinders
+- Carnivores Kroots → Kroot Carnivores
+- Chiens Kroots → Kroot Hounds
+- Mentor Kroot → Kroot Shaper
+- Chevaucheur de Knorloc → Knarloc Rider
+- Frelons Vespides → Vespid Stingwings
+- Éthéré / Ethéré → Ethereal
+- Exo-Armure → Battlesuit
+- Drones à Arme Lourde → Heavy Gun Drones
+- Drones MV1 d'Attaque → MV1 Attack Drones
+- Drones MV71 Sniper → MV71 Sniper Drones
+- Drones Boucliers / Drone Boucliers → Shield Drones
+- Drones Intercepteurs → Interceptor Drones
+- Drone Sentinelle → Drone Sentry Turret
+- Désignateur Laser → Markerlight
+- Missiles Intelligents → Smart Missiles
+- Missiles à Guidage Laser → Seeker Missiles
+- Missiles à Tête Chercheuse → Seeker Missiles
+- Bouclier Déflecteur → Deflector Shield
+- Réacteurs Dorsaux → Jump Packs
+- Dur à Cibler → Hard to Hit
+- Camouflage Avancé → Advanced Camouflage
+- Génie Tactique → Tactical Genius
+- Charismatique → Charismatic
+- Tempête de Feu → Firestorm
+- Grâce du Zéphyr → Zephyr's Grace
+- Aura des Marées → Tide Aura
+- Canon à Induction → Burst Cannon
+- Fusil à Impulsion → Pulse Rifle
+- Carabine à Impulsion → Pulse Carbine
+- Blaster à Impulsion → Pulse Blaster
+- Fusil à Plasma → Plasma Rifle
+- Blasters à Fusion / Blasteurs à Fusion → Fusion Blaster
+- Canon Rail → Railgun
+- Canon à Ions → Ion Cannon
+- Prétoriens Légers → Light Praetorians
+
 Inspect `.tex` files, not compiled English PDFs.
 
 Terminology:

@@ -1,21 +1,11 @@
-\usepackage{graphicx}
-\usepackage{xcolor}
-\usepackage{tabularray}
-\usepackage[a4paper,margin=0.75in]{geometry}
-\usepackage{rotating}
-\usepackage{url}
-\usepackage{etoolbox}
-\usepackage{placeins}
+\input{../shared/preamble-master}
 
-\AddToHook{cmd/section/before}{\FloatBarrier}
-\AddToHook{cmd/subsection/before}{\FloatBarrier}
-\AddToHook{cmd/subsubsection/before}{\FloatBarrier}
+\AddToHook{cmd/subsection/before}{\openunitminipage}
 
-\pretocmd{\section}{\clearpage}{}{}
-
-\newcommand{\unitdivider}{%
+\newcommand{\unitimage}[1]{%
     \par
-    \vspace{8pt}%
-    \hrule height 1.5pt
-    \vspace{8pt}%
+    \vspace{6pt}%
+    \begin{center}
+        \includegraphics[height=3.2cm]{#1}%
+    \end{center}%
 }

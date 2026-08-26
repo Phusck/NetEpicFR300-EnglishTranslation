@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  25 AUG 2026 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.18)  25 AUG 2026 23:21
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**"c:/Files/NetEpicFR300-EnglishTranslation/Tyranids 300/main"
+(c:/Files/NetEpicFR300-EnglishTranslation/Tyranids 300/main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -22,41 +23,31 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen150
-) (./preamble.tex
-(../shared/codex-preamble.tex
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+) (./preamble.tex (../shared/codex-preamble.tex (../shared/preamble-master.tex (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-)
-(c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -66,18 +57,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
-
-(c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
-
-(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-07-20 L3 programming layer (loader) 
-
-(c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 ))
@@ -208,14 +194,11 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen265
 \l__tblr_last_vline_wd_dim=\dimen266
 \l__tblr_tikz_node_box=\box80
-)
-(c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count324
@@ -230,11 +213,9 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen273
 \Gm@layoutvoffset=\dimen274
 \Gm@dimlist=\toks18
-)
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/rotating.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2026-05-17 v2.16e rotated objects in LaTeX
-
-(c:/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count327
@@ -242,18 +223,32 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip52
 \rot@float@box=\box81
 \rot@mess@toks=\toks19
-)
-(c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count328
-)
-(c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-))) (./main.aux)
+) (c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen275
+\captionmargin=\dimen276
+\caption@leftmargin=\dimen277
+\caption@rightmargin=\dimen278
+\caption@width=\dimen279
+\caption@indent=\dimen280
+\caption@parindent=\dimen281
+\caption@hangindent=\dimen282
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count329
+\c@continuedfloat=\count330
+Package caption Info: rotating package is loaded.
+)))) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -270,28 +265,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
-(c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count329
-\scratchdimen=\dimen275
+\scratchcounter=\count331
+\scratchdimen=\dimen283
 \scratchbox=\box82
-\nofMPsegments=\count330
-\nofMParguments=\count331
+\nofMPsegments=\count332
+\nofMParguments=\count333
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count332
-\MPscratchDim=\dimen276
-\MPnumerator=\count333
-\makeMPintoPDFobject=\count334
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen284
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
 \everyMPtoPDFconversion=\toks21
 ) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -327,10 +318,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 (./legal-notice.tex [1
 
-{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./introductio
-n.tex [2
+{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./introduction.tex [2
 
 ] [3
 
@@ -339,22 +331,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
-) (./special-rules.tex [4]
-Overfull \hbox (1.62047pt too wide) in paragraph at lines 57--58
-[]\OT1/cmr/m/n/10 Before de-ploy-ment, for ev-ery com-plete 2,000 points in the
- army, one Synapse
- []
+) (./special-rules.tex [4]) (./special-abilities.tex [5
 
-[5
+] [6] [7
 
-]) (./special-abilities.tex [6] [7
-
-{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [8]
-Overfull \hbox (15.0pt too wide) in paragraph at lines 184--185
-[][] 
- []
-
-) (./unit-profiles.tex [9
+{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [8] [9]) (./unit-profiles.tex [10
 
 ]
 Overfull \hbox (20.6865pt too wide) in paragraph at lines 271--271
@@ -611,9 +592,9 @@ Overfull \hbox (11.96417pt too wide) in paragraph at lines 1143--1143
  []\OT1/cmr/m/n/10 Template 
  []
 
-) (./titan-weapons.tex [10
+) (./titan-weapons.tex [11
 
-] [11] [12] [13] [14]
+] [12] [13] [14] [15]
 Overfull \hbox (0.73965pt too wide) in paragraph at lines 117--117
  []\OT1/cmr/m/n/10 Template 
  []
@@ -653,14 +634,14 @@ Overfull \hbox (0.73965pt too wide) in paragraph at lines 117--117
  []\OT1/cmr/m/n/10 Template 
  []
 
-[15
+[16
 
 
-]) (./army-formations.tex [16
+]) (./army-formations.tex [17
 
-]) (./infantry.tex [17
+]) (./infantry.tex [18
 
-] [18] [19]
+] [19] [20]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 29--29
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -680,12 +661,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 29--29
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 29--30
-[][] 
- []
-
-<figures/barbgaunt.png, id=75, 313.9228pt x 229.60782pt>
+<figures/barbgaunt.png, id=78, 313.9228pt x 229.60782pt>
 File: figures/barbgaunt.png Graphic file (type png)
 <use figures/barbgaunt.png>
 Package pdftex.def Info: figures/barbgaunt.png  used on input line 31.
@@ -710,12 +686,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 63--63
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 63--64
-[][] 
- []
-
-<figures/hive-guard.png, id=76, 313.9228pt x 229.60782pt>
+<figures/hive-guard.png, id=79, 313.9228pt x 229.60782pt>
 File: figures/hive-guard.png Graphic file (type png)
 <use figures/hive-guard.png>
 Package pdftex.def Info: figures/hive-guard.png  used on input line 65.
@@ -740,21 +711,15 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 99--99
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 99--100
-[][] 
- []
-
-[20
-
-
- <./figures/barbgaunt.png (PNG copy)> <./figures/hive-guard.png (PNG copy)>]
 <figures/gargoyles.png, id=80, 282.30469pt x 267.24844pt>
 File: figures/gargoyles.png Graphic file (type png)
 <use figures/gargoyles.png>
 Package pdftex.def Info: figures/gargoyles.png  used on input line 101.
 (pdftex.def)             Requested size: 96.17616pt x 91.04872pt.
+[21
 
+
+ <./figures/barbgaunt.png (PNG copy)> <./figures/hive-guard.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 135--135
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -784,16 +749,10 @@ Overfull \hbox (10.9905pt too wide) in paragraph at lines 135--135
  []\OT1/cmr/m/n/10 Attached 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 135--136
-[][] 
- []
-
-<figures/alpha-genestealer.png, id=81, 280.04625pt x 283.81032pt>
+<figures/alpha-genestealer.png, id=84, 280.04625pt x 283.81032pt>
 File: figures/alpha-genestealer.png Graphic file (type png)
 <use figures/alpha-genestealer.png>
 Package pdftex.def Info: figures/alpha-genestealer.png  used on input line 137.
-
 (pdftex.def)             Requested size: 89.83882pt x 91.04872pt.
 
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 172--172
@@ -815,18 +774,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 172--172
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 172--173
-[][] 
- []
-
-<figures/genestealers.png, id=82, 313.9228pt x 271.0125pt>
+<figures/genestealers.png, id=85, 313.9228pt x 271.0125pt>
 File: figures/genestealers.png Graphic file (type png)
 <use figures/genestealers.png>
 Package pdftex.def Info: figures/genestealers.png  used on input line 174.
 (pdftex.def)             Requested size: 105.46297pt x 91.04872pt.
-[21 <./figures/gargoyles.png (PNG copy)> <./figures/alpha-genestealer.png (PNG 
-copy)>]
+[22 <./figures/gargoyles.png (PNG copy)> <./figures/alpha-genestealer.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 211--211
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -846,12 +799,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 211--211
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 211--212
-[][] 
- []
-
-<figures/tyranid-warriors.png, id=86, 333.49594pt x 243.91125pt>
+<figures/tyranid-warriors.png, id=89, 333.49594pt x 243.91125pt>
 File: figures/tyranid-warriors.png Graphic file (type png)
 <use figures/tyranid-warriors.png>
 Package pdftex.def Info: figures/tyranid-warriors.png  used on input line 213.
@@ -876,109 +824,87 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 249--249
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 249--250
-[][] 
- []
-
-<figures/rippers.png, id=87, 332.74312pt x 264.23718pt>
-File: figures/rippers.png Graphic file (type png)
-<use figures/rippers.png>
-Package pdftex.def Info: figures/rippers.png  used on input line 251.
-(pdftex.def)             Requested size: 114.65433pt x 91.04872pt.
-[22 <./figures/genestealers.png (PNG copy)> <./figures/tyranid-warriors.png (PN
-G copy)>]
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 287--287
- []\OT1/cmr/bx/n/10 Movement 
- []
-
-
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 287--287
- []\OT1/cmr/bx/n/10 Morale 
- []
-
-
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 287--287
- []\OT1/cmr/bx/n/10 Movement 
- []
-
-
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 287--287
- []\OT1/cmr/bx/n/10 Morale 
- []
-
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 287--288
-[][] 
- []
-
-<figures/hormagaunts.png, id=91, 319.94531pt x 250.68657pt>
+<figures/hormagaunts.png, id=90, 319.94531pt x 250.68657pt>
 File: figures/hormagaunts.png Graphic file (type png)
 <use figures/hormagaunts.png>
-Package pdftex.def Info: figures/hormagaunts.png  used on input line 289.
+Package pdftex.def Info: figures/hormagaunts.png  used on input line 251.
 (pdftex.def)             Requested size: 116.20543pt x 91.04872pt.
-
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 328--328
+[23 <./figures/genestealers.png (PNG copy)> <./figures/tyranid-warriors.png (PNG copy)>]
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 290--290
  []\OT1/cmr/bx/n/10 Movement 
  []
 
 
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 328--328
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 290--290
  []\OT1/cmr/bx/n/10 Morale 
  []
 
 
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 328--328
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 290--290
  []\OT1/cmr/bx/n/10 Movement 
  []
 
 
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 328--328
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 290--290
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 328--329
-[][] 
- []
-
-<figures/lictor.png, id=92, 213.04594pt x 253.69781pt>
+<figures/lictor.png, id=94, 213.04594pt x 253.69781pt>
 File: figures/lictor.png Graphic file (type png)
 <use figures/lictor.png>
-Package pdftex.def Info: figures/lictor.png  used on input line 330.
+Package pdftex.def Info: figures/lictor.png  used on input line 292.
 (pdftex.def)             Requested size: 76.45917pt x 91.04872pt.
-[23 <./figures/rippers.png (PNG copy)> <./figures/hormagaunts.png (PNG copy)>]
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 367--367
+
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 329--329
  []\OT1/cmr/bx/n/10 Movement 
  []
 
 
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 367--367
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 329--329
  []\OT1/cmr/bx/n/10 Morale 
  []
 
 
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 367--367
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 329--329
  []\OT1/cmr/bx/n/10 Movement 
  []
 
 
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 367--367
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 329--329
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 367--368
-[][] 
- []
-
-<figures/termagants.png, id=96, 328.22626pt x 223.58531pt>
+<figures/termagants.png, id=95, 328.22626pt x 223.58531pt>
 File: figures/termagants.png Graphic file (type png)
 <use figures/termagants.png>
-Package pdftex.def Info: figures/termagants.png  used on input line 369.
+Package pdftex.def Info: figures/termagants.png  used on input line 331.
 (pdftex.def)             Requested size: 133.66211pt x 91.04872pt.
-) (./cavalry.tex [24 <./figures/lictor.png (PNG copy)> <./figures/termagants.pn
-g (PNG copy)>]
+[24 <./figures/hormagaunts.png (PNG copy)> <./figures/lictor.png (PNG copy)>]
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 367--367
+ []\OT1/cmr/bx/n/10 Movement 
+ []
+
+
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 367--367
+ []\OT1/cmr/bx/n/10 Morale 
+ []
+
+
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 367--367
+ []\OT1/cmr/bx/n/10 Movement 
+ []
+
+
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 367--367
+ []\OT1/cmr/bx/n/10 Morale 
+ []
+
+<figures/rippers.png, id=99, 332.74312pt x 264.23718pt>
+File: figures/rippers.png Graphic file (type png)
+<use figures/rippers.png>
+Package pdftex.def Info: figures/rippers.png  used on input line 369.
+(pdftex.def)             Requested size: 114.65433pt x 91.04872pt.
+) (./cavalry.tex [25 <./figures/termagants.png (PNG copy)> <./figures/rippers.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 35--35
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -998,17 +924,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 35--35
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 35--36
-[][] 
- []
-
-<figures/raveners.png, id=100, 321.45094pt x 201.75375pt>
+<figures/raveners.png, id=104, 321.45094pt x 201.75375pt>
 File: figures/raveners.png Graphic file (type png)
 <use figures/raveners.png>
 Package pdftex.def Info: figures/raveners.png  used on input line 37.
 (pdftex.def)             Requested size: 145.0685pt x 91.04872pt.
-) (./walkers.tex [25
+) (./walkers.tex [26
 
  <./figures/raveners.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 31--31
@@ -1030,12 +951,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 31--31
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 31--32
-[][] 
- []
-
-<figures/carnifex.png, id=105, 175.40532pt x 258.21469pt>
+<figures/carnifex.png, id=108, 175.40532pt x 258.21469pt>
 File: figures/carnifex.png Graphic file (type png)
 <use figures/carnifex.png>
 Package pdftex.def Info: figures/carnifex.png  used on input line 33.
@@ -1060,16 +976,10 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 66--66
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 66--67
-[][] 
- []
-
-<figures/winged-hive-tyrant.png, id=106, 303.38344pt x 211.54031pt>
+<figures/winged-hive-tyrant.png, id=109, 303.38344pt x 211.54031pt>
 File: figures/winged-hive-tyrant.png Graphic file (type png)
 <use figures/winged-hive-tyrant.png>
 Package pdftex.def Info: figures/winged-hive-tyrant.png  used on input line 68.
-
 (pdftex.def)             Requested size: 130.57732pt x 91.04872pt.
 
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 103--103
@@ -1091,21 +1001,14 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 103--103
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 103--104
-[][] 
- []
-
-[26
-
- <./figures/carnifex.png (PNG copy)> <./figures/winged-hive-tyrant.png (PNG cop
-y)>]
 <figures/hive-tyrant.png, id=110, 240.9pt x 260.47313pt>
 File: figures/hive-tyrant.png Graphic file (type png)
 <use figures/hive-tyrant.png>
 Package pdftex.def Info: figures/hive-tyrant.png  used on input line 105.
 (pdftex.def)             Requested size: 84.20598pt x 91.04872pt.
+[27
 
+ <./figures/carnifex.png (PNG copy)> <./figures/winged-hive-tyrant.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 137--137
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1125,12 +1028,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 137--137
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 137--138
-[][] 
- []
-
-<figures/venomthrope.png, id=111, 347.79938pt x 263.48438pt>
+<figures/venomthrope.png, id=114, 347.79938pt x 263.48438pt>
 File: figures/venomthrope.png Graphic file (type png)
 <use figures/venomthrope.png>
 Package pdftex.def Info: figures/venomthrope.png  used on input line 139.
@@ -1155,18 +1053,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 172--172
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 172--173
-[][] 
- []
-
-<figures/zoanthrope.png, id=112, 196.48407pt x 271.0125pt>
+<figures/zoanthrope.png, id=115, 196.48407pt x 271.0125pt>
 File: figures/zoanthrope.png Graphic file (type png)
 <use figures/zoanthrope.png>
 Package pdftex.def Info: figures/zoanthrope.png  used on input line 174.
 (pdftex.def)             Requested size: 66.0092pt x 91.04872pt.
-) (./vehicles.tex [27 <./figures/hive-tyrant.png (PNG copy)> <./figures/venomth
-rope.png (PNG copy)> <./figures/zoanthrope.png (PNG copy)>]
+) (./vehicles.tex [28 <./figures/hive-tyrant.png (PNG copy)> <./figures/venomthrope.png (PNG copy)>] [29 <./figures/zoanthrope.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 33--33
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1196,12 +1088,7 @@ Overfull \hbox (8.51047pt too wide) in paragraph at lines 33--33
  []\OT1/cmr/m/n/10 Template 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 33--34
-[][] 
- []
-
-<figures/biovore.png, id=116, 290.58563pt x 252.19218pt>
+<figures/biovore.png, id=122, 290.58563pt x 252.19218pt>
 File: figures/biovore.png Graphic file (type png)
 <use figures/biovore.png>
 Package pdftex.def Info: figures/biovore.png  used on input line 35.
@@ -1226,12 +1113,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 83--83
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 83--84
-[][] 
- []
-
-<figures/dactylis.png, id=117, 308.65312pt x 219.06844pt>
+<figures/dactylis.png, id=123, 308.65312pt x 219.06844pt>
 File: figures/dactylis.png Graphic file (type png)
 <use figures/dactylis.png>
 Package pdftex.def Info: figures/dactylis.png  used on input line 85.
@@ -1256,20 +1138,14 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 120--120
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 120--121
-[][] 
- []
-
-[28
-
- <./figures/biovore.png (PNG copy)> <./figures/dactylis.png (PNG copy)>]
-<figures/exocrine.png, id=121, 277.035pt x 223.58531pt>
+<figures/exocrine.png, id=124, 277.035pt x 223.58531pt>
 File: figures/exocrine.png Graphic file (type png)
 <use figures/exocrine.png>
 Package pdftex.def Info: figures/exocrine.png  used on input line 122.
 (pdftex.def)             Requested size: 112.81572pt x 91.04872pt.
+[30
 
+ <./figures/biovore.png (PNG copy)> <./figures/dactylis.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 171--171
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1299,12 +1175,7 @@ Overfull \hbox (8.51047pt too wide) in paragraph at lines 171--171
  []\OT1/cmr/m/n/10 Template 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 171--172
-[][] 
- []
-
-<figures/harpy.png, id=122, 335.75438pt x 233.37187pt>
+<figures/harpy.png, id=128, 335.75438pt x 233.37187pt>
 File: figures/harpy.png Graphic file (type png)
 <use figures/harpy.png>
 Package pdftex.def Info: figures/harpy.png  used on input line 173.
@@ -1329,17 +1200,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 210--210
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 210--211
-[][] 
- []
-
-<figures/haruspex.png, id=123, 321.45094pt x 216.81pt>
+<figures/haruspex.png, id=129, 321.45094pt x 216.81pt>
 File: figures/haruspex.png Graphic file (type png)
 <use figures/haruspex.png>
 Package pdftex.def Info: figures/haruspex.png  used on input line 212.
 (pdftex.def)             Requested size: 134.99376pt x 91.04872pt.
-[29 <./figures/exocrine.png (PNG copy)> <./figures/harpy.png (PNG copy)>]
+[31 <./figures/exocrine.png (PNG copy)> <./figures/harpy.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 245--245
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1369,12 +1235,7 @@ Overfull \hbox (10.9905pt too wide) in paragraph at lines 245--245
  []\OT1/cmr/m/n/10 Attached 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 245--246
-[][] 
- []
-
-<figures/malefactor.png, id=127, 310.15875pt x 240.9pt>
+<figures/malefactor.png, id=134, 310.15875pt x 240.9pt>
 File: figures/malefactor.png Graphic file (type png)
 <use figures/malefactor.png>
 Package pdftex.def Info: figures/malefactor.png  used on input line 247.
@@ -1399,17 +1260,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 279--279
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 279--280
-[][] 
- []
-
-<figures/neurotyrant.png, id=128, 306.39468pt x 283.81032pt>
+<figures/neurotyrant.png, id=135, 306.39468pt x 283.81032pt>
 File: figures/neurotyrant.png Graphic file (type png)
 <use figures/neurotyrant.png>
 Package pdftex.def Info: figures/neurotyrant.png  used on input line 281.
 (pdftex.def)             Requested size: 98.29141pt x 91.04872pt.
-
+[32 <./figures/haruspex.png (PNG copy)> <./figures/malefactor.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 314--314
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1429,14 +1285,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 314--314
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 314--315
-[][] 
- []
-
-[30 <./figures/haruspex.png (PNG copy)> <./figures/malefactor.png (PNG copy)> <
-./figures/neurotyrant.png (PNG copy)>]
-<figures/pyrovore.png, id=132, 333.49594pt x 284.56313pt>
+<figures/pyrovore.png, id=139, 333.49594pt x 284.56313pt>
 File: figures/pyrovore.png Graphic file (type png)
 <use figures/pyrovore.png>
 Package pdftex.def Info: figures/pyrovore.png  used on input line 316.
@@ -1461,17 +1310,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 353--353
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 353--354
-[][] 
- []
-
-<figures/mycetic-spore.png, id=133, 138.5175pt x 252.945pt>
+<figures/mycetic-spore.png, id=140, 138.5175pt x 252.945pt>
 File: figures/mycetic-spore.png Graphic file (type png)
 <use figures/mycetic-spore.png>
 Package pdftex.def Info: figures/mycetic-spore.png  used on input line 355.
 (pdftex.def)             Requested size: 49.85991pt x 91.04872pt.
-
+[33 <./figures/neurotyrant.png (PNG copy)> <./figures/pyrovore.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 391--391
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1501,27 +1345,11 @@ Overfull \hbox (10.9905pt too wide) in paragraph at lines 391--391
  []\OT1/cmr/m/n/10 Attached 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 391--392
-[][] 
- []
-
-<figures/tervigon.png, id=134, 312.41719pt x 283.81032pt>
+<figures/tervigon.png, id=144, 312.41719pt x 283.81032pt>
 File: figures/tervigon.png Graphic file (type png)
 <use figures/tervigon.png>
 Package pdftex.def Info: figures/tervigon.png  used on input line 393.
 (pdftex.def)             Requested size: 100.22342pt x 91.04872pt.
-[31 <./figures/pyrovore.png (PNG copy)> <./figures/mycetic-spore.png (PNG copy)
->]
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 430--430
- []\OT1/cmr/bx/n/10 Movement 
- []
-
-
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 430--430
- []\OT1/cmr/bx/n/10 Morale 
- []
-
 
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 430--430
  []\OT1/cmr/bx/n/10 Movement 
@@ -1533,16 +1361,21 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 430--430
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 430--431
-[][] 
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 430--430
+ []\OT1/cmr/bx/n/10 Movement 
  []
 
-<figures/toxicrene.png, id=139, 347.79938pt x 284.56313pt>
+
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 430--430
+ []\OT1/cmr/bx/n/10 Morale 
+ []
+
+<figures/toxicrene.png, id=145, 347.79938pt x 284.56313pt>
 File: figures/toxicrene.png Graphic file (type png)
 <use figures/toxicrene.png>
 Package pdftex.def Info: figures/toxicrene.png  used on input line 432.
 (pdftex.def)             Requested size: 111.28215pt x 91.04872pt.
-
+[34 <./figures/mycetic-spore.png (PNG copy)> <./figures/tervigon.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 465--465
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1562,18 +1395,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 465--465
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 465--466
-[][] 
- []
-
-<figures/virago.png, id=140, 325.96782pt x 267.24844pt>
+<figures/virago.png, id=149, 325.96782pt x 267.24844pt>
 File: figures/virago.png Graphic file (type png)
 <use figures/virago.png>
 Package pdftex.def Info: figures/virago.png  used on input line 467.
 (pdftex.def)             Requested size: 111.0514pt x 91.04872pt.
-) (./knights.tex [32 <./figures/tervigon.png (PNG copy)> <./figures/toxicrene.p
-ng (PNG copy)> <./figures/virago.png (PNG copy)>]
+) (./knights.tex [35 <./figures/toxicrene.png (PNG copy)> <./figures/virago.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 48--48
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1593,12 +1420,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 48--48
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 48--49
-[][] 
- []
-
-<figures/barbed-hierodule.png, id=144, 295.1025pt x 283.81032pt>
+<figures/barbed-hierodule.png, id=153, 295.1025pt x 283.81032pt>
 File: figures/barbed-hierodule.png Graphic file (type png)
 <use figures/barbed-hierodule.png>
 Package pdftex.def Info: figures/barbed-hierodule.png  used on input line 50.
@@ -1633,12 +1455,7 @@ Overfull \hbox (8.51047pt too wide) in paragraph at lines 83--83
  []\OT1/cmr/m/n/10 Template 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 83--84
-[][] 
- []
-
-<figures/scythed-hierodule.png, id=145, 298.86656pt x 223.58531pt>
+<figures/scythed-hierodule.png, id=154, 298.86656pt x 223.58531pt>
 File: figures/scythed-hierodule.png Graphic file (type png)
 <use figures/scythed-hierodule.png>
 Package pdftex.def Info: figures/scythed-hierodule.png  used on input line 85.
@@ -1663,20 +1480,14 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 116--116
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 116--117
-[][] 
- []
-
-<figures/razorfex.png, id=146, 164.86594pt x 243.15843pt>
+<figures/razorfex.png, id=155, 164.86594pt x 243.15843pt>
 File: figures/razorfex.png Graphic file (type png)
 <use figures/razorfex.png>
 Package pdftex.def Info: figures/razorfex.png  used on input line 118.
 (pdftex.def)             Requested size: 61.73148pt x 91.04872pt.
-[33
+[36
 
- <./figures/barbed-hierodule.png (PNG copy)> <./figures/scythed-hierodule.png (
-PNG copy)>]
+ <./figures/barbed-hierodule.png (PNG copy)> <./figures/scythed-hierodule.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 155--155
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1696,18 +1507,12 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 155--155
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 155--156
-[][] 
- []
-
-<figures/norn-queen.png, id=150, 143.03438pt x 247.67531pt>
+<figures/norn-queen.png, id=159, 143.03438pt x 247.67531pt>
 File: figures/norn-queen.png Graphic file (type png)
 <use figures/norn-queen.png>
 Package pdftex.def Info: figures/norn-queen.png  used on input line 157.
 (pdftex.def)             Requested size: 52.5814pt x 91.04872pt.
-) (./super-heavies.tex [34 <./figures/razorfex.png (PNG copy)> <./figures/norn-
-queen.png (PNG copy)>]
+) (./super-heavies.tex [37 <./figures/razorfex.png (PNG copy)> <./figures/norn-queen.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 35--35
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1727,12 +1532,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 35--35
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 35--36
-[][] 
- []
-
-<figures/dominatrix.png, id=154, 259.7203pt x 270.25969pt>
+<figures/dominatrix.png, id=164, 259.7203pt x 270.25969pt>
 File: figures/dominatrix.png Graphic file (type png)
 <use figures/dominatrix.png>
 Package pdftex.def Info: figures/dominatrix.png  used on input line 37.
@@ -1767,28 +1567,11 @@ Overfull \hbox (8.51047pt too wide) in paragraph at lines 89--89
  []\OT1/cmr/m/n/10 Template 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 89--90
-[][] 
- []
-
-<figures/harridan.png, id=155, 311.66437pt x 127.22531pt>
+<figures/harridan.png, id=165, 311.66437pt x 127.22531pt>
 File: figures/harridan.png Graphic file (type png)
 <use figures/harridan.png>
 Package pdftex.def Info: figures/harridan.png  used on input line 91.
 (pdftex.def)             Requested size: 223.05234pt x 91.04872pt.
-[35
-
- <./figures/dominatrix.png (PNG copy)> <./figures/harridan.png (PNG copy)>]
-Overfull \hbox (9.6662pt too wide) in paragraph at lines 145--145
- []\OT1/cmr/bx/n/10 Movement 
- []
-
-
-Overfull \hbox (6.72635pt too wide) in paragraph at lines 145--145
- []\OT1/cmr/bx/n/10 Morale 
- []
-
 
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 145--145
  []\OT1/cmr/bx/n/10 Movement 
@@ -1800,16 +1583,23 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 145--145
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 145--146
-[][] 
+Overfull \hbox (9.6662pt too wide) in paragraph at lines 145--145
+ []\OT1/cmr/bx/n/10 Movement 
  []
 
-<figures/trygon.png, id=159, 325.96782pt x 182.18062pt>
+
+Overfull \hbox (6.72635pt too wide) in paragraph at lines 145--145
+ []\OT1/cmr/bx/n/10 Morale 
+ []
+
+<figures/trygon.png, id=166, 325.96782pt x 182.18062pt>
 File: figures/trygon.png Graphic file (type png)
 <use figures/trygon.png>
 Package pdftex.def Info: figures/trygon.png  used on input line 147.
 (pdftex.def)             Requested size: 162.90889pt x 91.04872pt.
+[38
 
+ <./figures/dominatrix.png (PNG copy)> <./figures/harridan.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 188--188
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1829,12 +1619,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 188--188
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 188--189
-[][] 
- []
-
-<figures/tyrannofex.png, id=160, 298.86656pt x 277.035pt>
+<figures/tyrannofex.png, id=170, 298.86656pt x 277.035pt>
 File: figures/tyrannofex.png Graphic file (type png)
 <use figures/tyrannofex.png>
 Package pdftex.def Info: figures/tyrannofex.png  used on input line 190.
@@ -1849,7 +1634,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 235--235
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
+[39 <./figures/trygon.png (PNG copy)> <./figures/tyrannofex.png (PNG copy)>]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 235--235
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1864,13 +1649,11 @@ Overfull \hbox (14.99998pt too wide) in paragraph at lines 235--236
 [][] 
  []
 
-[36 <./figures/trygon.png (PNG copy)> <./figures/tyrannofex.png (PNG copy)>]
 File: figures/tyrannofex.png Graphic file (type png)
 <use figures/tyrannofex.png>
 Package pdftex.def Info: figures/tyrannofex.png  used on input line 237.
 (pdftex.def)             Requested size: 98.22038pt x 91.04872pt.
-)
-(./titans.tex [37]
+) (./titans.tex [40]
 Overfull \hbox (9.6662pt too wide) in paragraph at lines 49--49
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1900,12 +1683,7 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 49--49
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 49--50
-[][] 
- []
-
-<figures/alpha-hierodule.png, id=168, 347.79938pt x 283.81032pt>
+<figures/alpha-hierodule.png, id=177, 347.79938pt x 283.81032pt>
 File: figures/alpha-hierodule.png Graphic file (type png)
 <use figures/alpha-hierodule.png>
 Package pdftex.def Info: figures/alpha-hierodule.png  used on input line 51.
@@ -1940,20 +1718,14 @@ Overfull \hbox (6.72635pt too wide) in paragraph at lines 100--100
  []\OT1/cmr/bx/n/10 Morale 
  []
 
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 100--101
-[][] 
- []
-
-<figures/hierophant.png, id=169, 347.79938pt x 283.81032pt>
+<figures/hierophant.png, id=178, 347.79938pt x 283.81032pt>
 File: figures/hierophant.png Graphic file (type png)
 <use figures/hierophant.png>
 Package pdftex.def Info: figures/hierophant.png  used on input line 102.
 (pdftex.def)             Requested size: 111.57404pt x 91.04872pt.
-) (./heavy-artillery.tex [38
+) (./heavy-artillery.tex [41
 
- <./figures/alpha-hierodule.png (PNG copy)> <./figures/hierophant.png (PNG copy
-)>]
+ <./figures/alpha-hierodule.png (PNG copy)> <./figures/hierophant.png (PNG copy)>]
 Overfull \hbox (10.4718pt too wide) in paragraph at lines 33--33
  []\OT1/cmr/bx/n/10 Movement 
  []
@@ -1994,16 +1766,11 @@ Overfull \hbox (2.06558pt too wide) in paragraph at lines 33--33
  []
 
 )
-Overfull \hbox (15.00002pt too wide) in paragraph at lines 33--34
-[][]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
-[39
+[42
 
 ] (./main.aux)
  ***********
@@ -2012,28 +1779,18 @@ L3 programming layer <2026-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10369 strings out of 467159
- 223918 string characters out of 5413461
- 1106090 words of memory out of 5000000
- 39572 multiletter control sequences out of 15000+600000
+ 11730 strings out of 467159
+ 250327 string characters out of 5413461
+ 1119296 words of memory out of 5000000
+ 40923 multiletter control sequences out of 15000+600000
  630915 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,12n,109p,624b,6239s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
-live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr5.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:
-/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/
-2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2026/texm
-f-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (39 pages, 6248111 bytes).
+ 103i,12n,109p,676b,6257s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (42 pages, 6249330 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
+ 240 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
