@@ -9,7 +9,7 @@ Follow these steps in order. Stop at each gate until the user says to continue. 
 
 ## A — Audit the French original
 
-Read the French PDF in `Originals/` page by page. Report inconsistencies in a table with one **letter ID per issue**. Cover at least summary tables vs unit cards, army lists vs profiles, named abilities vs special-rules text, and French terms/numbers written two ways.
+Read the French PDF in `Originals/` page by page. Report inconsistencies in a table with one **letter ID per issue**. Cover at least summary tables vs unit cards, army lists vs profiles, named abilities vs special-rules text, and French terms/numbers written two ways. Do not treat rulebook abilities that a codex only names (without reprinting the rule) as inconsistencies; print the name only.
 
 Table columns:
 
@@ -27,7 +27,7 @@ Folder name: English faction name + French version digits with no dots (Tyranids
 
 ## C — Translate (no unit images)
 
-Walk the French PDF page by page (or one unit/section at a time if that is more accurate). Skip the French cover, table of contents, army examples, and marker/template pages. Keep legal notice and introduction if present. Match Tyranids heading levels, tables, `\unitdivider`, and GW English names. Do not add `\unitimage` or extract portraits.
+Walk the French PDF page by page (or one unit/section at a time if that is more accurate). Skip the French cover, table of contents, army examples, and marker/template pages. Keep legal notice and introduction if present. Match Tyranids heading levels, tables, `\unitdivider`, and GW English names. Split landscape unit-profile tables so each page stays inside A4 (see the unit-profile-tables rule). Do not add `\unitimage` or extract portraits.
 
 Gate: tell the user the book is translated. Remind them to rebuild the PDF. They inspect PDFs, not `.tex`. Wait.
 

@@ -1,0 +1,68 @@
+\section{Hit Location Sheets}
+
+\subsection{Revenant / Phantom / Warlock Titan}
+
+\noindent
+\begin{center}
+    \begin{tblr}{
+        colspec={Q[c,m,1.2] Q[l,m,6]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, ht=9mm, halign=c}
+    }
+        D6 & Location Front / Rear \\
+        1 & Legs \\
+        2 & Hull \\
+        3 & Weapon \\
+        4 & Head (front) / Reactor (rear) \\
+        5 & Wing \\
+        6 & Player's choice
+    \end{tblr}
+\end{center}
+
+\subsection{Damage Effects}
+
+\noindent
+\begin{tblr}{
+    width=\textwidth,
+    colspec={Q[l,m,2.2] Q[c,m,1.1] X[l,m]},
+    cells={valign=m},
+    hlines,
+    vlines,
+    row{1}={bg=black, fg=white, font=\bfseries, ht=9mm, halign=c},
+    row{2,6,11,15,19,23}={bg=violet!35, font=\bfseries}
+}
+    Location & D6 & Effect \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Wing}} & & \\
+    & 1 & Wing Damaged, the Holo-Field is disabled (Repair on 4+) \\
+    & 2 & Wing Destroyed, the Holo-Field is disabled \\
+    & 3+ & Damage to the Hull \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Leg}} & & \\
+    & 1 & $-5$~cm of base movement (Repair on 4+) \\
+    & 2 & an additional $-5$~cm of base movement (Repair on 4+) (from this damage, if the titan is destroyed it falls) \\
+    & 3 & Immobilised, 1 additional damage \\
+    & 4+ & Damage to the Hull \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Head}} & & \\
+    & 1 & $-1$D6 to AF (Repair on 4+) \\
+    & 2 & May receive an order only on a 4+ (Repair on 4+), 1 additional damage \\
+    & 3+ & Damage to the Hull \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Reactor}} & & \\
+    & 1 & 1 additional damage (from this damage, if the titan is destroyed it explodes) \\
+    & 2 & Holo-Field disabled: 1 additional damage \\
+    & 3+ & Reactor severely damaged, 1D3 additional damage \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Weapon}} & & \\
+    & 1 & Weapon Damaged (Repair on 4+) \\
+    & 2 & Weapon Destroyed \\
+    & 3+ & Damage to the Hull \\
+
+    \SetCell[c=3]{c,m}\textbf{\textit{Hull}} & & \\
+    & 1 & -- \\
+    & 2 & 1 additional damage \\
+    & 3+ & 2 additional damage
+\end{tblr}

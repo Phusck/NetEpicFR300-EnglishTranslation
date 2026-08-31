@@ -11,7 +11,7 @@ Compare, at least:
 
 - Summary unit tables versus that unit's description card (abilities, weapons, stats, morale, saves)
 - Army lists versus profiles (contents, costs, command points, class)
-- Named abilities used on a profile but missing, differently spelled, or differently valued in the special-rules text
+- Named abilities used on a profile but missing, differently spelled, or differently valued in the special-rules text. Skip abilities that are only named in the codex because they are described in the rulebook — that is not an inconsistency; print the name only
 - The same term or number written two ways in the French (typos, singular/plural, hyphenation)
 
 Present each conflict in a table with these columns:

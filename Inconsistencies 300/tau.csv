@@ -1,0 +1,21 @@
+﻿ID,Topic,Description,Suggestion A,Suggestion B,Note
+A,Price Broadside Mk I,"3 suits cost 250 in the Infantry Company and Support, 225 in the Exo-Armour Company. Army examples use 250 even in an Exo-Armour Company.",250 everywhere,"Keep both: 225 in Exo-Armour Company, 250 elsewhere",
+B,Price Shield Drones,"5 drones cost 50 as a Recon Company option, 100 under Options. Examples use 100.",100 everywhere,"Keep both: 50 in Recon, 100 in Options",Recon line is 0–1; Options can be taken in any company.
+C,Price Kroot infantry,"Carnivores and Hounds have the same contents (4 bases + 1 Mentor). First Kroot Company pick 100; later picks and Support 150.",Keep 100 then 150 (first pick cheaper),150 everywhere,C: 100 everywhere.
+D,Fireblade class,"Profile table: class Walkers, Morale Lié. Card: Infantry, Save –, Morale 6. Army list uses it as the Infantry Company character.","Card: Infantry, Morale 6","Table: Walkers, Morale Lié",Attached Character usually has Morale Lié.
+E,Knarloc Rider class,Profile table: Cavalry. Card is in the Walkers chapter. Support list: Walkers.,Walkers (card + army list),Cavalry (profile table),French spelling Knorloc / Knarlocs; English Knarloc.
+F,Scorpionfish class,Profile table: Light Praetorians (5). Card and army list: Super-heavies.,Super-heavies (card + army list),Light Praetorians (profile table),
+G,Shas'el / Shas'o keyword,Table: Attached Character. Cards: Character. Table also prints Elite (1) twice on the Shas'el.,Character (cards),Attached Character (table),Drop the duplicate Elite (1) either way. Same choice as Patriarch in Genestealer Cult (card).
+H,Interceptor Drone attach,Table and army list: attach only to Flyers. Card: attach only to vehicles or Super-heavies.,Flyers only (table + list),Vehicles or Super-heavies (card),
+I,R'varna Movement,Table 20 cm. Card 15 cm.,15 cm (card),20 cm (table),
+J,Y'vahra Fusion range,Fusion Blasters: table 20 cm. Card 30 cm.,30 cm (card),20 cm (table),
+K,Orca save and guns,"Table: Save 3+, Burst Cannons only. Card: Save 2+, Burst Cannons and Smart Missiles.","Card (2+, both guns)","Table (3+, Burst Cannons only)",
+L,Tiger Shark AX1-0 gun,"Same stats (45 cm, 2 dice, 4+, −3). Table name Heavy Ion Cannons. Card name Light Rail Cannons.",Light Rail Cannons (card),Heavy Ion Cannons (table),
+M,Ta'unar Rail (powerful),"Weapon chart p.13: 90 cm, 1 die, 3+, −4. Profile table p.12: 90 cm, 2 dice, 4+, −4.","Weapon chart (1 die, 3+)","Profile table (2 dice, 4+)",Profile table matches the Moray.
+N,Ta'unar Rail template,Submunition template: chart 7.5 cm. Profile table 12 cm.,7.5 cm (chart),12 cm (table),12 cm matches the Moray.
+O,Ta'unar Agile,Profile table lists Agile. Card does not.,Include Agile (table),Omit it (card),
+P,Manta Rail cannons,"Card has the two Heavy Rail firing modes. Summary table omits them (Ion Battery, Burst Cannons, Tracer Missiles only).",Include Rails from the card,Follow the summary table (omit Rails),Moray card has the same Rail modes.
+Q,Stingray size/cost,"Support list: 3 bases for 200. Army example: 2 bases for 150. No 2-base line in the list.",3 for 200 only (list),Add 2 for 150 from the example,Army examples are otherwise skipped.
+R,Kroot Mentor,"Table: AF +2, Infiltration, Kroot. Card: AF +3, Infiltration, HQ, Attached Character (no Kroot).","Card (+3, HQ, Attached Character)","Table (+2, Kroot)","Without Kroot, the Mentor does not get the woods AF bonus or the no-transport rule."
+S,Ethereal powers section,"The three Ethereal powers sit under Special Rules. The Psychic Powers heading instead has Tiger Shark and Shield Drone rules. Card: Psyker, one power per turn.",Powers under Psychic Powers; those two as special abilities,Keep the French layout,
+T,French spelling variants,"Same terms written two ways: T'au/Tau/Taus, Knorloc/Knarlocs, Reconaissance, Blasteurs/Blasters, Missiles Intelligent(s), Drône/Drone, Cherheuse, Gabrit, Tige Shark, Stringray, Indiction, KROOTOTX, optient.",Official GW English; fix typos,Ask per term before choosing,

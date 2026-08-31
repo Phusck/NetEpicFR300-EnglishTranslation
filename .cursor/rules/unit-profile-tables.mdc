@@ -1,0 +1,18 @@
+---
+description: Keep landscape unit-profile tables on the page (do not overflow or shrink unreadable)
+alwaysApply: true
+---
+
+# Unit profile landscape tables
+
+Cramming a whole class (or several) into one `sidewaystable` overflows the A4 landscape page, or `adjustbox` shrinks the text until it is unreadable. That broke Genestealer Cult and Biel-Tan.
+
+Copy the Tau wrapper: `sidewaystable[!p]` + `adjustbox{max width=\textheight, max height=0.86\textwidth, center}` + the Tau `colspec`. `adjustbox` is a millimetre safety net, not a way to fit 40+ rows.
+
+**Row budget:** at most about 22–24 rows per table (header + class bar + units). Count `\SetCell[r=N]` as N rows. About 8–10 two-row units, fewer if units have 3–5 rows.
+
+Split a class with `Infantry (1) continued`. Do not put Knights + Super-heavies + Titans on one page.
+
+Pale violet zebra on whole units (every row of one unit the same colour). Darker violet on class bars only.
+
+Wrong: 28 infantry units in one table. Right: three tables of ~9, like Tau.

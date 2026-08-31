@@ -177,7 +177,242 @@ Resolved Tau conflicts (Codex Tau Palladium v3.0.0):
 - R: Kroot Mentor: AF +3, HQ, Attached Character (card); no Kroot keyword
 - S: Keep the French layout: Ethereal powers under Special Rules; Tiger Shark and Shield Drones under Psychic Powers
 - T: Official Games Workshop English names; fix typos
-- U: Charismatic and Tactical Genius are rulebook abilities; print the names only
+
+Resolved Necron conflicts (Codex Necron v3.0.0):
+
+- A: Cryptek: +50 in Support Company, +100 in Extra Special Formations
+- B: Canoptek Reanimator: 4 bases for 125 in Support Company, 3 bases for 125 in Walkers support
+- C: Necron Lord: include Regeneration (5+)
+- D: Doom Scythe Twin Tesla Destructors AP: −2
+- E: Canoptek Tomb Sentinel Exile Cannon range: 25 cm
+- F: War Barge: DR (5+) only; drop the extra DR (12)
+- G: Abattoir Damage (+1) in assault: on Harvester assault mode only
+- H: Nightbringer: 1 C’tan shard power per turn plus Deadly Gas
+- I: Cryptek: choose one weapon per turn; drop Creuset Sismique
+- J: Aeonic Orb Solar Burner: include Turret
+- K: Doomsday Cannon ability: on the weapon
+- L: Aeonic Orb: Praetorians chapter; class Light Praetorians
+- M: Hit-location Reactor: drop the Holo-Field line; keep the extra damage
+- N: Aeonic Orb Damages Buildings: AP −5/3 (slash)
+- O: Tesseract Ark card keeps the Doomsday Ark name in that copied sentence
+- P: Targeting Relay French source: Relai
+- Q: Skorpekh (official GW) everywhere
+- R: Fix grammar; Scarab token
+- S: World Pain under Psychic Powers
+- T: Official Games Workshop English names; fix typos
+
+Necron name mappings:
+
+- Overlord → Overlord
+- Seigneur Nécron → Necron Lord
+- Cryptek → Cryptek
+- Gardes Lyches → Lychguard
+- Dépeceur → Flayed One
+- Seigneur Dépeceur → Flayed Lord
+- Guerriers Nécron → Necron Warriors
+- Destroyer Hexmark → Hexmark Destroyer
+- Destroyer Skorpekh / Skorpek / Scorpek → Skorpekh Destroyer
+- Seigneur Scorpekh → Skorpekh Lord
+- Immortels → Immortals
+- Pariah → Pariah
+- Prétoriens Triarchs → Triarch Praetorians
+- Traqueur → Deathmark
+- Maraudeur Canoptek → Canoptek Doomstalker
+- Réanimateur Canoptek → Canoptek Reanimator
+- Canoptek Acanthrites → Canoptek Acanthrites
+- Destroyer → Destroyer
+- Destroyer Lourd → Heavy Destroyer
+- Destroyer Ophydian / Ophydien → Ophydian Destroyer
+- Mécarachnide → Canoptek Spyder
+- Tomb Blade → Tomb Blades
+- Spectres → Canoptek Wraiths
+- Seigneur Destroyer → Destroyer Lord
+- Rodeur Triarch → Triarch Stalker
+- Barge de Commandement → Catacomb Command Barge
+- Barge d'Annihilation → Annihilation Barge
+- Arche du Jugement Dernier → Doomsday Ark
+- Arche Fantôme → Ghost Ark
+- Arche Tesseract → Tesseract Ark
+- Faucheur → Doom Scythe
+- Moissonneur → Night Scythe
+- Night Shroud → Night Shroud
+- C'Tan Nightbringer → Nightbringer
+- C'Tan Deceiver → Deceiver
+- C'Tan Transcendant → Transcendent C'tan
+- C'Tan Void Dragon → Void Dragon
+- Crypte Tesseract → Tesseract Vault
+- Tomb Golem → Tomb Golem
+- Canoptek Tomb Sentinel → Canoptek Tomb Sentinel
+- Monolithe → Monolith
+- Monolithe du Jugement Dernier → Doomsday Monolith
+- Obélisque → Obelisk
+- Pylône → Pylon
+- Seraptek → Seraptek Heavy Construct
+- Barge de Guerre → War Barge
+- Orbe Eonique / Orbe Aeonique → Aeonic Orb
+- Gardien des Tombes → Tomb Guardian
+- Abattoir → Abattoir
+- Bâton de Lumière → Staff of Light
+- Bâton de Lumière Antique → Ancient Staff of Light
+- Lance Eldritch → Eldritch Lance
+- Lame Hyperphase / Lame d'Hyperphase → Hyperphase Blade
+- Griffes → Claws
+- Ecorcheur Gauss → Gauss Flayer
+- Pistolet Désintegrateur → Enmitic Disintegrator
+- Eclateur Gauss → Gauss Blaster
+- Fauchards → Warscythes
+- Crosse d'Alliance → Rod of Covenant
+- Anihileur Enmitique → Enmitic Annihilator
+- Désintégrateurs Synaptiques → Synaptic Disintegrator
+- Atomiseur Gauss → Gauss Atomiser
+- Laser de Découpe → Cutting Beam
+- Canon Gauss → Gauss Cannon
+- Canon Gauss Lourd → Heavy Gauss Cannon
+- Rayon à Particules Jumelés → Twin Particle Beamer
+- Carabines Tesla Jumelées → Twin Tesla Carbines
+- Onde de Choc → Whip Coils
+- Rayon Incendiare → Heat Ray
+- Canon Tesla → Tesla Cannon
+- Canon Doomsday → Doomsday Cannon
+- Bordée Gauss → Gauss Flayer Array
+- Chambre de Singularité → Singularity Chamber
+- Destructeurs Tesla → Tesla Destructor
+- Rayon de Mort → Death Ray
+- Destructeurs Tesla Jumelés → Twin Tesla Destructor
+- Sphère de la Mort → Death Sphere
+- Faux du Nightbringer → Scythe of the Nightbringer
+- Poings Divins → Star-God Fists
+- Vrilles Crépitantes → Crackling Tendrils
+- Lance de Phase → Spear of the Void Dragon
+- Sphere Tesla → Tesla Sphere
+- Canon Eldritch → Eldritch Cannon
+- Canon Exil → Exile Cannon
+- Eruption de Particules → Particle Whip
+- Oblitérateur à Fission → Fission Obliterator
+- Oblitérateur Gauss → Gauss Obliterator
+- Générateur de Singularité → Singularity Generator
+- Accélérateur à Particules → Particle Accelerator
+- Flamme Solaire → Solar Flare
+- Brûleur Solaire → Solar Burner
+- Moissonneurs → Harvesters
+- Nuées de Scarabées → Scarab Swarms
+- Portail → Portal
+- Réserve → Reserve
+- Déphasage → Phase Out
+- Machines de Destruction → Engines of Destruction
+- Scarabés / Scarabées → Scarabs
+- Deathmark → Deathmark
+- Rayon d'Invasion → Invasion Beams
+- Relai / Relais de Ciblage → Targeting Relay
+- Métal Organique → Organic Metal
+- Générateur de Scarabées → Scarab Generator
+- Nécroderme Renforcé → Reinforced Necrodermis
+- Plateforme de Réparation → Repair Platform
+- Proscrits → Outcasts
+- Sans Ame → Soulless
+- Douleur du Monde → World Pain
+- Rupture de Confinement → Containment Failure
+- Matrice Anti-Gravitique → Anti-Gravitic Matrix
+- Absorption → Absorption
+- Transfert dimensionnel → Dimensional Translocation
+- Protocole de Réanimation → Reanimation Protocols
+- Orbe de Résurrection → Resurrection Orb
+- Que ma Volonté Soit Faite → My Will Be Done
+- Réanimateur → Reanimator
+- Inorganique → Inorganic
+- Gaz Mortel → Deadly Gas
+- Tempête Voltaic → Voltaic Storm
+- Précurseur du Désespoir → Harbinger of Despair
+- Précurseur de la Destruction → Harbinger of Destruction
+- Précurseur de l'Eternité → Harbinger of Eternity
+- Météore → Meteor
+- Flèche du Temps → Time's Arrow
+- Assaut Sismique → Seismic Assault
+
+Resolved Biel-Tan conflicts (Codex Eldars – Biel-Tan v3.0.0):
+
+- A: Shining Spears Morale: 6
+- B: Crimson Hunter FA: +6; Nightwing FA: +4
+- C: Crimson Hunter Twin Bright Lance AP: −2
+- D: Wave Serpent Morale: Attached
+- E: Dark Reapers weapon: Reaper Launcher
+- F: Baron Stallion weapon: Scatter Laser
+- G: Vampire second gun: Shuriken Cannon
+- H: Autarchs: 300 in Phoenix Company, 350 in Special Formations
+- I: Farseer: +25 in Ghost Company, +75 in Extra Special Formations
+- J: Warlock: +50 in Rapid Intervention Company, +100 in Extra Special Formations
+- K: Void Spinner Cannon: include Web
+- L: Revenant Missile Launcher: Template (7.5 cm) and Artillery
+- M: Off-table Pulsar Barrage To-Hit: 3+/2+
+- N: Support Wraith constructs: Wraithguard; assault: Wraithblades
+- O: Army list name: Scorpion Tank
+- P: Vampire class: Super-heavies
+- Q: Falcon Turret, Firestorm AA, and Night Spinner Web / Artillery / Reduces Cover: on the weapon
+- R: Warp Hunter Damages Buildings (AP −3/2) on the weapon
+- S: Unicorn Antigrav on the unit
+- T: Official Games Workshop English names; fix typos
+
+Biel-Tan name mappings:
+
+- Archonte → Warlock
+- Aigles Chasseurs → Swooping Hawks
+- Araignées Spectrales → Warp Spiders
+- Arlequins → Harlequins
+- Autarque → Autarch
+- Banshees → Howling Banshees
+- Chanteur de Moëlle Spectrale → Bonesinger
+- Dragons de Feu → Fire Dragons
+- Faucheurs Noirs → Dark Reapers
+- Exarques → Exarchs
+- Gardes Fantômes – Support → Wraithguard
+- Gardes Fantômes – Assaut / Guerriers Fantômes → Wraithblades
+- Gardiens → Guardians
+- Grand Prophète → Farseer
+- Maître Mime → Master Mime
+- Lance Brillante → Bright Lance
+- Observateur Avancé → Forward Observer
+- Scorpions → Striking Scorpions
+- Scouts → Rangers
+- Spectres de l'Ombre → Shadow Spectres
+- Vengeurs → Dire Avengers
+- Lances de Lumière → Shining Spears
+- Motojets → Jetbikes
+- Marcheurs de Combat → War Walkers
+- Marcheurs de Combat Guêpe → Wasp Assault Walkers
+- Seigneur Fantôme → Wraithlord
+- Prisme de Feu → Fire Prism
+- Chevalier Bright → Bright Knights
+- Chevalier Fantôme → Wraithknight
+- Chevalier Fire → Fire Knights
+- Chevalier Towering Destroyer → Towering Destroyer
+- Titan Archonte → Warlock Titan
+- Titan Fantôme → Phantom Titan
+- Titan Revenant → Revenant Titan
+- Tisse Mort → Death Spinner
+- Blaster Laser → Lasblaster
+- Fusil Thermique → Fusion Gun
+- Lance-Missiles Faucheur → Reaper Launcher
+- Epée Energétique → Power Sword
+- Mandibules → Mandiblaster
+- Fusil Prismatique → Prism Rifle
+- Canon Fantôme → Wraithcannon
+- Epée Spectrale → Ghostswords
+- Lame Fantôme / Epée Fantôme → Ghostglaive
+- Canons Fantôme Lourds → Heavy Wraithcannons
+- Catapulte Shuriken de Vengeur → Avenger Shuriken Catapult
+- Lance Laser → Laser Lance
+- Canon Shuriken Jumelé → Twin Shuriken Cannon
+- Catapulte Shuriken Lourde → Shuriken Cannon
+- Nuées de Toile → Doomweaver
+- Canon à Distorsion → D-Cannon
+- Mort Hurlante → The Wailing Doom
+- Toile → Web
+- Pierre-Esprit → Spirit Stone
+- Impossible à Bloquer → Cannot Be Blocked
+- Noeud Psychique → Psychic Node
+- Cri de la Banshee → Banshee Cry
+- Portail Fantôme → Ghost Portal
+- Tank Scorpion → Scorpion Tank
 
 Tau name mappings:
 
@@ -223,6 +458,8 @@ Tau name mappings:
 - Prétoriens Légers → Light Praetorians
 
 Inspect `.tex` files, not compiled English PDFs.
+
+If a codex names an ability that is described in the rulebook, print the name only. Do not reprint the rulebook text, and do not treat that as an audit conflict.
 
 Terminology:
 
