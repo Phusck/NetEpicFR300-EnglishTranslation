@@ -18,11 +18,11 @@ Present each conflict in a table with these columns:
 
 | Column | What goes there |
 |---|---|
-| **ID** | `A`, `B`, `C`… |
+| **ID** | `1`, `2`, `3`… |
 | **Topic** | Short label, what it is about (`Price Shield Drones`) |
 | **Description** | What the problem is (where each source appears and what it says) |
 | **Suggestion A** | First source to follow |
 | **Suggestion B** | Second source to follow |
 | **Note** | Anything else; often blank. Extra suggestions (`C`, `D`…) go here |
 
-Ask which source to follow before translating those values. The user replies by letter (for example `A A, B B`).
+Ask which source to follow before translating those values. The user replies with the issue number and the solution letter (for example `1 A, 2 B`).

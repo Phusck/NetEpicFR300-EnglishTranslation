@@ -5,7 +5,7 @@ alwaysApply: true
 
 # LaTeX file and folder names
 
-Book folders keep the pattern `Tyranids 300` and `Rulebook 303`. French PDFs stay in `Originals/` with their original names.
+Book folders keep the pattern `Tyranids 300` and `Rulebook 303`. New French codices are **v3.1.0** → folder digits **310** (`Tyranids 310`). Those 3.1.0 PDFs in `Originals/` are early drafts; the French authors are still writing them. French PDFs stay in `Originals/` with their original names.
 
 Each book has `main.tex` as the root and `preamble.tex` for local setup.
 
