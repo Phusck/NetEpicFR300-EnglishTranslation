@@ -5,7 +5,7 @@ alwaysApply: true
 
 # Audit French originals first
 
-This is step A of the new-codex pipeline. Before translating a new original from `Originals/`, read that French PDF page by page and report inconsistencies. Do not start the English LaTeX until the user has seen the report and answered which source to follow.
+This is step A of the new-codex pipeline. Before translating a new original from `Originals/`, read that French PDF page by page and report inconsistencies. Do not start the English LaTeX until the user has seen the report and answered which source to follow for issues that need a choice.
 
 Compare, at least:
 
@@ -14,15 +14,31 @@ Compare, at least:
 - Named abilities used on a profile but missing, differently spelled, or differently valued in the special-rules text. Skip abilities that are only named in the codex because they are described in the rulebook — that is not an inconsistency; print the name only
 - The same term or number written two ways in the French (typos, singular/plural, hyphenation)
 
+## Not errors
+
+- The same unit may cost different amounts in different formations. That is allowed. Do not list it as an inconsistency.
+
+## Auto-resolve (still list, do not ask)
+
+Some issues do not need a user choice. Still put them in the report and CSV, **at the end of the list**, with an `A` on the ID (`1A`, `2A`, …). Fill `Chosen` with the decision. Numbered IDs (`1`, `2`, `3`…) are only for issues that need the user.
+
+Auto-resolve as follows:
+
+- **Names:** if the French writes a unit or character two ways, look up the official Games Workshop English name and use that.
+- **Weapons:** same — two French names for one weapon → GW English name. Two *different* GW weapons (Pulse Laser vs Scatter Laser) still need a user choice.
+- **Ability on unit vs weapon:** if it is unclear, put it on the **weapon**. Turret, AA, Web, Artillery, Reduces Cover, Damages Buildings, and similar shot rules belong on the weapon when the table or card disagrees.
+- **Grammar:** fix grammatical errors in English. Do not reproduce French grammar mistakes.
+- **Army examples:** example army lists are often wrong. If the only mismatch is the example army (and the summary table, card, and real army list agree), treat the example as wrong. Follow the real list/profile. Still list it at the end as `1A`, `2A`…
+
 Present each conflict in a table with these columns:
 
 | Column | What goes there |
 |---|---|
-| **ID** | `1`, `2`, `3`… |
+| **ID** | `1`, `2`, `3`… for user choices; `1A`, `2A`… at the end for auto-resolved |
 | **Topic** | Short label, what it is about (`Price Shield Drones`) |
 | **Description** | What the problem is (where each source appears and what it says) |
-| **Suggestion A** | First source to follow |
+| **Suggestion A** | First source to follow (for auto items: the chosen resolution) |
 | **Suggestion B** | Second source to follow |
 | **Note** | Anything else; often blank. Extra suggestions (`C`, `D`…) go here |
 
-Ask which source to follow before translating those values. The user replies with the issue number and the solution letter (for example `1 A, 2 B`).
+Ask which source to follow for numbered IDs only. The user replies with the issue number and the solution letter (for example `1 A, 2 B`).

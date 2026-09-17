@@ -1,0 +1,28 @@
+\input{../shared/codex-preamble}
+
+\usepackage{xparse}
+\usepackage{adjustbox}
+
+\NewDocumentEnvironment{unitstatstable}{+b}{%
+\begin{tblr}{
+    width=\textwidth,
+    colspec={
+        Q[c,m,1.2]
+        Q[c,m,1.2]
+        Q[c,m,0.7]
+        Q[c,m,0.8]
+        X[c,m,2.7]
+        Q[c,m,1.1]
+        Q[c,m,0.9]
+        Q[c,m,1.2]
+        Q[c,m,0.7]
+    },
+    row{1}={bg=black, fg=white, font=\bfseries},
+    cells={valign=m},
+    hlines,
+    vlines
+}
+Movement & Save & AF & Morale & Weapon & Range & Dice & To-Hit & AP \\
+#1
+\end{tblr}%
+}{}

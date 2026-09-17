@@ -11,17 +11,21 @@ French authors are now writing **v3.1.0** codices (folder digits **310**). The c
 
 ## A — Audit the French original
 
-Read the French PDF in `Originals/` page by page. Report inconsistencies in a table with one **number ID per issue**. Cover at least summary tables vs unit cards, army lists vs profiles, named abilities vs special-rules text, and French terms/numbers written two ways. Do not treat rulebook abilities that a codex only names (without reprinting the rule) as inconsistencies; print the name only.
+Read the French PDF in `Originals/` page by page. Report inconsistencies (see `audit-french-before-translate`). Cover at least summary tables vs unit cards, army lists vs profiles, named abilities vs special-rules text, and French terms/numbers written two ways. Do not treat rulebook abilities that a codex only names (without reprinting the rule) as inconsistencies; print the name only.
+
+Different costs for the same unit in different formations are not errors. Name and weapon spelling clashes use the official Games Workshop English name. If an ability might sit on the unit or the weapon, put it on the weapon. Fix grammar; do not ask. Example armies are often wrong: if that is the only mismatch, follow the real army list and profiles.
+
+Numbered IDs (`1`, `2`, `3`…) need a user choice. Auto-resolved issues still appear, **at the end**, as `1A`, `2A`… with `Chosen` filled.
 
 Table columns:
 
 | ID | Topic | Description | Suggestion A | Suggestion B | Note |
 |---|---|---|---|---|---|
-| `1`, `2`, `3`… | Short label (`Price Shield Drones`) | What the problem is | First source to follow | Second source to follow | Extra suggestions or context; often blank |
+| `1`, `2`, `3`… then `1A`, `2A`… | Short label (`Price Shield Drones`) | What the problem is | First source to follow | Second source to follow | Extra suggestions or context; often blank |
 
-The user replies with the issue number and the solution letter (for example `1 A, 2 B`).
+The user replies with the issue number and the solution letter for numbered IDs only (for example `1 A, 2 B`).
 
-Gate: show the table and wait. Do not start B until the user has seen it and chosen which source to follow for each number.
+Gate: show the table and wait. Do not start B until the user has seen it and chosen which source to follow for each numbered ID.
 
 ## B — Create the book folder
 

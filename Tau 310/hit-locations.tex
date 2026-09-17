@@ -1,0 +1,160 @@
+\section{Hit Location Sheets}
+
+\subsection{KX139 Ta'unar}
+
+\begin{center}
+    \begin{tblr}{
+        width=0.42\textwidth,
+        colspec={
+            Q[c,m,0.8]
+            X[l,m,3.5]
+        },
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, ht=8mm},
+        row{3,5,7}={bg=violet!12}
+    }
+        D6 & Location Front / Rear \\
+        1 & Legs \\
+        2 & Hull \\
+        3--4 & Weapon \\
+        5 & Head (front) / Reactor (rear) \\
+        6 & Player's choice
+    \end{tblr}
+\end{center}
+
+\subsection{Manta / Moray}
+
+\begin{center}
+    \begin{tblr}{
+        width=0.42\textwidth,
+        colspec={
+            Q[c,m,0.8]
+            X[l,m,3.5]
+        },
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, ht=8mm},
+        row{3,5,7}={bg=violet!12}
+    }
+        D6 & Location Front / Rear \\
+        1 & Hull \\
+        2 & Weapon \\
+        3 & Bridge (front) / Reactor (rear) \\
+        4--5 & Wing \\
+        6 & Player's choice
+    \end{tblr}
+\end{center}
+
+\subsection{Damage Effects}
+
+Damage effects are progressive: the first damage to a location applies the first effect, and further damage applies the following effects on the list.
+
+\noindent
+\begin{minipage}[t]{0.49\textwidth}
+    \vspace{0pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Hull} & \\
+        1--2 & -- \\
+        3 & 1 additional damage \\
+        4+ & 2 additional damage
+    \end{tblr}
+
+    \vspace{6pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Weapon} & \\
+        1 & Weapon Damaged (Repair on 4+) \\
+        2 & Weapon Destroyed \\
+        3+ & Damage to the Hull
+    \end{tblr}
+
+    \vspace{6pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3,5}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Leg} & \\
+        1 & $-5$~cm of base movement (Repair on 4+) \\
+        2 & an additional $-5$~cm of base movement (Repair on 4+) (from this damage, if the titan is destroyed it falls) \\
+        3 & Immobilised, 1 additional damage \\
+        4+ & Damage to the Hull
+    \end{tblr}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+    \vspace{0pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Head / Bridge} & \\
+        1 & $-1$D6 to AF (Repair on 4+) \\
+        2 & May receive an order only on a 4+ (Repair on 4+), 1 additional damage \\
+        3+ & Damage to the Hull
+    \end{tblr}
+
+    \vspace{6pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Reactor} & \\
+        1 & 1 additional damage (from this damage, if the titan is destroyed it explodes) \\
+        2 & Shields Disabled, 1 additional damage \\
+        3+ & Reactor severely damaged, 1D3 additional damage
+    \end{tblr}
+
+    \vspace{6pt}
+
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={Q[c,m,0.85] X[l,m]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, halign=c},
+        row{3}={bg=violet!12}
+    }
+        \SetCell[c=2]{c,m}\textbf{Wing} & \\
+        1 & -- \\
+        2+ & 1 additional damage
+    \end{tblr}
+\end{minipage}

@@ -16,3 +16,5 @@ Split a class with `Infantry (1) continued`. Do not put Knights + Super-heavies 
 Pale violet zebra on whole units (every row of one unit the same colour). Darker violet on class bars only.
 
 Wrong: 28 infantry units in one table. Right: three tables of ~9, like Tau.
+
+**Used-by legends** (`D = Warhound`, and similar) after a `sidewaystable` sit beside the table, not under it. Put the legend in a full-width last row of the `tblr` (`\SetCell[c=9]{l,m,font=\small} ... \\`), same as World Eaters titan weapons. Do not put it in `\vspace` after `\end{tblr}`.

@@ -1,0 +1,145 @@
+\section{Titan Weapons}
+
+\noindent
+\begin{tblr}{
+    width=\textwidth,
+    colspec={
+        Q[l,m,wd=3.4cm]
+        Q[c,m,wd=1.6cm]
+        Q[c,m,wd=1.4cm]
+        Q[c,m,wd=1.0cm]
+        Q[c,m,wd=0.8cm]
+        X[l,m]
+    },
+    cells={valign=m},
+    column{1-5}={co=0},
+    hlines,
+    vlines,
+    row{1}={bg=black, fg=white, font=\bfseries, ht=9mm, halign=c},
+    row{3,5,7,9,11}={bg=violet!12}
+}
+    Weapon & Range & Dice & To-Hit & AP & Notes \\
+
+    D-Cannon &
+    75~cm &
+    Template &
+    3+ &
+    Psi &
+    \textit{Damages Buildings (AP $-4$/2), Damage (+1), Template (7.5~cm), Psychic Attack} \\
+
+    \SetCell{l,m}{Pulsar\\{\textit{(choose a firing mode)}}} &
+    \SetCell{c,m}{90~cm\\90~cm} &
+    \SetCell{c,m}{1*\\4} &
+    \SetCell{c,m}{2+\\2+} &
+    \SetCell{c,m}{$-2$\\0} &
+    * Multiple Hits (2D3) \\
+
+    Tremor Cannon &
+    90~cm &
+    Template &
+    3+ &
+    $-2$ &
+    \textit{Vibro Cannon ($-2$)}, AP $-5$ against Buildings; Buildings must reroll successful saves \\
+
+    \SetCell{l,m}{Titan Blade\\{\textit{(choose an effect)}}} &
+    45~cm &
+    4 &
+    4+ &
+    $-1$ &
+    \SetCell{l,m}{
+        -- Shooting\par
+        -- Reroll Assault Dice with Damage (+2)\par
+        -- First Strike (1 / 2+ / AP $-5$), Damage (+1)\par
+        -- Damages Buildings (AP $-5$/3) in assault
+    } \\
+
+    Psychic Lance &
+    45~cm &
+    Template &
+    5+/4+ &
+    -- &
+    \textit{Template (7.5~cm), Psychic Attack}. Warlock Titans hit on 4+ and Phantom Titans on 5+ \\
+
+    Thermal Lance &
+    \SetCell{c,m}{0--20~cm\\21--30~cm\\31--45~cm} &
+    \SetCell{c,m}{1\\1\\1} &
+    \SetCell{c,m}{3+\\4+\\5+} &
+    \SetCell{c,m}{$-4$\\$-3$\\$-2$} &
+    \SetCell{l,m}{Damage $+3$\\Damage $+2$\\Damage $+1$} \\
+
+    \SetCell{l,m}{Combat Fist\\{\textit{(choose an effect)}}} &
+    45~cm &
+    4 &
+    4+ &
+    $-1$ &
+    \SetCell{l,m}{
+        -- Shooting\par
+        -- Adds 1D6 to AF with Damage (+2)\par
+        -- First Strike (1 / 2+ / AP $-4$), Damage (+1)\par
+        -- Damages Buildings (AP $-4$/3) in assault
+    } \\
+
+    Laser Cannon Wing &
+    75~cm &
+    2 &
+    3+ &
+    $-1$ &
+    -- \\
+
+    Missile Launcher Wing &
+    100~cm &
+    3 &
+    5+ &
+    0 &
+    -- \\
+
+    Firestorm Wing &
+    75~cm &
+    2 &
+    4+ &
+    $-2$ &
+    \textit{AA}
+\end{tblr}
+
+\subsection{Weapon Costs}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={X[l,m] Q[c,m,1.6]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, ht=8mm, halign=c},
+        row{3,5,7}={bg=violet!12}
+    }
+        Arm Weapon & Cost \\
+        D-Cannon & 125 \\
+        Pulsar & 125 \\
+        Tremor Cannon & 100 \\
+        Titan Blade & 75 \\
+        Psychic Lance & 50 \\
+        Thermal Lance & 50 \\
+        Combat Fist & 75
+    \end{tblr}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \begin{tblr}{
+        width=\linewidth,
+        colspec={X[l,m] Q[c,m,1.6]},
+        cells={valign=m},
+        hlines,
+        vlines,
+        row{1}={bg=black, fg=white, font=\bfseries, ht=8mm, halign=c},
+        row{3}={bg=violet!12}
+    }
+        Wing Weapon & Cost \\
+        Laser Cannon Wing & 50 \\
+        Missile Launcher Wing & 25 \\
+        Firestorm Wing & 50
+    \end{tblr}
+\end{minipage}

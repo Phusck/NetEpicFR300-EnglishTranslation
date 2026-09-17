@@ -75,6 +75,12 @@ Exodite name mappings:
 - Tir en Mouvement → Fire on the Move
 - Ne peut pas être transporté → Cannot Be Transported
 
+Resolved Exodite conflicts (Codex Eldars – Exodites v3.1.0):
+
+- 1: Pentasaur Flamer: no Turret (table); Turret stays on Maelstrom Laser, Maelstrom Missile Lance, and Thermal Lance
+- 1A–15A: Star Cannon Travois; shot rules on the weapon; Exodite Warriors / Fusiliers / Megadon / Bright and Fire Knights / Towering Destroyer / Vyper Transport; Scout; wraithbone; Dragon Knights Shard Carbine; Dragoons Pistol and Lance; Fire Storm keeps Pulse Lances; Combat Walkers; Heal grants Medic
+- 16A–17A: print Heal; fix grammar in English
+
 Resolved Genestealer Cult conflicts (Codex Culte Genestealer v3.0.0):
 
 - A: Aberrant Save: 5+
@@ -456,6 +462,235 @@ Tau name mappings:
 - Canon Rail → Railgun
 - Canon à Ions → Ion Cannon
 - Prétoriens Légers → Light Praetorians
+
+Resolved World Eaters conflicts (Codex Legion 30k – World Eaters v3.1.0):
+
+- A: Angron keyword: Attached Character
+- B: Tactical Support weapon: Multi-melta
+- C: Deathstorm Autonomous Defense and Turret: on the Assault Cannon Deathstorm
+- D: Whirlwind Reduces Cover: Castellan only
+- E: Dire Wolf optional gun: Neutron Laser carapace; Conversion Beam as an arm; no Volcano
+- F: Dire Wolf hit-location: Warhound sheet
+- G: Psychic Cannon used-by: Warlord (W)
+- H: Warbringer free Volcano or Quake Cannon: carapace / back gun, plus 2 paid arms
+- I: Warlord optional banners: 2
+- J+: Official Games Workshop English names; shot rules on the weapon; fix typos
+
+World Eaters name mappings:
+
+- Boucher Rouge → Red Butcher
+- Saccageurs → Rampagers
+- Centurion Saccageur / Centurion Saccageurs → Rampager Centurion
+- Légionnaires d'Assaut → Assault Legionnaires
+- Légionnaires Brécheurs → Legion Breachers
+- Légionnaires Destructeurs → Destroyers
+- Légionnaires d'Appui Tactique → Tactical Support
+- Légionnaires de Reconnaissance → Recon Legionnaires
+- Légionnaires de Soutien / Soutien Lourd → Heavy Support
+- Légionnaires Saturnines → Saturnine Terminators
+- Légionnaires Tactiques → Tactical Legionnaires
+- Légionnaires Terminators → Terminators
+- Légionnaires Vétérans → Veteran Legionnaires
+- Préteur → Praetor
+- Chapelain → Chaplain
+- Apothicaire → Apothecary
+- Maitre / Maître de Signal / Maître du Signal → Master of Signal
+- Champion de la Légion → Legion Champion
+- Mortificator → Mortificator
+- Rapière → Rapier
+- Tarentule → Tarantula
+- Tarentule Hyperios / Hypérios → Tarantula Hyperios
+- Motos → Bikes
+- Motos De Reconnaissance → Recon Bikes
+- Motojets Scimitar / Motojet Sky-Hunter → Scimitar Jetbikes
+- Centurion sur Moto → Bike Centurion
+- Dreadnought de Siege Léviathan → Leviathan Siege Dreadnought
+- Module d'Assaut → Drop Pod
+- Module Deathstorm → Deathstorm Drop Pod
+- Modules d'Atterrissage / Module d'Atterrisage → Landing Module
+- Bélier / Belier d'Assaut Caestus → Caestus Assault Ram
+- Bombarde Arquitor → Arquitor Bombard
+- Méduse → Medusa
+- Transporteur Thunderhawk → Thunderhawk Transporter
+- Furie de la Légion / Furie de la Legion → Fury of the Legion
+- Inspiration du Primarque → Primarch's Inspiration
+- Adaptabilité → Adaptability
+- Frappe Orbitale → Orbital Strike
+- Cloche de Dévotion / Cloche de la Dévotion → Devotion Bell
+- Griffe d'Ursus → Ursus Claw
+- Missile Vortex → Vortex Missile
+- Missile Harpon → Harpoon Missile
+- Haches Tronçoneuses → Chainaxes
+- Bolter de Maitre / Bolter de Maître → Master-crafted Bolter
+- Pistolet Bolter de Maitre → Master-crafted Bolt Pistol
+- Bolter Tempête → Storm Bolter
+- Lames Enérgétiques / Lames Énergétiques → Power Swords
+- Multi-Fuseur → Multi-melta
+- Pistolet au Phosphore → Phosphor Pistol
+- Lance-Missiles Rad → Rad Missile Launcher
+- Bolter de Précision → Sniper Bolter
+- Marteau Tonnerre → Thunder Hammer
+- Armes Antiques → Archaeotech Pistols
+- Rayon d'Invertion → Inversion Beam
+- Canon Psi → Psychic Cannon
+- Sismo-Canon → Quake Cannon
+- Laser à Neutron → Neutron Laser
+- Rayon de Conversion → Conversion Beam
+- Solar Auxillia → Solar Auxilia
+
+Resolved Adeptus Mechanicus conflicts (Codex Adeptus Mechanicus v3.1.0):
+
+- 1: Hastarii Fusiliers Neutron Laser: 2 dice (table)
+- 2: Sagittarii Mortar range: 100 cm (table)
+- 3: Vorax Rotor Cannon range: 30 cm (table)
+- 4: Archaeopter Fusilave bombs range: Bomb (table)
+- 5: Warbringer hull Cerberus: 60 cm (table); print INC
+- 6: Warlord optional banners: 2 (table); print INC
+- 7: Onager Dunecrawler Icarus Array: AA only, no Turret (table); print INC
+- 8: Landing Craft missiles: AA only, no Turret (table); print INC
+- 9: Landing Craft save stays 2+ / Fiche; no hit-location sheet (French 3.1.0 gap)
+- 10: Secutarii Hoplites Dodge (5+): on the unit (table)
+- Skorpius Dunerider: include from the card and army list
+- Hellbore Multi-Launchers: fire twice per turn (table)
+- Golgotha Hellfire Missiles: Artillery on the weapon
+- Ordinatus hull guns: Twin Lascannons
+- Off-table Laser Lance: Damage +1D3 and Off-Table Artillery (table)
+- Scout Onager Autocannon: Turret on the weapon
+- Hellbore Emergence: named ability on the unit
+- Landing Craft howitzers: Howitzers
+- Thanatar Calix Grav Ram: Graviton and Damages Buildings on the weapon
+- Conversion Beam used-by: D, R, W
+- Official Games Workshop English names; shot rules on the weapon; fix grammar
+
+Adeptus Mechanicus name mappings:
+
+- Artisan → Artisan
+- Corrôdeurs Sicariens → Sicarian Ruststalkers
+- Électro-Prêtres / Electro-Prêtres → Electro-Priests
+- Hastarii → Hastarii
+- Ingénieur / Ingénieur de Combat → Combat Engineer
+- Logis → Logis
+- Magos → Magos
+- Myrmidons Destructors → Myrmidon Destructors
+- Myrmidons Secutors → Myrmidon Secutors
+- Patrouilleurs Skitarii → Skitarii Vanguard
+- Pelerin / Pellerin / Pèlerin Skitarii → Skitarii Pilgrims
+- Pteraxii → Pteraxii
+- Rangers Skitarii → Skitarii Rangers
+- Sagittarii → Sagittarii
+- Secutarii → Secutarii
+- Scyllax → Scyllax
+- Serviteurs → Servitors
+- Tech-Thrall → Tech-thralls
+- Technoprêtre → Tech-Priest
+- Thallax → Thallax
+- Ursarax / Ursurax → Ursarax
+- Brècheur Kataphron → Kataphron Breachers
+- Destructeur Kataphron → Kataphron Destroyers
+- Serbery / Serberys → Serberys
+- Vultarax → Vultarax
+- Dragon Sydonien → Sydonian Dragoons
+- Ferro-Échassier / Ferro-Échassiers Ballistarii → Ironstrider Ballistarii
+- Magos Dominus sur Abeyant → Magos Dominus on Abeyant
+- Robot Arlatax → Arlatax
+- Robot Castellan → Castellan
+- Robot Cataphract → Cataphract
+- Robot Colossus → Colossus
+- Robot Conqueror → Conqueror
+- Robot Domitar / Dominatar → Domitar
+- Robot Thanatar → Thanatar
+- Robot Thanatar Calix / Callix → Thanatar Calix
+- Robot Vorax → Vorax
+- Archéoptère Fusilave → Archaeopter Fusilave
+- Archéoptère Stratoraptor → Archaeopter Stratoraptor
+- Archéoptère Transvector → Archaeopter Transvector
+- Désintégrateur Skorpius → Skorpius Disintegrator
+- Karacnos → Karacnos
+- Krios → Krios
+- Krios Venator → Krios Venator
+- Macrocarid Explorator → Macrocarid Explorator
+- Onagre des Dunes → Onager Dunecrawler
+- Onagre des Dunes Eclaireur → Onager Dunecrawler Scout
+- Skorpius → Skorpius Dunerider
+- Termite → Termite
+- Triaros → Triaros
+- Ordinatus Minoris → Ordinatus Minoris
+- Taupe → Mole
+- Fouisseuse → Hellbore
+- Vaisseau de Débarquement → Landing Craft
+- Pistolet Graviton / Pistolet à Graviton → Graviton Pistol
+- Fusil à Graviton → Grav-gun
+- Electro Lance → Electro-Lance
+- Projecteur d’Eradication → Eradication Beamer
+- Fusil à Neutron → Neutron Laser
+- Coulevrine Volkite → Volkite Culverin
+- Canon Rotatif → Rotor Cannon
+- Carabine à Radium → Radium Carbine
+- Arquebuse Volkite → Volkite Caliver
+- Torche au Phosphore → Phosphor Torch
+- Fusil Galvanique → Galvanic Rifle
+- Arclance → Arc Lance
+- Lanceur Galvanique → Galvanic Caster
+- Incinérateur Volkite → Volkite Incinerator
+- Canon à Torsion → Torsion Cannon
+- Canon à Graviton → Grav-cannon
+- Pistolet Phosphore → Phosphor Pistol
+- Autocanon Lourd → Heavy Autocannon
+- Belier / Bélier Graviton → Grav Ram
+- Marteaux à Graviton → Grav-hammers
+- Mortier à Plasma → Plasma Mortar
+- Bombes Tectomagnétiques / B. Tectomagnétiques → Tectomagnetic Bombs
+- Blaster au Phospore / Phosphore → Phosphor Blaster
+- Blaster Phosphore Lourd → Heavy Phosphor Blaster
+- Canon Belleros → Belleros Energy Cannon
+- Mortier à Radiations → Radiation Mortar
+- Electro-Canon → Lightning Cannon
+- Fusil Pulsar / Fusil à Pulsar → Pulsar-Fusil
+- Canon Graviton Lourd → Heavy Grav-Cannon
+- Rayon Icarus → Icarus Array
+- Rayon Eradicateur / Erradicateur → Eradication Beamer
+- Lanceur Multiples → Multiple Launcher
+- Multi-Lanceurs → Multi-Launchers
+- Canons d'Assaut Lourds → Heavy Assault Cannons
+- Canon Nova → Nova Cannon
+- Missiles Hellfire / Feu d'Enfer → Hellfire Missiles
+- Disrupteur Sonique → Sonic Disruptor
+- Sismo-Canon → Quake Cannon
+- Destructeur Turbo-Laser → Turbo-Laser Destructor
+- Detructeur / Destructeur à Graviton → Graviton Destroyer
+- Canon Lasers Jumelés / Canons Laser → Twin Lascannons
+- Canon Laser L Jumelés / Canon Laser Lourd Jumelés → Twin Heavy Lascannon
+- Obusiers / Obusiers Gauche → Howitzers
+- Maître Calculateur → Master Calculator
+- Polyvalent → Versatile
+- Armes à Plasma → Plasma Weapon
+- Cloche de Dévotion / Cloche de la Dévotion → Devotion Bell
+- Griffe d'Ursus → Ursus Claw
+- Missile Harpon → Harpoon Missile
+- Déflagration Volkite → Volkite Deflagration
+- Machine Dieu → Machine God
+- Sortie Fouisseuse / Sortie de Fouisseuse → Hellbore Emergence
+- Land Speeder de Reconnaissance → Reconnaissance Land Speeder
+- Module d’Atterrissage de Carapace → Carapace Landing Module
+
+Resolved Rulebook conflicts (NetEpic Palladium Règles v3.1.0):
+
+- 1–14: keep both French writings; print (Inc) at each conflicting place
+- 1: (Inc) on the page 10 phase-summary on-table line and on the off-table order clause
+- 2: (Inc) on the page 10 End Phase summary and on the page 20 Capture Objectives step
+- 3: (Inc) on consolidation formation coherency (page 14) and on Impacted/Broken formation (page 21)
+- 4: (Inc) on control / secure / capture in Capture Objectives (page 20)
+- 5: (Inc) on the page 24 river “no other base may cross” sentence and on the page 25 River infantry cell
+- 6: (Inc) on the page 24 Marsh Dangerous sentence and on the page 25 Marsh Dangerous cells
+- 7: (Inc) on the page 24 Barricade paragraph and on the page 25 Barricade armour / Wounds / Occulting cells
+- 8: (Inc) on the page 23 forests-as-Difficult example and on the page 25 Forest movement cells
+- 9: (Inc) on the page 24 Dragon's Teeth paragraph and on the page 25 5+/2 Wounds and Knights Difficult cells
+- 10: (Inc) on cover, garrison AF, and Vehicles in the page 24 Emplacement text and the page 25 table
+- 11: (Inc) on Firing Position (X) (page 30)
+- 12: (Inc) on the Antigrav ZOC paragraph (page 26) and the Jump Packs ZOC paragraph (page 31)
+- 13: (Inc) on the Assault Engagement ZOC exception (page 12)
+- 14: (Inc) on Hard to Hit and Camouflage in the Attached Character list (page 30)
+- 1A–11A: GW English names; Jump Packs / Daemon Hunters / Energy Shields / Organic Metal / Occulting / Autonomous Defence / Dragon's Teeth / Barbed Hierodule; altitude not attitude; fix grammar
 
 Inspect `.tex` files, not compiled English PDFs.
 
